@@ -15,12 +15,26 @@ def extract_text_from_pdf(pdf_path):
 # ---------- STEP 2: Parse transcript ----------
 def parse_transcript(text):
     # Example regex for course: "COMP 101 - Intro to CS A"
-    pattern = r"\b[A-Z]{4}([0-9]{4})?\b"
-    # print("pattern", pattern)
-    results = re.findall(pattern, text)
-    print("results", results)
-    #df = pd.DataFrame(results, columns=["course_code", "course_name", "grade"])
-    return 0
+    pattern = r'\b([A-Z]{4}\s?[0-9]{4})\s+(.+)'
+    #  \b[A-Z]{4}\s?[0-9]{4}\b
+
+    # courses = []
+    # with open(text, "r", encoding="utf-8") as f:
+    #     for line in f:
+    #         line = line.strip()
+    #         match = re.match(pattern, line)   
+    #         if match:
+    #             code = match.group(1)      # course code
+    #             name = match.group(2)      # course name
+    #             total_credits = match.group(3)   # credits
+    #             grade = match.group(4)     # letter grade
+    #             gpa_grade = match.group(5)    # GPA points
+    #             courses.append((code, name, total_credits, grade, gpa_grade))
+    
+    course_code = re.findall(pattern, text)
+    print("results", course_code)
+    #df = pd.DataFrame(courses, columns=["course_code", "course_name", "total credits", "grade", "gpa_grade"])
+
 
 # ---------- STEP 3: Convert to GPA ----------
 grade_scale = {
@@ -76,15 +90,15 @@ def chatbot(student_id):
 # ---------- DEMO ----------
 if __name__ == "__main__":
     text = extract_text_from_pdf("transcript.pdf")
-    print(text)
+    # print(text)
     df = parse_transcript(text)
-    print(df)
+    # print(df)
     # gpa = compute_gpa(df)
     # save_to_db("John Doe", df, gpa)
     
-    chatbot(1)
+    # chatbot(1)
 
-    #currently stuck at parse transcript, nothing beinf populated in the results list
+    #currently stuck at parse transcript, nothing being populated in the results list
 
 
 # make electives table 
