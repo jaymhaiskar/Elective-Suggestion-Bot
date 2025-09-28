@@ -1,1 +1,39 @@
 "# Elective-Suggestion-Bot" 
+
+Reccomendations: Download your unofficial transcript from your MyCapU acc and upload it here, if you have a scanned copy of a transcript from your previous uni/seconday school, please make sure the text is "grabable". For ex, open the pdf in Adobe Acrobat, then try to grab the text, if you can't this bot won't work. If you can grab the text, copy and paste it into a notepad to ensure the text can be reforamtted.
+
+
+Journey mapping:
+- started w/ Lake Washington High School Trasncript.
+- then uploaded official capilano transcript, didn't work because the scanned pdf had a png inside, therefore no text extraction form pdf.
+- downloaded unofficial CapU transcript and text was grabable. 
+- regex doesn't take into account transfer credit due to different formatting
+ex) Transferred: Subject, Course Title, Grade, Credit Hours, Quality Points (CMNS 152 Business Communications Basics TC+ 3.000 0.00)
+    Non Transferred: Subject, Course, Level, Title, Grade  (BIOL 109 01 Introductory Biology B-)
+
+
+List of course codes for extract_courses.sh :
+ACTR, ASAS, BBIO, BCHM, BCMP, BENG, BFPS, BENF, BMAF, BGEO, BHST, BMTH, BPHY, BPSY, BSCI, BSOC, ADVR, ANIM, ANAR, ANTH, ABA, AHIS, AEM, ASTR, BPAC, BECP, BIOL, BADM, BCPT, BUES, BFIN, BMKT, BTEC, CSFF, CAPS, CACC, CACE, CACL, CACF, CACM, CACO, CACS, CACT, CDCO, CDEN, CDMA, CECP, CHEM, CHIN, CINE, CMNS, CLSC, COMP, COND, COST, CRIM, DSGN, DIGI, DEP, DOCS, EDUC, ECON, EDCP, EA, EEA, APSC, ENGL, EAL, ESL, EAP, EAS, ENSM, ELCT, ENSO, FDSC, FINS, FILM, FNST, FNLG, FYS, FREN, GATE, GEOG, GLBS, GRDF, HCA, HIST, HKIN, IDF, IDST, IBUS, IXD, INTS, INMA, IVPA, JAPN, ENSJ, JAZZ, KINE, SDS, LGST, LAW, LBST, ELDF, LING, PADM, MATH, MOPA, MUS, MT, MUTH, NABU, REC, PHIL, PHYS, POL, PPMI, PMIP, PMI, PMTI, PSYC, RADP, RMCP, SCI, SOSC, SOC, SPAN, STAT, SAAB, SABA, SACM, SAEC, SAHU, SAID, SAJS, SALS, SALA, SAMP, SASS, SATO, TECT, TXTL, THTR, INST, TOUR, UOF, USSD, USS, VISN, IDES, VFX, WLP, WGST, WMPI
+
+
+Structure for students database:
+CREATE TABLE students (
+    id INTEGER PRIMARY KEY,
+    name TEXT NOT NULL,
+    gpa REAL
+);
+
+
+CREATE TABLE courses (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    student_id INTEGER NOT NULL,
+    course_code TEXT NOT NULL,
+    course_name TEXT NOT NULL,
+    grade TEXT,
+    gpa_points REAL,
+    FOREIGN KEY (student_id) REFERENCES students(id)
+);
+
+
+Questions for Jason
+
