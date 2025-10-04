@@ -51,8 +51,8 @@ def save_to_db(student_name, student_id, df, gpa):
     c = conn.cursor()
 
     print(student_id, student_name, gpa)
-    # need to ask for student name and student id
-    c.execute("INSERT INTO students (id, name, gpa) VALUES (?,?)", (student_id, student_name, gpa))
+
+    c.execute("INSERT INTO students (id, name, gpa) VALUES (?,?,?)", (student_id, student_name, gpa))
 
     for _, row in df.iterrows():
         c.execute("INSERT INTO courses (student_id, course_code, course_name, grade, gpa_points) VALUES (?,?,?,?,?)",
