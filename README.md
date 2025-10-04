@@ -23,17 +23,22 @@ CREATE TABLE students (
     gpa REAL
 );
 
-
+MAKE EDIT TO TABLE
 CREATE TABLE courses (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
-    student_id INTEGER NOT NULL,
     course_code TEXT NOT NULL,
     course_name TEXT NOT NULL,
-    grade TEXT,
-    gpa_points REAL,
-    FOREIGN KEY (student_id) REFERENCES students(id)
+    recommended_gpa REAL,
 );
 
 
 Questions for Jason
+
+in the save_to_db function I get the error: c.execute("INSERT INTO students (id, name, gpa) VALUES (?,?)", (student_id, student_name, gpa))
+sqlite3.OperationalError: 2 values for 3 columns
+
+discuss table structure w/ Jason
+- students
+- courses
+- electives
 
