@@ -40,5 +40,15 @@ sqlite3.OperationalError: 2 values for 3 columns
 discuss table structure w/ Jason
 - students
 - courses
-- electives
+
+data cleaning for course code and course description extracted"
+&rsquo; &#8208; &quot; &reg; &ndash; &eacute; &amp; &mdash; s&#601;&#787;lil&#787;w&#601;t/  &iacute; 
+&uacute; &aacute; &egrave; &lsquo; &ograve; &rdquo; &ldquo;
+
+Asked AI to give recommended gpa for each course
+Course codes starting with 1 (e.g., actr-100, asas-110) → very low GPAs like 1.8–2.1. 
+Course codes starting with 2 (e.g., actr-200, asas-210) → still low, but slightly higher, 2.0–2.3. 
+Course codes starting with 3 → 2.4–2.7. 
+Course codes starting with 4 → 2.5–3.0. 
+Course codes starting with 5+ → 2.8–3.5.
 

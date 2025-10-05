@@ -56,7 +56,7 @@
 #!/bin/bash
 
 # List of course codes (add more as needed)
-course_codes=("ACTR" "ASAS" "BBIO" "BCHM" "BCMP")
+course_codes=("actr" "asas" "bbio" "bchm" "bcmp" "beng" "bfps" "benf" "bmaf" "bgeo" "bhst" "bmth" "bphy" "bpsy" "bsci" "bsoc" "advr" "anim" "anar" "anth" "aba" "ahis" "aem" "astr" "bpac" "becp" "biol" "badm" "bcpt" "bues" "bfin" "bmkt" "btec" "csff" "caps" "cacc" "cace" "cacl" "cacf" "cacm" "caco" "cacs" "cact" "cdco" "cden" "cdma" "cecp" "chem" "chin" "cine" "cmns" "clsc" "comp" "cond" "cost" "crim" "dsgn" "digi" "dep" "docs" "educ" "econ" "edcp" "ea" "eea" "apsc" "engl" "eal" "esl" "eap" "eas" "ensm" "elct" "enso" "fdsc" "fins" "film" "fnst" "fnlg" "fys" "fren" "gate" "geog" "glbs" "grdf" "hca" "hist" "hkin" "idf" "idst" "ibus" "ixd" "ints" "inma" "ivpa" "japn" "ensj" "jazz" "kine" "sds" "lgst" "law" "lbst" "eldf" "ling" "padm" "math" "mopa" "mus" "mt" "muth" "nabu" "rec" "phil" "phys" "pol" "ppmi" "pmip" "pmi" "pmti" "psyc" "radp" "rmcp" "sci" "sosc" "soc" "span" "stat" "saab" "saba" "sacm" "saec" "sahu" "said" "sajs" "sals" "sala" "samp" "sass" "sato" "tect" "txtl" "thtr" "inst" "tour" "uof" "ussd" "uss" "visn" "ides" "vfx" "wlp" "wgst" "wmpi")
 
 # Clear output file
 > final.txt

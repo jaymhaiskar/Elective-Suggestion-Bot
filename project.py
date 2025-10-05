@@ -8,7 +8,17 @@ import pdfplumber
 # hook in to openAI API, upload pdf to openAI return, file format that u want to use if returned
 # document both stategies for final paper (regex vs AI)
 
-
+# Global Variable
+grade_scale = {
+    "A+": 4.33, "A": 4.0, "A-": 3.67,
+    "B+": 3.33, "B": 3.0, "B-": 2.67,
+    "C+": 2.33, "C": 2.0, "C-": 1.67,
+    "D": 1.0, "F": 0.0, "W": 0.0,
+    "TA+": 4.33, "TA": 4.0, "TA-": 3.67,
+    "TB+": 3.33, "TB": 3.0, "TB-": 2.67,
+    "TC+": 2.33, "TC": 2.0, "TC-": 1.67,
+    "TD": 1.0, "TF": 0.0, "TW": 0.0
+    }
 # ---------- STEP 1: Parse transcript ----------
 def parse_transcript(pdf_path):
     # Example regex for course: "COMP 101 - Intro to CS A"
@@ -29,21 +39,30 @@ def parse_transcript(pdf_path):
                     course_name = match.group(2).strip()
                     grade = match.group(3)
                     courses.append((course_num, course_name, grade))
-    
+ 
+
     df= pd.DataFrame(courses, columns=["course_code", "course_name", "letter_grade"])
+
+    df["gpa_points"] = df["letter_grade"].map(grade_scale)
     return df
     
 # ---------- STEP 2: Convert to GPA ----------
-grade_scale = {
-    "A+": 4.33, "A": 4.0, "A-": 3.67,
-    "B+": 3.33, "B": 3.0, "B-": 2.67,
-    "C+": 2.33, "C": 2.0, "C-": 1.67,
-    "D": 1.0, "F": 0.0, "W": 0.0
-}
 
 def compute_gpa(df):
     df["gpa_points"] = df["letter_grade"].map(grade_scale)
+    # print(df)
     return df["gpa_points"].mean()
+
+def subject_grouping(df):
+    # Extract subject prefix (first 4 chars of course_code)
+    df_student_subject= pd.DataFrame(columns=["subject", "gpa"])
+    df_student_subject["subject"] = df["course_code"].str[:4]
+    df_student_subject["gpa"] = df["gpa_points"]
+
+    # Group by subject and compute mean GPA
+    df_student_subject = df_student_subject.groupby("subject")["gpa"].mean().reset_index()
+    df_student_subject.rename(columns={"gpa": "mean_gpa"}, inplace=True)
+    # print(df_student_subject)
 
 # ---------- STEP 3: Store in SQL ----------
 def save_to_db(student_name, student_id, df, gpa):
@@ -65,6 +84,7 @@ def recommend_electives(student_id):
 
 # use sci kit learn or pass to ChatGPT API
 # talk about the three different types of AI, rule based, gen AI, and machine learning (test)
+# CHANGE TABLE NAMES TO FIT NEW TABLE STRUCTURE, NO TABLE ELECTIVES
 
     conn = sqlite3.connect("students.db")
     df_courses = pd.read_sql_query(f"SELECT * FROM courses WHERE student_id={student_id}", conn)
@@ -93,14 +113,15 @@ def recommend_electives(student_id):
 # ---------- DEMO ----------
 if __name__ == "__main__":
     # For save to database function
-    student_name = input("Please enter your name: ")
-    student_id = int(input("Please enter your student id: "))
+    # student_name = input("Please enter your name: ")
+    # student_id = int(input("Please enter your student id: "))
     # print(text)
     df = parse_transcript("capilano_unofficial_transcript.pdf")
-    # print(df)
-    gpa = compute_gpa(df)
-    print(gpa)
-    save_to_db(student_name, student_id, df, gpa)
+    df_student_subject = subject_grouping(df)
+    print(df)
+    # gpa = compute_gpa(df)
+    # print(gpa)
+    #save_to_db(student_name, student_id, df, gpa)
     
     # chatbot(1)
 
