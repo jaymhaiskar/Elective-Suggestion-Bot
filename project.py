@@ -25,12 +25,13 @@ def parse_transcript(pdf_path):
     courses = []
 # Open and read PDF
     with pdfplumber.open(pdf_path) as pdf:
-        print("Inside with statement")
+        # print("Inside with statement")
         for page in pdf.pages:
-            print("Inside first for loop")
+            # print("Inside first for loop")
             text = page.extract_text()
             # print(text)
             for line in text.splitlines():
+                print(line)
                 # Regex for lines with course info, ignores transfer credit
                 match = re.match(r"^([A-Z]{2,4}\s\d{3})\s+(.+?)\s+([A-Z]{1,3}[+-]?)\s+(\d\.\d{3})\s+(\d+\.\d{2})$", line)
                 # print("match", match)
@@ -62,39 +63,43 @@ def subject_grouping(df):
     # Group by subject and compute mean GPA
     df_student_subject = df_student_subject.groupby("subject")["gpa"].mean().reset_index()
     df_student_subject.rename(columns={"gpa": "mean_gpa"}, inplace=True)
+
+    return df_student_subject
     # print(df_student_subject)
 
 # ---------- STEP 3: Store in SQL ----------
-def save_to_db(student_name, student_id, df, gpa):
-    conn = sqlite3.connect("students.db")
-    c = conn.cursor()
+# def save_to_db(student_name, student_id, df, gpa):
+#     conn = sqlite3.connect("students.db")
+#     c = conn.cursor()
 
-    print(student_id, student_name, gpa)
+#     print(student_id, student_name, gpa)
 
-    c.execute("INSERT INTO students (id, name, gpa) VALUES (?,?,?)", (student_id, student_name, gpa))
+#     c.execute("INSERT INTO students (id, name, gpa) VALUES (?,?,?)", (student_id, student_name, gpa))
 
-    for _, row in df.iterrows():
-        c.execute("INSERT INTO courses (student_id, course_code, course_name, grade, gpa_points) VALUES (?,?,?,?,?)",
-                  (student_id, row.course_code, row.course_name, row.grade, row.gpa_points, ))
-    conn.commit()
-    conn.close()
+#     for _, row in df.iterrows():
+#         c.execute("INSERT INTO courses (student_id, course_code, course_name, grade, gpa_points) VALUES (?,?,?,?,?)",
+#                   (student_id, row.course_code, row.course_name, row.grade, row.gpa_points, ))
+#     conn.commit()
+#     conn.close()
 
 # ---------- STEP 4: Recommend electives ----------
-def recommend_electives(student_id):
+def recommend_electives(gpa):
 
 # use sci kit learn or pass to ChatGPT API
 # talk about the three different types of AI, rule based, gen AI, and machine learning (test)
-# CHANGE TABLE NAMES TO FIT NEW TABLE STRUCTURE, NO TABLE ELECTIVES
+
 
     conn = sqlite3.connect("students.db")
-    df_courses = pd.read_sql_query(f"SELECT * FROM courses WHERE student_id={student_id}", conn)
-    df_electives = pd.read_sql_query("SELECT * FROM electives", conn)
+    df_courses = pd.read_sql_query(f"SELECT * FROM courses", conn)
+    # df_electives = pd.read_sql_query("SELECT * FROM electives", conn)
     
     # Simple rule: recommend electives in categories where student did well
-    avg_gpa = df_courses["gpa_points"].mean()
-    recommended = df_electives[df_electives["difficulty_level"] <= avg_gpa + 0.5]
+    # avg_gpa = gpa
+    recommended = df_courses[df_courses["recommended_gpa"] <= gpa + 0.3]
+
+    # make it so students can sort by year
     
-    return recommended.sort_values("difficulty_level")
+    return recommended
 
 # ---------- STEP 5: Chatbot interaction ----------
 # def chatbot(student_id):
@@ -117,9 +122,11 @@ if __name__ == "__main__":
     # student_id = int(input("Please enter your student id: "))
     # print(text)
     df = parse_transcript("capilano_unofficial_transcript.pdf")
-    df_student_subject = subject_grouping(df)
-    print(df)
-    # gpa = compute_gpa(df)
+    df_student_subject = subject_grouping(df) 
+    # print(df)
+    gpa = compute_gpa(df)
+    answer = recommend_electives(gpa)
+    # print(answer)
     # print(gpa)
     #save_to_db(student_name, student_id, df, gpa)
     

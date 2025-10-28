@@ -27,15 +27,9 @@ MAKE EDIT TO TABLE
 CREATE TABLE courses (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     course_code TEXT NOT NULL,
-    course_name TEXT NOT NULL,
-    recommended_gpa REAL,
+    course_description TEXT NOT NULL,
+    recommended_gpa REAL
 );
-
-
-Questions for Jason
-
-in the save_to_db function I get the error: c.execute("INSERT INTO students (id, name, gpa) VALUES (?,?)", (student_id, student_name, gpa))
-sqlite3.OperationalError: 2 values for 3 columns
 
 discuss table structure w/ Jason
 - students
@@ -52,3 +46,34 @@ Course codes starting with 3 → 2.4–2.7.
 Course codes starting with 4 → 2.5–3.0. 
 Course codes starting with 5+ → 2.8–3.5.
 
+Questions for Jason
+
+RESOLVED: in the save_to_db function I get the error: c.execute("INSERT INTO students (id, name, gpa) VALUES (?,?)", (student_id, student_name, gpa))
+sqlite3.OperationalError: 2 values for 3 columns 
+
+
+
+Talk about the essay, what opinion should I focus on for this paper.
+
+is scikit learn worth it? it needs training data
+
+
+Link to get to specific degrees and then courses within degrees
+https://www.capilanou.ca/programs--courses/program-profiles/ program-degree / ?&tab=tab-program-courses
+
+
+1. ask student what is their preference eg. science, math, etc.
+- group program code as per interest
+2. extract only those courses
+- put interest based courses in list
+3. then use ChatGPT API to pass said courses and their transcript, and prerequisites to get back a course list
+- edit database so that pre requisites show per course
+- have prerequisite and interest based filtering
+
+4. ask users was this helpful or not and then use that as training data
+
+new courses table setup
+course code
+course title CAPITAL (DELETE)
+course title
+Prerequisites
