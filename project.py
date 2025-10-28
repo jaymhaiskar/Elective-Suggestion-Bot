@@ -1,14 +1,10 @@
-import pandas as pd
-import sqlite3
-import PyPDF2
+import os
 import re
 import pdfplumber
+import pandas as pd
+from openai import OpenAI
 
-# Write more on: show example where input -> output 
-# hook in to openAI API, upload pdf to openAI return, file format that u want to use if returned
-# document both stategies for final paper (regex vs AI)
-
-# Global Variable
+# ---------- Global Variables ----------
 grade_scale = {
     "A+": 4.33, "A": 4.0, "A-": 3.67,
     "B+": 3.33, "B": 3.0, "B-": 2.67,
@@ -18,124 +14,169 @@ grade_scale = {
     "TB+": 3.33, "TB": 3.0, "TB-": 2.67,
     "TC+": 2.33, "TC": 2.0, "TC-": 1.67,
     "TD": 1.0, "TF": 0.0, "TW": 0.0
-    }
+}
+
+# Mapping of interest areas to course code prefixes
+#EXPAND to fit all courses
+INTEREST_MAPPING = {
+    "science": ["BIOL", "CHEM", "ASTR", "PHYS", "SCI", "ENSO"],
+    "math": ["MATH", "STAT"],
+    "technology": ["COMP", "APSC", "BCPT", "IXD", "DIGI", "VFX"],
+    "business": ["BADM", "BFIN", "BMKT", "IBUS", "NABU", "BTEC", "TOUR", "PADM"],
+    "arts": ["AHIS", "DSGN", "IDES", "COST", "TXTL"],
+    "film & media": ["MOPA", "DOCS", "IDF", "FILM", "ANIM", "ANAR", "CINE"],
+    "music": ["JAZZ", "MUS", "ENSM", "ENSJ", "MUTH", "MT", "COND", "PMIP", "PPMI", "PMTI", "WMPI"],
+    "theatre & performance": ["THTR", "ACTR", "ASAS", "MUTH", "TECT", "BPAC"],
+    "communications": ["CMNS", "ADVR", "BMKT"],
+    "humanities": ["ENGL", "HIST", "PHIL", "LING", "FREN", "SPAN", "CHIN", "JAPN", "FNST", "FNLG"],
+    "social sciences": ["PSYC", "SOC", "ANTH", "POL", "GEOG", "WGST", "CRIM", "GLBS"],
+    "education": ["EDUC", "EA", "KINE"],
+    "health & wellness": ["KINE", "BIOL", "HCA", "RADP", "ABA", "MT"],
+    "law & legal studies": ["LAW", "LGST", "CRIM"],
+    "outdoor recreation": ["REC", "WLP", "TOUR"],
+    "environment & sustainability": ["ENSO", "GEOG", "BIOL", "REC", "TOUR"],
+    "indigenous studies": ["FNST", "FNLG", "IDST", "IDF", "ENSO"],
+    "interdisciplinary": ["INTS", "LBST", "CAPS", "FYS", "IVPA", "SOSC"]
+}
+
+COURSE_CATALOG_PATH = "course_catalog.csv"
 # ---------- STEP 1: Parse transcript ----------
 def parse_transcript(pdf_path):
-    # Example regex for course: "COMP 101 - Intro to CS A"
+    """Extracts course info from transcript PDF using regex."""
     courses = []
-# Open and read PDF
     with pdfplumber.open(pdf_path) as pdf:
-        # print("Inside with statement")
         for page in pdf.pages:
-            # print("Inside first for loop")
             text = page.extract_text()
-            # print(text)
             for line in text.splitlines():
-                print(line)
-                # Regex for lines with course info, ignores transfer credit
-                match = re.match(r"^([A-Z]{2,4}\s\d{3})\s+(.+?)\s+([A-Z]{1,3}[+-]?)\s+(\d\.\d{3})\s+(\d+\.\d{2})$", line)
-                # print("match", match)
+                # Example line: COMP 101 Intro to CS A 3.000 4.00
+                match = re.match(
+                    r"^([A-Z]{2,4}\s\d{3})\s+(.+?)\s+([A-Z]{1,3}[+-]?)\s+\d\.\d{3}\s+\d+\.\d{2}$", 
+                    line
+                )
                 if match:
-                    course_num = match.group(1)
+                    course_code = match.group(1).strip()
                     course_name = match.group(2).strip()
-                    grade = match.group(3)
-                    courses.append((course_num, course_name, grade))
- 
+                    grade = match.group(3).strip()
+                    courses.append((course_code, course_name, grade))
 
-    df= pd.DataFrame(courses, columns=["course_code", "course_name", "letter_grade"])
-
+    df = pd.DataFrame(courses, columns=["course_code", "course_name", "letter_grade"])
     df["gpa_points"] = df["letter_grade"].map(grade_scale)
     return df
+
+def get_student_interests():
+    """Prompt student to enter their interests"""
+    print("\nAvailable interest areas:")
+    for i, interest in enumerate(INTEREST_MAPPING.keys(), 1):
+        print(f"{i}. {interest.title()}")
     
-# ---------- STEP 2: Convert to GPA ----------
-
-def compute_gpa(df):
-    df["gpa_points"] = df["letter_grade"].map(grade_scale)
-    # print(df)
-    return df["gpa_points"].mean()
-
-def subject_grouping(df):
-    # Extract subject prefix (first 4 chars of course_code)
-    df_student_subject= pd.DataFrame(columns=["subject", "gpa"])
-    df_student_subject["subject"] = df["course_code"].str[:4]
-    df_student_subject["gpa"] = df["gpa_points"]
-
-    # Group by subject and compute mean GPA
-    df_student_subject = df_student_subject.groupby("subject")["gpa"].mean().reset_index()
-    df_student_subject.rename(columns={"gpa": "mean_gpa"}, inplace=True)
-
-    return df_student_subject
-    # print(df_student_subject)
-
-# ---------- STEP 3: Store in SQL ----------
-# def save_to_db(student_name, student_id, df, gpa):
-#     conn = sqlite3.connect("students.db")
-#     c = conn.cursor()
-
-#     print(student_id, student_name, gpa)
-
-#     c.execute("INSERT INTO students (id, name, gpa) VALUES (?,?,?)", (student_id, student_name, gpa))
-
-#     for _, row in df.iterrows():
-#         c.execute("INSERT INTO courses (student_id, course_code, course_name, grade, gpa_points) VALUES (?,?,?,?,?)",
-#                   (student_id, row.course_code, row.course_name, row.grade, row.gpa_points, ))
-#     conn.commit()
-#     conn.close()
-
-# ---------- STEP 4: Recommend electives ----------
-def recommend_electives(gpa):
-
-# use sci kit learn or pass to ChatGPT API
-# talk about the three different types of AI, rule based, gen AI, and machine learning (test)
-
-
-    conn = sqlite3.connect("students.db")
-    df_courses = pd.read_sql_query(f"SELECT * FROM courses", conn)
-    # df_electives = pd.read_sql_query("SELECT * FROM electives", conn)
+    print("\nEnter your interests (comma-separated numbers or names):")
+    print("Example: 1,3 or science,arts")
+    user_input = input("> ").strip()
     
-    # Simple rule: recommend electives in categories where student did well
-    # avg_gpa = gpa
-    recommended = df_courses[df_courses["recommended_gpa"] <= gpa + 0.3]
-
-    # make it so students can sort by year
+    # Parse input
+    selected_interests = []
+    for item in user_input.split(','):
+        item = item.strip().lower()
+        # Check if it's a number
+        if item.isdigit():
+            idx = int(item) - 1
+            if 0 <= idx < len(INTEREST_MAPPING):
+                selected_interests.append(list(INTEREST_MAPPING.keys())[idx])
+        # Check if it's a valid interest name
+        elif item in INTEREST_MAPPING:
+            selected_interests.append(item)
     
-    return recommended
+    return selected_interests
 
-# ---------- STEP 5: Chatbot interaction ----------
-# def chatbot(student_id):
-#     print("Hello! Ask me about your elective recommendations. Please type 'quit' or 'exit' to end the conversation")
-#     while True:
-#         q = input("You: ")
-#         if "electives" in q.lower():
-#             recs = recommend_electives(student_id)
-#             print("Bot: Here are electives I think you'd be good at:")
-#             print(recs[["elective_code", "elective_name"]].to_string(index=False))
-#         elif q.lower() in ["quit", "exit"]:
-#             break
-#         else:
-#             print("Bot: I can help you with elective advice. Try asking me about electives!")
+def filter_courses_by_interest(interests):
+    """Filter courses from final2.txt based on student interests and return as DataFrame"""
+    # Get all relevant course codes
+    relevant_codes = []
+    for interest in interests:
+        relevant_codes.extend(INTEREST_MAPPING.get(interest, []))
+    
+    # Remove duplicates
+    relevant_codes = list(set(relevant_codes))
+    
+    # Read course catalog and parse into DataFrame
+    # Assuming format: COURSE_CODE\tCOURSE_DESCRIPTION\tRECOMMENDED_GPA\t...
+    df = pd.read_csv(COURSE_CATALOG_PATH, sep=',', header=0, 
+                     names=["course_code", "course_name", "prerequisites"])
+    
+    # Filter rows where course_code starts with any relevant code
+    filtered_df = df[df['course_code'].str.startswith(tuple(relevant_codes))]
+    
+    return filtered_df
+    print("inside function", filtered_df)
 
-# ---------- DEMO ----------
+
+# ---------- STEP 3: AI Recommendations ----------
+def get_ai_recommendations(student_df, filtered_df):
+    """Passes transcript + filtered courses to OpenAI for elective recommendations."""
+    api_key = os.getenv("OPENAI_API_KEY")
+    if not api_key:
+        raise ValueError("OPENAI_API_KEY is not set in the environment.")
+    client = OpenAI(api_key=api_key)
+
+    student_json = student_df.to_json(orient="records", indent=2)
+    filtered_json = filtered_df.to_json(orient="records", indent=2)
+
+    prompt = f"""
+    You are an AI academic advisor specializing in course recommendations..
+
+    Their completed transcript:
+    {student_json}
+
+    The available courses that match their interest:
+    {filtered_json}
+
+    Please recommend 5 courses they should take next, factoring in:
+    1. Which courses they’ve already completed.
+    2. Any courses where prerequisites are satisfied.
+    3. Focus on courses that are newly unlocked because of prerequisites.
+    4. Then recommend other advanced or related electives from the list.
+
+    For each recommendation, explain briefly *why* it fits (e.g., "You’ve completed BIOL 101, so BIOL 210 is now available.").
+    """
+
+    response = client.chat.completions.create(
+        model="gpt-5",
+        messages=[
+            {"role": "system", "content": "You are an AI academic advisor helping students pick electives."},
+            {"role": "user", "content": prompt}
+        ]
+    )
+
+    return response.choices[0].message.content
+
+
+# ---------- MAIN EXECUTION ----------
 if __name__ == "__main__":
-    # For save to database function
-    # student_name = input("Please enter your name: ")
-    # student_id = int(input("Please enter your student id: "))
-    # print(text)
-    df = parse_transcript("capilano_unofficial_transcript.pdf")
-    df_student_subject = subject_grouping(df) 
-    # print(df)
-    gpa = compute_gpa(df)
-    answer = recommend_electives(gpa)
-    # print(answer)
-    # print(gpa)
-    #save_to_db(student_name, student_id, df, gpa)
+    pdf_path = "transcript.pdf"
+
+    # Step 1: Ask student for their interest
+    # interest = input("What area are you most interested in (e.g., science, math, computing, arts, business)? ")
+
+    # Step 2: Parse transcript and save student data
+    df_student = parse_transcript(pdf_path)
+    print("\n✅ Transcript parsed successfully.")
+    print(df_student.head())
+
+    # Step 3: Filter catalog by interest
+    interests = get_student_interests()
+    print(f"\nYou selected: {', '.join([i.title() for i in interests])}")
     
-    # chatbot(1)
+    # Filter courses based on interests
+    print("\nFiltering courses based on your interests...")
+    filtered_courses = filter_courses_by_interest(interests)
+    
+    # Save filtered courses
+    with open("filtered_courses.txt", "w") as f:
+        f.write("\n".join(filtered_courses))
+    
+    print(f"Found {len(filtered_courses)} courses matching your interests.")
 
-
-
-# make electives table 
-# check grade scale
-# check for loop in def save_to_db(student_name, df, gpa), does studentid update? where are you getting info for all other variables?
-# check logic in recommend_electives(student_id):
-# check logic in chatbot
+    # Step 4: Get AI recommendations
+    print("\n🤖 Generating personalized elective recommendations...\n")
+    recommendations = get_ai_recommendations(df_student, filtered_courses)
+    print(recommendations)
