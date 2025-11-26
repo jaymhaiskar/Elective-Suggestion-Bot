@@ -1,0 +1,2361 @@
+ACTR-100|Acting I|
+ACTR-101|Acting II|
+ACTR-200|Acting III|ACTR 100 (B+) or THTR 130 (B+); and ENGL 100
+ACTR-201|Acting IV|ACTR 200
+ACTR-304|Special Skills for the Performer I|ACTR 201 and ENGL 100
+ACTR-305|Special Skills for the Performer II|ACTR 304
+ASAS-105|Voice and Movement for the Actor I|
+ASAS-110|Screen Acting I|
+ASAS-114|The Screen Actor's Process I|
+ASAS-115|Voice for the Actor I|ASAS 105
+ASAS-116|Movement for the Actor I|ASAS 105
+ASAS-120|Elements of Performance History I|
+ASAS-161|Ensemble Projects for the Stage I|ACTR 100 or THTR 130; and THTR 160
+ASAS-162|Screen Projects I|
+ASAS-190|Practicum I|
+ASAS-191|Practicum II|
+ASAS-192|Practicum III|
+ASAS-193|Practicum IV|
+ASAS-194|Practicum V|
+ASAS-195|Practicum VI|
+ASAS-208|Performance I|ASAS 161 and ENGL 100
+ASAS-210|Screen Acting II|ASAS 110
+ASAS-214|The Screen Actor's Process II|ASAS 114 and ENGL 100
+ASAS-215|Voice for the Actor II|ASAS 115 and ENGL 100
+ASAS-216|Movement for the Actor II|ASAS 116 and ENGL 100
+ASAS-218|VOICE|Musical Theatre for Actors - Voice
+ASAS-219|DANCE|Musical Theatre for Actors - Dance
+ASAS-220|Elements of Performance History II|
+ASAS-225|Voice for the Actor III|ASAS 215
+ASAS-226|Movement for the Actor III|ASAS 216
+ASAS-260|Analysis for Directing and Design|ASAS 161 and ENGL 100
+ASAS-261|Ensemble Projects for the Stage II|ASAS 260 or THTR 260
+ASAS-262|Screen Projects II|ASAS 162
+ASAS-290|Practicum VII|Completion of 3 credits from:  ASAS 190-195 or THTR 190-195 series
+ASAS-291|Practicum VIII|Completion of 3 credits from:  ASAS 190-195 or THTR 190-195 series
+ASAS-292|Practicum IX|Completion of 3 credits from:  ASAS 190-195 or THTR 190-195 series
+ASAS-293|Practicum X|Completion of 3 credits from:  ASAS 190-195 or THTR 190-195 series
+ASAS-294|Practicum XI|Completion of 3 credits from:  ASAS 190-195 or THTR 190-195 series
+ASAS-295|Practicum XII|Completion of 3 credits from:  ASAS 190-195 or THTR 190-195 series
+ASAS-302|Graduation Showcase|ENGL 100, ACTR 304, ASAS 225, ASAS 226, ASAS 341 and ASAS 370
+ASAS-321|Conceptual Approaches I|ASAS 220
+ASAS-328|Performance IV|ACTR 304 and ASAS 329
+ASAS-329|Theatre Performance|ACTR 201, ASAS 208 and 261
+ASAS-340|The Actor's Kit|ACTR 304 and ENGL 100
+ASAS-341|The Screen Actor's Process III|ASAS 214
+ASAS-362|Screen Projects III|ASAS 262
+ASAS-370|The Actor's Business|ACTR 200 and ASAS 261
+ASAS-390|Performance Project I|
+ASAS-391|Performance Project II|ASAS 390 is a prerequisite or co-requisite
+ASAS-392|Performance Project III|ASAS 390 and 391 are prerequisites or co-requisites
+BBIO-036|ABE Intermediate Biology|
+BBIO-043|ABE Advanced Biology I|BBIO 036 or ABE Biology Assessment (043)
+BBIO-044|ABE Advanced Biology II|BBIO 043 (B-)
+BBIO-053|ABE Provincial Biology I|BBIO 036 or ABE Biology Assessment (053)
+BBIO-054|ABE Provincial Biology II|BBIO 053 (B-)
+BCHM-036|ABE Intermediate Chemistry|
+BCHM-043|ABE Advanced Chemistry I|BCHM 036 or ABE Chemistry Assessment (043)
+BCHM-044|ABE Advanced Chemistry II|BCHM 043 (B-)
+BCHM-053|ABE Provincial Chemistry I|BCHM 044 (B-) or ABE Chemistry Assessment (053)
+BCHM-054|ABE Provincial Chemistry II|BCHM 053 (B-)
+BCMP-021|INTRODUCTION-TO-MICRO-COMPUTERS|Fundamental Level - Introduction to Micro Computers
+BCMP-031|ABE Intermediate Level Computer Studies|
+BCMP-041|ABE Advanced Level Computer Studies|
+BCMP-051|ABE Provincial Level Computer Studies|
+BCMP-052|ABE Provincial Level Computer Studies|BCMP 051 (B-)
+BCMP-053|ABE Provincial Computer Studies, Online &amp; Current Technology|
+BENG-011|Basic Literacy Level English|
+BENG-021|Fundamental Level English: Writing Skills, Spelling, Word Attack|
+BENG-031|Intermediate Level English|
+BENG-040|Advanced Level English:  Short Report Writing|BENG 031
+BENG-041|Advanced Level English:  Advanced Report Writing|BENG 031
+BENG-043|ABE Advanced Level English Part 1|BENG 031 or ABE English Assessment (043)
+BENG-044|ABE Advanced Level English Part 2|BENG 043 (B-)
+BENG-052|CRITICAL-READING-AND-WRITING|Provincial Level English - Critical Reading and Writing
+BENG-053|ABE Provincial Level English Part 1|BENG 044 (B-) or ABE English Assessment (053)
+BENG-054|ABE Provincial Level English Part 2|BENG 053 (B-) as a pre- or corequisite
+BFPS-052|ABE Provincial Level: First Peoples' Culture and History|
+BENF-001|ABE Fundamental English 1|
+BENF-002|ABE Fundamental English 2|
+BENF-003|ABE Fundamental English 3|
+BENF-004|ABE Fundamental English 4|
+BENF-005|ABE Fundamental English 5|
+BENF-006|ABE Fundamental English 6|
+BMAF-001|ABE Fundamental Mathematics 1|
+BMAF-002|ABE Fundamental Mathematics 2|
+BMAF-003|ABE Fundamental Mathematics 3|
+BMAF-004|ABE Fundamental Mathematics 4|
+BMAF-005|ABE Fundamental Mathematics 5|BMAF 004
+BMAF-006|ABE Fundamental Mathematics 6|BMAF 005
+BGEO-052|Provincial Level Geography|BESC 041 or BSOC 041 and BENG 041 (or equivalent).
+BHST-052|Provincial Level History|
+BMTH-011|Whole Numbers and Decimals|
+BMTH-021|Fundamental Level Mathematics|ABE Math Assessment (021)
+BMTH-033|Introductory Algebra|BMTH 021 or BMAF 006 or ABE Math Assessment (033)
+BMTH-034|Intermediate Algebra and Geometry|BMTH 033 (B-)
+BMTH-041|Advanced Level Business Math|BMTH 034
+BMTH-043|Advanced Algebra I|BMTH 034 (B-) or ABE Math Assessment (043)
+BMTH-044|Advanced Algebra II and Trigonometry|BMTH 043 (B-)
+BMTH-047|Advanced Foundations Mathematics 1|BMTH 033 (B-) or ABE Foundations Math Assessment (047)
+BMTH-048|Advanced Foundations Mathematics 2|BMTH 047 (B-)
+BMTH-053|Precalculus I|BMTH 044 (B-) or ABE Math Assessment (053)
+BMTH-054|Precalculus II|BMTH 053 (B-)
+BPHY-036|ABE Intermediate Physics|
+BPHY-043|ABE Advanced Physics I|BPHY 036 or ABE Physics Assessment (043)
+BPHY-044|ABE Advanced Physics II|BPHY 043 (B-)
+BPHY-053|ABE Provincial Physics I|BPHY 044 (B-) or ABE Physics Assessment (053)
+BPHY-054|ABE Provincial Physics II|BPHY 053 (B-)
+BPSY-051|ABE Provincial Level:  Social Psychology|BENG 041
+BSCI-021|Fundamental Level General Science|
+BSOC-031|Intermediate Level Social Studies|BENG 021 or equivalent
+BSOC-041|Advanced Level Social Studies|BENG 031 or equivalent
+ADVR-130|Strategic Development and Media Planning for Advertising|
+ADVR-133|The Big Idea|
+ADVR-135|Evolution of Conceptual Advertising|
+ADVR-137|Art Direction and Agency Process|
+ADVR-139|Fundamentals of Brand Identity|
+ANIM-010|Animation Principles and Timing|
+ANIM-020|Design Basics for Animation|
+ANIM-030|Drawing for Animation|
+ANIM-040|Digital Animation and Design|
+ANIM-103|Design Elements in Animation I|
+ANIM-104|Studio: Gesture and Form|
+ANIM-105|Survey of Western Cinema: Animation|
+ANIM-106|Animation: Quadrupeds and Effects|ANIM 116 and 117
+ANIM-107|Character Animation I|ANIM 116 and 117
+ANIM-108|Design Elements in Animation II|ANIM 103
+ANIM-109|Studio: Advanced Drawing Techniques I|ANIM 104
+ANIM-110|Production Design for Animation|ANIM 103
+ANIM-116|Animation: Timing and Principles|
+ANIM-117|Animation: Introduction to Character Drawing|
+ANIM-200|Character Animation II|ANIM 107
+ANIM-201|Visual Storytelling|ANIM 108
+ANIM-202|Studio: Advanced Drawing Techniques II|ANIM 109
+ANIM-203|Digital Production Tools for Animation|ANIM 107
+ANIM-204|Advanced Production Design for Animation|ANIM 110
+ANIM-205|Character Animation III|ANIM 200
+ANIM-206|Studio: Drawing Master Class|ANIM 202
+ANIM-207|Visual Development and Concept Design|ANIM 204
+ANIM-208|Professional Studies in Animation|ANIM 200 and 203
+ANIM-209|Animation: Emerging Technologies|ANIM 200
+ANIM-210|Entrepreneurship in the Animation Industry|
+ANAR-151|2D Introduction to Animation I|
+ANAR-152|2D Design Foundations I|
+ANAR-153|2D Animation Layout|
+ANAR-154|2D Survey of Life Drawing|
+ANAR-161|2D Introduction to Animation II|ANAR 151
+ANAR-162|2D Design Foundations II|ANAR 152
+ANAR-163|2D Animation Storyboarding|ANAR 153
+ANAR-164|2D Anatomy for Animation|ANAR 154
+ANAR-251|3D Fundamentals of Animation I|ANAR 151, 152, 153, 154, 161, 162, 163 and 164
+ANAR-252|3D Model and Texture I|ANAR 151, 152, 153, 154, 161, 162, 163 and 164
+ANAR-253|3D Animation and Timing I|ANAR 151, 152, 153, 154, 161, 162, 163 and 164
+ANAR-254|3D Animation Imaging I|ANAR 151, 152, 153, 154, 161, 162, 163 and 164
+ANAR-261|3D Fundamentals of Animation II|ANAR 251
+ANAR-262|3D Model and Texture II|ANAR 252
+ANAR-263|3D Animation and Timing II|ANAR 253
+ANAR-264|3D Animation Imaging II|ANAR 254
+ANTH-121|Introduction to Sociocultural Anthropology|
+ANTH-123|Introduction to Archaeology|
+ANTH-124|Introduction to Biological Anthropology|
+ANTH-200|Intermediate Social Anthropology|
+ANTH-202|Anthropology and the Environment|
+ANTH-203|Medical Anthropology|
+ANTH-204|Ethnic Relations|
+ANTH-205|Multiculturalism|
+ANTH-206|First Nations of British Columbia|
+ANTH-207|Climate Change and Human Evolution|
+ANTH-208|Indigenous Peoples of North America|
+ANTH-209|Anthropology of Latin America|
+ANTH-210|African Archaeology|None
+ANTH-222|Eating Culture:  An Anthropology of Food|
+ANTH-225|The Anthropology of Music|
+ANTH-230|Anthropology of Religion|
+ANTH-232|Archaeology of Africa, Asia and Europe|ANTH 123
+ANTH-233|Archaeology of the Americas|ANTH 123
+ANTH-240|Visual Anthropology|
+ANTH-241|Archaeology Field School|
+ANTH-249|A-FIELD-STUDY-IN-ANTHROPOLOGY|Comparative Cultures:   A Field Study in Anthropology
+ANTH-320|Archaeology and Popular Culture|45 credits of 100-level or higher coursework including 3 credits of 100 or 200-level ANTH
+ANTH-323|Learning from the Past:  The Relevance of Archaeological Research|45 credits of 100-level or higher coursework including ANTH 123
+ANTH-340|Stuff:  The Anthropology of Material Culture|45 credits of 100-level or higher coursework including 3 credits of 100 or 200-level ANTH
+ANTH-342|Life's Passage:  The Anthropology of Aging|45 credits of 100-level or higher coursework including 3 credits of 100 or 200-level ANTH
+ANTH-350|Ethnology of a Selected Region|45 credits of 100-level or higher coursework including 3 credits of 100 or 200-level ANTH
+ANTH-355|Language, Power and Identity|45 credits of 100-level or higher coursework
+ANTH-420|Contemporary Topics in Anthropology|45 credits of 100-level or higher coursework
+ANTH-490|Directed Studies|15 upper level credits including a minimum of one 300-level ANTH course
+ABA-100|Introduction to Behaviour Principles|
+ABA-101|Observations of ABA in Community Settings|ABA 100
+ABA-200|A Survey of Applied Behaviour Analytic Applications|ABA 100
+ABA-201|Applied Behavior Analysis for Direct Service Professionals|
+ABA-312|Single Subject Research Design and Statistics|
+ABA-313|Supporting Individuals with ASD and Their Families Across the Lifespan|ABA 344
+ABA-341|Applied Behaviour Analysis I:  Principles of Behaviour|
+ABA-342|Applied Behaviour Analysis II:  Procedures for Behaviour Change|ABA 341
+ABA-343|Ethics and Professional Standards|
+ABA-344|I|Autism Spectrum Disorders - I
+ABA-345|Behavioural Assessment and Positive Behavioural Support|ABA 342
+ABA-346|II|Autism Spectrum Disorders - II
+ABA-410|ASSISTANT-BEHAVIOR-ANALYST|Practicum II - Assistant Behavior Analyst
+ABA-411|ASSISTANT-BEHAVIOR-ANALYST|Practicum III - Assistant Behavior Analyst
+ABA-412|Directed Studies in Applied Behaviour Analysis|ABA 342
+ABA-415|Adults with Developmental Disabilities: ABA Interventions|ABA 342
+ABA-426|Assessment and Intervention Planning for Young Children with ASD|ABA 341 and 344
+ABA-443|Advanced Topics in Applied Behaviour Analysis|ABA 342
+SABA-300|Study Abroad Business Administration I|
+SABA-301|Study Abroad Business Administration II|
+SABA-302|Study Abroad Business Administration III|
+SABA-303|Study Abroad Business Administration IV|
+SABA-304|Study Abroad Business Administration V|
+SABA-305|Study Abroad Business Administration VI|
+SABA-306|Study Abroad Business Administration VII|
+SABA-307|Study Abroad Business Administration VIII|
+SABA-308|Study Abroad Business Administration IX|
+SABA-309|Study Abroad Business Administration X|
+SABA-500|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-501|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-502|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-503|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-504|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-505|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-506|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-507|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-508|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-509|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+AHIS-100|The History of Art: Ancient to Medieval|
+AHIS-101|The History of Art: Renaissance to Modern|
+AHIS-103|First Nations Art of the Northwest Coast|
+AHIS-104|Visual Culture: Art Matters|
+AHIS-105|Visual Culture: Exploring Themes|
+AHIS-106|Art of the Americas and Africa: 1492 to Now|
+AHIS-107|The Art of India, China and Japan|
+AHIS-109|Women and Art History|
+AHIS-140|Ancient Persian to Contemporary Iranian Art|
+AHIS-210|19th Century Art: Aesthetic Revolutions|
+AHIS-211|20th Century Art: Breaking the Rules|
+AHIS-215|Art and Technology|
+AHIS-220|Early Renaissance Art in Italy|
+AHIS-221|High Renaissance and Mannerist Art in Italy|
+AHIS-241|Modern Architecture|
+AHIS-250|Art and Nature Now: Environmental Crisis|
+AHIS-251|Fortune, Fame, Forgery: Art and Business|
+AHIS-252|Vancouver Art &amp; Culture: Past and Present|
+AHIS-260|Fabric and Society|
+AHIS-305|History of Photography|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level AHIS
+AHIS-315|Art of the Baroque|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level AHIS
+AHIS-320|Art, Activism, and Citizenship|45 credits of 100-level or higher coursework
+AHIS-325|Approaches to Art|45 credits of 100-level or higher coursework including 6 AHIS credits at the 100 or 200-level
+AHIS-330|Art and Trauma|45 credits of 100-level or higher coursework
+AHIS-335|Canadian Content: Art, Land and National Identity|45 credits of 100-level or higher coursework
+AHIS-340|Art and Science: Creative Collaborations|45 credits of 100-level or higher coursework
+AHIS-410|Museums and Collecting: The Rhetorics and Rituals of Display|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level AHIS
+AHIS-425|Outcasts and Others in Western Art|45 credits of 100-level or higher coursework
+AHIS-430|DRAWN! The Art of Graphic Novels, Memoirs, Histories|45 credits of 100-level or higher coursework
+AHIS-490|Directed Studies|15 upper level credits including a minimum of one 300-level AHIS course
+AEM-101|Art, Self, and Society|
+AEM-135|Principles and Practices in Arts &amp; Entertainment Management|
+AEM-140|Introduction to Creative &amp; Cultural Industries Management|
+AEM-141|Arts and Entertainment Management II|
+AEM-142|Arts &amp; Entertainment Management Studio I|
+AEM-143|Arts &amp; Entertainment Management Studio II|
+AEM-145|Computer Applications in Arts &amp; Entertainment Management|
+AEM-146|Festival and Community Event Management|
+AEM-147|Record Label Management|
+AEM-148|Venue Management|
+AEM-149|The Business of Performance in Arts &amp; Entertainment|
+AEM-230|Contemporary Issues I-Arts &amp; Entertainment Management (PT)|40 AEM credits and ENGL 100
+AEM-231|Contemporary Issues II-Arts &amp; Entertainment Management (PT)|43 AEM credits and ENGL 100
+AEM-235|Ethics and Social Engagement in Arts &amp; Entertainment|
+AEM-239|Practicum Preparation for the Arts &amp; Entertainment Industry|24 AEM credits and ENGL 100
+AEM-240|Practicum in Arts and Entertainment Management I|30 AEM credits
+AEM-241|Practicum in Arts and Entertainment Management II|AEM 240
+AEM-245|Marketing and Audience Development in Arts &amp; Entertainment|24 AEM credits and ENGL 100
+AEM-247|Financial Management in Arts &amp; Entertainment Management|
+AEM-248|Resource Development in Arts &amp; Entertainment Management|24 AEM credits and ENGL 100
+AEM-249|Fundamentals of Artist Development and Talent Management|24 AEM credits and ENGL 100
+AEM-251|Industry Seminar in Arts and Entertainment Management|21 AEM credits, ENGL 100 and THTR 160
+AEM-252|Introduction to Performing Arts Touring|21 AEM credits, ENGL 100 and THTR 160
+AEM-260|Contemporary Issues I-Arts &amp; Entertainment Management (FT)|43 AEM credits and ENGL 100
+AEM-261|Contemporary Issues II-Arts &amp; Entertainment Management (FT)|43 AEM Credits and ENGL 100
+AEM-270|Practicum I-Arts &amp; Entertainment Management (PT)|40 AEM credits and ENGL 100
+AEM-271|Practicum II-Arts &amp; Entertainment Management (PT)|43 AEM credits and ENGL 100
+AEM-275|Arts &amp; Entertainment Management Capstone|43 AEM credits and ENGL 100
+AEM-280|Practicum I-Arts &amp; Entertainment Management (FT)|43 AEM credits and ENGL 100
+AEM-281|Practicum II-Arts &amp; Entertainment Management (FT)|43 AEM credits and ENGL 100
+AEM-340|Advanced Practicum in Arts and Entertainment Management I|
+AEM-341|Advanced Practicum in Arts and Entertainment Management II|
+AEM-345|Advanced Media Relations, Marketing and Promotions|
+AEM-346|Advanced Organizational Structures in Arts and Entertainment Management|
+AEM-347|Advanced Financial Management in Arts and Entertainment Management|
+AEM-348|Advanced Resource Development:  Grantsmanship, Sponsorship and Fundraising|
+AEM-349|Advanced Fundamentals of Artist Development|
+AEM-350|Advanced Production and Tour Management|
+AEM-355|Current Issues in Arts &amp; Entertainment I|9 AEM credits
+AEM-356|Advanced Arts &amp; Entertainment Management Practicum I|9 AEM credits
+AEM-361|Current Issues in Arts &amp; Entertainment II|9 AEM credits
+AEM-362|Advanced Arts &amp; Entertainment Management Practicum II|9 AEM credits
+AEM-363|Advanced Arts &amp; Entertainment Management Graduation Projects|9 AEM credits
+ASTR-106|Introduction to Astronomy|Pre-calculus 12 or Principles of Math 12, or Pre-calculus 11 with a minimum B grade, or Principles of Math 11 with a minimum B grade, or Foundations of Mathematics 11 with a minimum A grade, or BMTH 053/054, or MATH 105. MATH 105 may be taken concurrently.
+ASTR-107|Introductory Astronomy|Pre-calculus 12 or Principles of Math 12, or Pre-calculus 11 with a minimum B grade, or Principles of Math 11 with a minimum B grade, or Foundations of Mathematics 11 with a minimum A grade, or BMTH 053/054, or MATH 105. MATH 105 may be taken concurrently.
+ASTR-142|Introduction to Cosmology  The Story of the Universe|Precalculus 12 (pass) or Principles of Math 12 (pass) or Precalculus 11 (B); or Principles of Math 11 (B); or Foundations of Mathematics 11 (A); or MATH 105 (pass). MATH 105 may be taken concurrently.
+ASTR-300|The Search for Life in the Universe|45 credits of 100-level or higher coursework
+BPAC-400|Studies in Contemporary Performance I|
+BPAC-401|Cultural Policy and the Performing Artist|BPAC 400, 402, 403 and 406
+BPAC-402|Production Planning|
+BPAC-403|Contemporary Performance Practice|
+BPAC-404|Studies in Contemporary Performance II|BPAC 400, 402, 403 and 406
+BPAC-405|Applied Production Planning|BPAC 400, 402, 403 and 406
+BPAC-406|Strategic Career Planning: Performance and the Digital Realm|
+BPAC-407|Contemporary Performance Production|BPAC 400, 402, 403 and 406
+BECP-021|Basic Education and Career Planning Fundamental|
+BECP-041|Basic Education and Career Planning Advanced|BECP 021
+BIOL-104|Human Biology|
+BIOL-105|Environmental Biology|
+BIOL-106|Introductory Biology I|
+BIOL-107|Introductory Biology II|
+BIOL-109|Introductory Biology|
+BIOL-110|General Biology I|Chemistry 11 (C+) or CHEM 130 (C+) or BCHM 044 (C+) or Chemistry 12 (C+) or CHEM 101 (C+) or BCHM 054 (C+)
+BIOL-111|General Biology II|BIOL 106 and 107; or BIOL 109 as a pre- or corequisite; or BIOL 110 as a pre- or corequisite
+BIOL-112|Human Anatomy and Physiology I for Health Sciences|Biology 12 (pass), BBIO 054, BIOL 104,  BIOL 109, or BIOL 110
+BIOL-113|Human Anatomy and Physiology II for Health Sciences|BIOL 112
+BIOL-120|Environmental Field Studies|
+BIOL-200|Genetics I|BIOL 111 (C-) and CHEM 111 (pass)
+BIOL-202|Nutrition|BIOL 113 (C-) or BIOL 111 (C-), and Chemistry 11
+BIOL-203|Introduction to Microbiology|BIOL 111 (C-)
+BIOL-208|Ecology|BIOL 111 (C-)
+BIOL-209|Fundamentals of Physiology|BIOL 111 (C-)
+BIOL-210|Morphology of Vascular Plants|BIOL 106, 107 and 111 or BIOL 110 and 111 with a minimum C- grade
+BIOL-212|Invertebrate Zoology|BIOL 111 (C-)
+BIOL-213|Vertebrate Zoology|BIOL 111 (C-)
+BIOL-214|Cell Biology|BIOL 111 (C-); and CHEM 200 or CHEM 211 as a prerequisite or co-requisite
+BIOL-215|Biochemistry|CHEM 201 as a prerequisite or co-requisite and BIOL 214
+BIOL-222|Microbiology|BIOL 214 is a prerequisite and BIOL 215 is a prerequisite or co-requisite
+BIOL-230|ALGAE-TO-ANGIOSPERMS|Botany - Algae to Angiosperms
+BIOL-231|Ethnobiology|15 credits of 100-level or higher coursework
+BIOL-240|Pathology|BIOL 113 (C-) or HKIN 191 (C-) or BIOL 111 (A-)
+BIOL-241|Pathology I|BIOL 113 (C-) or HKIN 191 (C-) or BIOL 111 (A-)
+BIOL-242|Pathology II|BIOL 240 (C-) or BIOL 241 (C-)
+BIOL-300|Molecular Genetics|BIOL 200 (C-) and one of BIOL 203 (C-) or BIOL 214 (C-)
+BIOL-305|Ecological Principles for Sustainability|45 credits of 100-level or higher coursework
+BIOL-308|Conservation Biology|BIOL 208 (C-)
+BIOL-312|Human Physiology I: Brains, Hormones and Guts|BIOL 209 (C-) and one of BIOL 215 (C-) or CHEM 215 (C-)
+BIOL-313|Human Physiology II: Blood, Gas and Antibodies|BIOL 209 (C-) and one of BIOL 215 (C-) or CHEM 215 (C-)
+BIOL-314|Advanced Cell Biology|BIOL 214 (C-); and BIOL 215 (C-) or CHEM 215 (C-)
+BIOL-350|Natural History of BC|45 credits of 100-level or higher coursework
+BIOL-351|Global Biogeography|45 credits of 100-level or higher coursework
+BIOL-352|Evolution of Life|45 credits of 100-level or higher coursework
+BIOL-353|Brain Health|45 credits of post-secondary courses at the 100-level or higher
+BIOL-354|Physiology of Disease|45 credits of post-secondary courses at the 100-level or higher
+BIOL-401|Applied Population Ecology|BIOL 208 (C-)
+BIOL-402|Applied Ecosystem Ecology|BIOL 208 (C-)
+BIOL-403|Microbiology and Immunology|BIOL 203 (C-) or BIOL 214 (C-); and BIOL 215 (C-) or CHEM 215 (C-)
+BIOL-408|Ecosystem Restoration|BIOL 208 (C-)
+BIOL-409|Global Change Biology|BIOL 208 (C-) or GEOG 222 (C-)
+BIOL-412|Neurological Damage, Disease and Degeneration|CHEM 215 (C-) or BIOL 215 (C-); and BIOL 312 (C-)
+BADM-101|Introduction to Business|
+BADM-102|Introduction to Financial Mathematics|One of the following: Principles of Math 11 (C), Pre-calculus 11, Foundations of Math 11 (C), BMTH 044 (C), BMTH 048 (C), MATH 096 (C), MATH 097 (C), MATH 123 (C), Applications of Math 12, Apprenticeship & Workplace Mathematics 12 (B), Foundations of Math 12, Principles of Math 12, Pre-calculus 12, BMTH 054, BTEC 115 (B-), Economics 12 and Accountancy 12, or Business Studies 12 and Accountancy 12
+BADM-106|Organizational Behaviour|
+BADM-107|Business Law I|
+BADM-201|Business Information Systems|30 credits of 100-level or higher coursework including BCPT 123 or COMP 101 or COMP 108
+BADM-202|People Management|15 credits of 100-level or higher coursework or RMCP 172 or RMCP 173
+BADM-204|Introduction to Strategic Management|30 credits of 100-level or higher coursework
+BADM-206|Independent Study I|30 credits of 100-level or higher coursework including ENGL 100 and BADM 101
+BADM-207|Employment Law for Business|15 credits of 100-level or higher coursework
+BADM-210|Decision Modelling in Business|15 credits of 100-level or higher coursework including BADM 102 and BCPT 123
+BADM-218|Leading Teams|15 credits of 100-level or higher coursework
+BADM-225|Leading with Emotional Intelligence in the Workplace|30 credits of 100-level or higher coursework
+BADM-265|Small Business Management|BFIN 141 as a pre- or corequisite
+BADM-268|Entrepreneurship/Small Business Management|
+BADM-301|Operations Management|One of BADM 210 or STAT 101 or STAT 205 or KINE 302 or TOUR 350; and one of BCPT 123 or TOUR 149 or COMP 101
+BADM-302|Human Resources Management|45 credits of 100-level or higher coursework
+BADM-303|Labour Relations|45 credits of 100-level or higher coursework; OR 6 NABU credits
+BADM-305|Leadership|45 credits of 100-level or higher coursework including BADM 106; OR 6 NABU credits
+BADM-306|Independent Study II|54 credits of 100-level or higher coursework including ENGL 100 and BADM 101; OR 6 NABU credits and BADM 305
+BADM-307|Advanced Business Law II|BADM 107
+BADM-310|Quantitative Methods III|One of BADM 210 or STAT 101 or STAT 205 or KINE 302 or TOUR 350; and one of BCPT 123 or TOUR 149 or COMP 101
+BADM-313|Case Competition Preparation|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BADM-318|Project Management|45 credits of 100-level or higher coursework; OR one of the following as a pre- or corequisite: CMNS 305 or NABU 310 or NABU 320
+BADM-320|Special Topics in Business Administration I|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BADM-321|Special Topics in Business Administration II|45 credits of 100-level or higher coursework; OR 6 NABU credits
+BADM-322|Distinct University Experience Project|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BADM-323|Current Issues in Business Administration II|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BADM-324|Current Issues in Business Administration III|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BADM-325|Special Topics in Business Administration III|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BADM-329|Performance Management|60 credits of 100-level or higher coursework and BADM 302; OR 6 NABU credits
+BADM-332|Managing Not-for-Profit Organizations &amp; Social Enterprises|45 credits of 100-level or higher coursework; OR 6 NABU credits
+BADM-335|Workplace Learning, Development and Design|45 credits of 100-level or higher coursework
+BADM-340|Business Internship I|45 credits of 100-level or higher coursework; and an overall GPA of 2.30 or departmental approval
+BADM-345|Business Work Experience I|45 credits of 100-level or higher coursework including BADM 340; and an overall GPA of 3.0 or departmental approval
+BADM-350|Business Competitions|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BADM-365|Entrepreneurship|45 credits of 100-level or higher coursework; OR NABU 320 and CMNS 305
+BADM-380|Community Empowerment and Development through Enactus|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BADM-382|Case Analysis and Decision Making in Human Resources Management|BADM 302 or 303; OR 6 NABU credits
+BADM-385|Business and Sustainability|45 credits of 100-level or higher coursework; OR 6 NABU credits
+BADM-395|Business and Society|45 credits of 100-level or higher coursework including one of the following: AHIS 103, ANTH 206, BADM 107, ENGL 107, HIST 110, HIST 209, IDF 235, INTS 345, or SOC 200; OR 6 NABU credits
+BADM-406|Independent Study III|75 credits of 100-level or higher coursework including ENGL 100, BADM 101 and CMNS 220; OR 6 NABU credits and CMNS 305
+BADM-440|Business Internship II|60 credits of 100-level or higher coursework including BADM 340 or BADM 345; and an overall GPA of 2.30 or departmental approval
+BADM-445|Business Work Experience II|60 credits of 100-level or higher coursework including BADM 345; and an overall GPA of 3.0 or departmental approval
+BADM-460|Business and Society Research Project|84 credits of 100-level or higher coursework including BADM 201, BADM 204, BADM 210, BFIN 241, IBUS 255, BADM 302, BFIN 244 or BFIN 341, ENGL 100, and CMNS 152 or 220
+BADM-465|Management Decision Making|84 credits of 100-level or higher coursework including ENGL 100, and CMNS 152 or 220; OR 3 NABU credits and CMNS 305
+BADM-466|Managing Change|75 credits of 100-level or higher coursework including BADM 302, ENGL 100, and CMNS 152 or 220; OR 3 NABU credits and CMNS 305
+BADM-469|Applied Understanding of Indigenous Entrepreneurship|75 credits of 100-level or higher coursework
+BADM-470|Business Policy and Strategy|84 credits of 100-level or higher coursework including BADM 204, BFIN 241, BFIN 244 or 341, ENGL 100, and CMNS 152 or 220
+BADM-475|Negotiation Skills|75 credits of 100-level or higher coursework including ENGL 100; OR 3 NABU credits and CMNS 305
+BCPT-123|Business Computing Basics|
+BCPT-221|WEBSITE-DEVELOPMENT|Business Computing - Website Development
+BCPT-223|Spreadsheet Analytics and Visualization|One of the following: BCPT 123, BTEC 124, TOUR 149 or COMP 101
+BCPT-305|Management of Information Systems|45 credits of 100-level or higher coursework including BADM 201; OR 6 NABU credits
+BCPT-325|Business Technology Disaster Recovery and Planning|BCPT 121 or 122 or 123 or BTEC 124 or 149 with a minimum c- grade plus 60 post-secondary Business Administration credits
+BCPT-326|Advanced Web Design|BCPT 221
+BCPT-330|Business Systems Process Modeling, Analysis and Design|30 credits of 100-level or higher coursework including BCPT 123 and BADM 201
+BCPT-404|Advanced Business Analytics|45 credits of 100-level or higher coursework including BCPT 305
+BCPT-420|Business Info Ethics, Privacy, Security &amp; Sustainability|75 credits of 100-level or higher coursework including BCPT 123 and BADM 201
+BUES-305|North American Business Essentials|
+BFIN-141|Introductory Accounting I|
+BFIN-142|Financial Accounting I|BFIN 141 with a minimum C- grade or BTEC 217 with a minimum B grade
+BFIN-193|Compressed Introductory Financial Accounting|
+BFIN-241|Finance for Managers|15 credits of 100-level or higher coursework including BFIN 141 or BFIN 193, and BADM 102
+BFIN-244|Managerial Accounting|BFIN 141 or BFIN 193 or BTEC 217
+BFIN-246|Financial Accounting II|BFIN 142 or BFIN 193
+BFIN-249|Accounting Software and Reporting Systems|BFIN 141 or BFIN 193
+BFIN-306|Personal Financial Planning|45 credits of 100-level or higher coursework; or 6 NABU credits
+BFIN-321|Fundamentals of Investments|45 credits of 100-level or higher coursework including [BFIN 241 or BFIN 306 or BFIN 286]; OR CMNS 305 and [NABU 320 or NABU 340]
+BFIN-331|Assurance &amp; Auditing|60 credits of 100-level or higher coursework including ENGL 100 and BFIN 347
+BFIN-341|Cost Accounting I|BFIN 142 or BFIN 193 or NABU 320
+BFIN-342|Cost Accounting II|BFIN 341
+BFIN-347|Financial Accounting III|BFIN 246
+BFIN-348|Data Analytics and Information Systems in Accounting|BFIN 142 or BFIN 193; and BFIN 241 or BFIN 246
+BFIN-350|Advanced Financial Management|45 post-secondary School of Business credits including BFIN 241 and BADM 210
+BFIN-351|Taxation I|BFIN 246; OR [BFIN 142 or BFIN 193] and [BFIN 286 or BFIN 306]
+BFIN-353|International Finance|BADM 102 and BFIN 241; OR NABU 320 and 3 NABU credits
+BFIN-386|Insurance for Financial Planning|45 credits of 100-level or higher coursework including [BFIN 351 or BFIN 306 or BFIN 286]; OR CMNS 305 and [NABU 320 or NABU 340]
+BFIN-411|Advanced Financial Accounting|75 credits of 100-level or higher coursework including BFIN 347, ENGL 100, and CMNS 152 or 220
+BFIN-412|Assurance &amp; Auditing II|75 credits of 100-level or higher coursework including BADM 201, a minimum grade of C- in BFIN 331, ENGL 100, and CMNS 152 or 220
+BFIN-431|Advanced Management Accounting|75 credits of 100-level or higher coursework including BFIN 342,  ENGL 100, and CMNS 152 or 220
+BFIN-451|Taxation II|BFIN 351
+BFIN-486|Financial Planning Capstone|75 credits of 100-level or higher coursework including [BFIN 286 or BFIN 306] and [BFIN 351 or BFIN 321]; OR 75 credits of 100-level or higher coursework including BFIN 386; OR 6 NABU credits and BFIN 306
+BMKT-161|Introduction to Marketing|
+BMKT-203|Introduction to Marketing|15 credits of 100-level or higher coursework including BADM 101
+BMKT-260|Social Media Marketing|15 credits of 100-level or higher coursework
+BMKT-261|Advertising|BMKT 161
+BMKT-262|Event Marketing|BMKT 203 or BMKT 161
+BMKT-263|Relationship Selling|15 credits of 100-level or higher coursework
+BMKT-315|e-Business Analysis and Administration|45 credits of 100-level or higher coursework
+BMKT-316|Branding and Innovation|45 credits of 100-level or higher coursework; OR 6 NABU credits
+BMKT-317|Introduction to Mobile App Marketing &amp; Commercialization|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BMKT-360|Marketing Research|[BMKT 203 or BMKT 161] and BADM 210; OR 6 NABU credits and CMNS 305
+BMKT-364|Consumer Behaviour|45 credits of 100-level or higher coursework including BMKT 203 or BMKT 161; OR 6 NABU credits
+BMKT-365|Marketing Strategies and Decisions|45 credits of 100-level or higher coursework; OR 6 NABU credits
+BMKT-367|Promotion Strategy and Analysis|BMKT 261; OR 6 NABU credits and CMNS 305
+BMKT-369|Digital Marketing|45 credits of 100-level or higher coursework; OR 6 NABU credits
+BMKT-370|Social Media Marketing|45 credits of 100-level or higher coursework; OR 6 NABU credits and CMNS 305
+BMKT-401|Applied Marketing Methods|75 credits of 100-level or higher coursework including BMKT 360 and BMKT 364, ENGL 100, and CMNS 152 or CMNS 220
+BMKT-405|Marketing Projects in Industry|75 credits of 100-level or higher coursework including BMKT 360 and BMKT 364, ENGL 100, and CMNS 152 or CMNS 220
+BMKT-408|Product Development|75 credits of 100-level or higher coursework including BMKT 360 and BMKT 364, ENGL 100, and CMNS 152 or 220
+BTEC-111|Business English I|
+BTEC-112|Language Skill Development|
+BTEC-115|Business Systems and Procedures|
+BTEC-117|Accounting Procedures I|
+BTEC-118|Introduction to Computerized Accounting|
+BTEC-124|Comprehensive Computer Applications|
+BTEC-125|Comprehensive Computer Applications I|
+BTEC-126|Comprehensive Computer Applications II|
+BTEC-149|Financial Computer Applications|BTEC 117 or BTEC 119 or BFIN 141
+BTEC-199|Accounting Assistant Practicum|15 credits of 100-level or higher coursework; and BTEC 149, 211, 217, 220, and 252 as pre- or corequisites
+BTEC-211|Business Writing|BTEC 111 or BTEC 113
+BTEC-215|Computerized Accounting for Accounting Programs|BTEC 117
+BTEC-217|Accounting Procedures II|BTEC 117 with a minimum B grade
+BTEC-220|Accounting Procedures III|BTEC 117; and BTEC 217 or BFIN 141 as pre-requisite or co-requsite
+BTEC-251|Interpersonal Skills|
+BTEC-252|Organizational Behaviour|
+CSFF-010|Capilano Success Family Focus|
+CAPS-499|Degree Portfolio|90 credits of 100-level or higher coursework
+CACC-002|Career Access Centre Computer|
+CACC-004|Career Access Centre Computer|
+CACC-006|Career Access Centre Computer|
+CACC-008|Career Access Centre Computer|
+CACC-010|Career Access Centre Computer|
+CACC-012|Career Access Centre Computer|
+CACE-002|Career Access Centre English|
+CACE-004|Career Access Centre English|
+CACE-006|Career Access Centre English|
+CACE-008|Career Access Centre English|
+CACE-010|Career Access Centre English|
+CACE-012|Career Access Centre English|
+CACL-002|Career Access Centre ESL|
+CACL-004|Career Access Centre ESL|
+CACL-006|Career Access Centre ESL|
+CACL-008|Career Access Centre ESL|
+CACL-010|Career Access Centre ESL|
+CACL-012|Career Access Centre ESL|
+CACF-002|Career Access Centre Family Focus|
+CACF-004|Career Access Centre Family Focus|
+CACF-006|Career Access Centre Family Focus|
+CACF-008|Career Access Centre Family Focus|
+CACF-010|Career Access Centre Family Focus|
+CACF-012|Career Access Centre Family Focus|
+CACM-002|Career Access Centre Math|
+CACM-004|Career Access Centre Math|
+CACM-006|Career Access Centre Math|
+CACM-008|Career Access Centre Math|
+CACM-010|Career Access Centre Math|
+CACM-012|Career Access Centre Math|
+CACO-002|Career Access Centre Orientation|
+CACO-004|Career Access Centre Orientation|
+CACO-006|Career Access Centre Orientation|
+CACO-008|Career Access Centre Orientation|
+CACO-010|Career Access Centre Orientation|
+CACO-012|Career Access Centre Orientation|
+CACS-002|Career Access Centre Student Success|
+CACS-004|Career Access Centre Student Success|
+CACS-006|Career Access Centre Student Success|
+CACS-008|Career Access Centre Student Success|
+CACS-010|Career Access Centre Student Success|
+CACS-012|Career Access Centre Student Success|
+CACT-002|Career Access Centre Transition Skills|
+CACT-004|Career Access Centre Transition Skills|
+CACT-006|Career Access Centre Transition Skills|
+CACT-008|Career Access Centre Transition Skills|
+CACT-010|Career Access Centre Transition Skills|
+CACT-012|Career Access Centre Transition Skills|
+CDCO-021|CDO Computer Studies Fundamental|
+CDCO-031|CDO Computer Studies Intermediate|CDCO 021
+CDEN-001|CDO English Fundamental 1|
+CDEN-002|CDO English Fundamental 2|
+CDEN-003|CDO English Fundamental 3|
+CDEN-004|CDO English Fundamental 4|
+CDEN-005|CDO English Fundamental 5|
+CDEN-006|CDO English Fundamental 6|
+CDEN-031|CDO English Intermediate|
+CDMA-001|CDO Math Fundamental 1|CDO Math Assessment
+CDMA-002|CDO Math Fundamental 2|CDO Math Assessment
+CDMA-003|CDO Math Fundamental 3|CDO Math Assessment
+CDMA-004|CDO Math Fundamental 4|CDO Math Assessment
+CDMA-005|CDO Math Fundamental 5|CDO Math Assessment
+CDMA-006|CDO Math Fundamental 6|CDO Math Assessment
+CECP-021|Community Education and Career Planning Fundamental|
+CECP-031|Community Education and Career Planning Intermediate|BENG 031 or equivalent
+CECP-041|Community Education and Career Planning Advanced|BENG 031 or equivalent
+CECP-051|Community Education and Career Planning Provincial|BENG 041 or equivalent
+CHEM-030|Introduction to Chemistry|
+CHEM-101|Fundamentals of Chemistry|One of the following: Chemistry 11, CHEM 030, CHEM 130, or BCHM 044; and one of Foundations of Math 11, Pre-calculus 11, Pre-calculus 12, BMTH 054, MATH 097, Math Placement Test (Precalculus MPT), or MATH 105 (as a pre- or corequisite)
+CHEM-110|Bonding and Structure|Chemistry 12 (C+) or CHEM 101 (C+) or BCHM 054 (C+); and Precalculus 12 (C+) or BMTH 054 (C-) or MATH 105 (C-) or Calculus MPT
+CHEM-111|Chemical Dynamics and Energetics|CHEM 110 (C-); and Precalculus 12 (B) or BMTH 054 (C+) or MATH 105 (C-) or Calculus MPT
+CHEM-130|Chemistry In Our World|
+CHEM-154|Chemical Principles for Engineers|Chemistry 12 or CHEM 101 or BCHM 054 with a minimum B grade and Math 116 is a prerequisite or co-requisite
+CHEM-200|Organic Chemistry I|CHEM 111 with a minimum C- grade
+CHEM-201|Organic Chemistry II|CHEM 200 with a minimum C- grade
+CHEM-204|Structure, Energetics and Spectroscopy|CHEM 111 (C-); and MATH 116 or MATH 108 as a prerequisite or corequisite
+CHEM-205|Introduction to Bio-inorganic Chemistry|CHEM 111 with a minimum C- grade
+CHEM-206|Introduction to Analytical Chemistry|CHEM 111 with a minimum C- grade
+CHEM-211|Organic Chemistry for the Life Sciences|CHEM 111 with a minimum C- grade
+CHEM-215|Biochemistry I:  Macromolecular Structure and Function|BIOL 214 (C-); and CHEM 211 (C-) or CHEM 201 (C-)
+CHEM-250|Inorganic Chemistry for Engineers|CHEM 111
+CHEM-251|Physical Chemistry for Engineers|CHEM 111 and MATH 116
+CHEM-252|Organic Chemistry for Engineers|CHEM 111
+CHEM-300|Chemistry and Society|45 credits of 100-level or higher coursework
+CHEM-304|Environmental Chemistry|CHEM 201 (C-); or CHEM 211 (C-) and CHEM 204 (C-)
+CHEM-311|Applications of Spectroscopy|CHEM 201 (C-); or CHEM 211 (C-) and CHEM 204 (C-)
+CHEM-315|Biochemistry II: Metabolism and Bioenergetics|CHEM 211 (C-) and CHEM 204 (C-), or CHEM 201 (C-); and BIOL 215 (C-) or CHEM 215 (C-)
+CHEM-404|Green Chemistry|CHEM 201 (C-); or CHEM 211 (C-) and CHEM 204 (C-)
+CHEM-411|Medicinal Chemistry: Drug Design and Drug Action|CHEM 211 (C-) and CHEM 204 (C-), or CHEM 201 (C-); and BIOL 215 (C-) or CHEM 215 (C-)
+CHIN-100|Beginner Chinese Language and Culture I|
+CHIN-101|Beginner Chinese Language and Culture II|CHIN 100
+CHIN-200|Intermediate Chinese Language and Culture I|CHIN 101 or Chinese 12
+CHIN-201|Intermediate Chinese Language and Culture II|CHIN 200
+CHIN-300|Advanced Chinese I|45 credits of 100-level or higher coursework including CHIN 201
+CINE-118|Applied Cinematography for Film and Video I|
+CINE-119|Applied Cinematography for Film and Video II|CINE 118
+CMNS-100|Introduction to Workplace Communication|
+CMNS-112|Introduction to Communication Studies|
+CMNS-115|Communications for Animation|
+CMNS-131|Business Writing for Documentary|
+CMNS-132|Explorations in Mass Media|
+CMNS-133|Business Writing for Digital Visual Effects|
+CMNS-152|Business Communications Basics|
+CMNS-154|Communication in Outdoor Recreation and Tourism|
+CMNS-159|Communications for the Legal Administrative Assistant|
+CMNS-164|Advanced Communication and Interactions for Tourism Management International Students|CMNS 154
+CMNS-174|Wilderness Leadership Communications|
+CMNS-185|Presentation Skills for Public Speaking|
+CMNS-190|Writing for Popular Media|
+CMNS-209|History of Media 1: From Orality to Mass Media|9 credits of 100-level or higher coursework including CMNS 100 or ENGL 100
+CMNS-211|History of Media 2: Digital Media|9 credits of 100-level or higher coursework including CMNS 100 or ENGL 100
+CMNS-220|Advanced Business Writing|9 credits of 100-level or higher coursework including CMNS 100 or ENGL 100
+CMNS-222|Communication and Ideology|9 credits of 100-level or higher coursework including CMNS 100 or ENGL 100
+CMNS-223|Communications Skills, Applications and Contexts for Design and Art Direction|CMNS 123
+CMNS-224|Music and Media|9 credits of 100-level or higher coursework including CMNS 100 or ENGL 100
+CMNS-231|Cultural Industries in Canada|CMNS 112 and 132
+CMNS-235|Understanding News|CMNS 112 and 132
+CMNS-236|Understanding Television|9 credits of 100-level or higher coursework including CMNS 100 or ENGL 100
+CMNS-241|Software for Magazine Publishing|
+CMNS-250|Introduction to Technical Writing|ENGL 100
+CMNS-253|Society and Digital Media|9 credits of 100-level or higher coursework including CMNS 100 or ENGL 100
+CMNS-255|Interpersonal Communication|CMNS 112 and 132
+CMNS-260|Applied Communication Research Methods|CMNS 112 and 132
+CMNS-261|Interpreting Communication Documents|CMNS 112 and 132
+CMNS-262|Qualitative Research Methods in Communication Studies|CMNS 112, 132 plus one 200-level 3 credit Communication Studies course
+CMNS-270|Visual Communication|9 credits of 100-level or higher coursework including CMNS 100 or ENGL 100
+CMNS-285|Advanced Presentation Skills|CMNS 185
+CMNS-295|The Culture of Advertising|9 credits of 100-level or higher coursework including CMNS 100 or ENGL 100
+CMNS-305|Communication for International Learners|
+CMNS-322|Videogames: Culture, Theory and Criticism|30 credits of 100-level or higher coursework
+CMNS-330|Communication Ethics|45 credits of post-secondary education at the 100-level or higher
+CMNS-331|Communication Policy and Law|45 credits of post-secondary education at the 100-level or higher
+CMNS-333|Conflict and Communication|45 credits of 100-level or higher coursework
+CMNS-351|Editing for Popular Media|45 credits of 100-level or higher coursework
+CMNS-352|Organizational Communication|45 credits of post-secondary education at the 100-level or higher
+CMNS-353|Technology and Everyday Life|45 credits of 100-level or higher coursework
+CMNS-354|Advanced Tourism Communication|60 credits of 100-level or higher coursework including ENGL 100 and CMNS 154
+CMNS-355|Intercultural Communication|45 credits of 100-level or higher coursework
+CMNS-358|Media Culture in the Lives of Children and Adolescents|30 credits of 100-level or higher coursework
+CMNS-360|Strategic Communication|45 credits of 100-level or higher coursework including one of the following: CMNS 112, CMNS 132 or CMNS 220
+CMNS-370|Photography as Communication:  Fact and Fiction|30 University Transferable credits
+CMNS-371|Foundations of Design, Layout and Production for Magazines|
+CMNS-380|Applied Cultural Criticism|45 credits of post-secondary education at the 100-level or higher
+CMNS-390|Writing for Online Engagement|45 credits of 100-level or higher coursework
+CMNS-395|Public and Media Relations|45 credits of post-secondary education at the 100-level or higher
+CMNS-400|Magazine Practicum|CMNS 191, 221, 241, 351, and 371 as prerequisites or co-requisites
+CMNS-405|Advanced Communication for International Learners|CMNS 305
+CMNS-412|Special Topics in Communication Studies 1|45 credits of 100-level or higher coursework, including 6 credits of 300-level or higher CMNS
+CMNS-413|Special Topics in Communication Studies 2|45 credits of 100-level or higher coursework, including 6 credits of 300-level or higher CMNS
+CMNS-415|Disinformation and Media|45 credits of 100-level or higher coursework
+CMNS-430|Civil Discourse and Democracy|45 credits of 100-level or higher coursework
+CMNS-431|Project Group Communication Policy and Law|45 credits of post-secondary education at the 100-level or higher
+CMNS-433|Project Group in Risk and Crisis Communication|45 credits of post-secondary education at the 100-level or higher
+CMNS-453|Project Group in Communication and New Media|45 credits of post-secondary education at the 100-level or higher
+CMNS-462|Advanced Communication Research Practice|60 credits of 100-level or higher coursework and CMNS 261, CMNS 262, and CMNS 360
+CMNS-490|Project Group in Publishing|45 credits of 100-level or higher coursework and CMNS 190
+CMNS-495|Project Group in Media Campaigns|45 credits of post-secondary education at the 100-level or higher
+CMNS-498|Communication Practicum|60 credits of 100-level or higher coursework including CMNS 360 and one of the following: CMNS 412, CMNS 431, CMNS 433, CMNS 453, CMNS 462, CMNS 490 or CMNS 495
+CMNS-499|Communication Research Project|60 credits of 100-level or higher coursework and CMNS 462
+CLSC-100|Introduction to Community Development|
+CLSC-101|Leadership for Community Building|
+CLSC-102|Facilitation for Community Development Practitioners|
+CLSC-103|Service Learning in Neighbourhood Context|CLSC 100 and CLSC 105 as pre- or co-requisites
+CLSC-105|Foundation Skills in Community Development|
+CLSC-200|Digital Tools for Social Change|
+CLSC-201|Community-Based Research|
+CLSC-202|Program Planning and Management|
+CLSC-203|Service Learning in Leadership Roles|CLSC 100, CLSC 105 and CLSC 103 as pre- or co-requisites
+CLSC-204|Reflective Practice in Community Settings|CLSC 101, 102, 201 202 and ENGL 100, and CLSC 200 and 203 as a pre- or co-requisite
+COMP-101|Computers and their Application|One of the following: Pre-calculus 11, Foundations of Mathematics 11, Workplace Mathematics 11, History of Mathematics 11, Computer Science 11, BMTH 044, BMTH 048, IXD 108, MATH 097, MATH 123, or Math Placement Test (Precalculus MPT)
+COMP-106|Programming with Robots|One of the following: Pre-calculus 11, Foundations of Mathematics 11, Workplace Mathematics 11, Computer Science 11, BMTH 044, BMTH 048, Math Placement Test (Precalculus MPT), MATH 097, MATH 123, or COMP 101 (B-)
+COMP-107|Animated 3D Game Programming|Applications of Math 11 or Principles of Math 11 or MATH 091 or BMTH 044 or Math Placement Test
+COMP-108|Software Applications and Their Customization|Applications of Math 11 or Principles of Math 11 or MATH 091 or BMTH 044 or BTEC 115 or Math Placement Test (MPT) or permission of the instructor
+COMP-115|Learn to Code|One of the following: Pre-calculus 11, Foundations of Mathematics 11, Workplace Mathematics 11, Computer Science 11, BMTH 044, BMTH 048, Math Placement Test (Precalculus MPT), MATH 097, MATH 123, or COMP 101 (B-)
+COMP-120|Computer Science for Engineers|One of the following: COMP 106 (C+), COMP 115 (C+), Pre-calculus 12 (A), Foundations of Mathematics 12 (A), Computer Science 12 (A), or MATH 105 (C-)
+COMP-121|Fundamentals of Programming|Principles of Math 12 with a minimum B grade, or MATH 105 or MATH 107 as prerequisite or co-requisite or BMTH 054 with a minimum B grade
+COMP-126|Principles of Software Design|COMP 121 (C-) or COMP 115 (C-)
+COMP-134|Programming in Java|COMP 107 with a minimum B- grade or COMP 120 with a minimum C- grade
+COMP-135|Python Essentials|COMP 120 (C-) as a pre- or corequisite
+COMP-165|Web Programming Fundamentals|COMP 115 (C-) or COMP 101 (A) or IXD 108 (B-)
+COMP-202|Foundations of Computer Science|COMP 121 with a minimum C- grade
+COMP-210|Data Structures and Abstraction|COMP 126 and MATH 116 with a minimum C- grade and MATH 124 as a prerequisite or a co-requisite with a minimum C- grade
+COMP-211|Computer Design and Architecture I|COMP 126 and COMP 202 with a minimum C- grade; and MATH 116 with a minimum C- grade and MATH 124 as a prerequisite or a co-requisite with a minimum C- grade
+COMP-212|Computer Design and Architecture II|COMP 211 with a minimum C- grade
+COMP-213|Introduction to Software Engineering|COMP 210 with a minimum C- grade
+COMP-215|Introduction to Computational Science|COMP 115 (A-) or COMP 135 (A-); OR COMP 115 (C+) and one of the following: MATH 116 (C-), MATH 108 (C-), or MATH 124 (C-)
+COMP-220|Data Structures and Algorithms for Engineers|COMP 120 with a minimum C- grade and MATH 116 with a minimum C- grade
+COMP-301|Computing Technologies in a Digital Culture|45 credits of 100-level or higher coursework including one of the following: COMP 101, COMP 115, or MOPA 209
+COMP-320|Database Technologies and Applications|45 credits of 100-level or higher coursework and COMP 215
+COMP-330|Data Wrangling: Scripting for Automated Data Processing|45 credits of 100-level or higher coursework and one of COMP 115 (A-) or COMP 215
+COND-300|Conducting I|
+COND-301|Conducting II|COND 300
+COND-350|Conducting Pedagogy I|
+COND-351|Conducting Pedagogy II|COND 350
+COST-100|Costume Cutting and Construction I|
+COST-101|Costume Cutting and Construction II|COST 100
+COST-102|History of Western Costume I|
+COST-103|History of Western Costume II|COST 102
+COST-104|Wardrobe Management|
+COST-105|Film Costumer Project|COST 104
+COST-152|Costume Production I|
+COST-153|Costume Production II|COST 152
+COST-200|Costume Cutting and Construction III|COST 101
+COST-202|Elements of Costume Design|COST 103
+COST-203|Costume Skills Intensive|COST 200
+COST-205|Advanced Film Costumer Project|COST 202
+COST-266|Costume Production III|COST 153
+COST-267|Costume Production IV|COST 266
+COST-275|Costume Skills Intensive:  Specialties|
+COST-276|Costume Skills Intensive:  Advanced Construction|
+COST-277|Costume Skills Intensive:  Special Effects|
+COST-278|Costume Skills Intensive:  Corsetry|
+CRIM-101|Introduction to Criminology|
+CRIM-202|Surveillance and Social Control|
+CRIM-210|Gender, Crime and Justice|
+CRIM-220|Youth Justice and Injustice|CRIM 101
+CRIM-240|Drugs and Society|CRIM 101
+CRIM-304|Law and Society|45 credits of 100-level or higher coursework
+CRIM-305|Intersections of Injustices: Race, Gender and Crime|42 credits of 100-level or higher coursework and 3 credits of 100-level or higher CRIM
+CRIM-310|Green Criminology|45 credits of 100-level or higher coursework
+CRIM-311|Restorative and Transformative Justice|45 credits of 100-level or higher coursework
+CRIM-313|Crimes of the Powerful: Corporate and State Wrongdoing|45 credits of 100-level or higher coursework
+CRIM-330|Prisons and Penitentiaries|45 credits of 100-level or higher coursework
+CRIM-430|Punishment and Social Policy|CRIM 330, GEOG 333 or WGST 347
+CRIM-490|Directed Studies|15 credits of 300-level or higher coursework including 3 credits of 300-level or higher CRIM
+DSGN-121|Design Fundamentals|
+DSGN-122|Creative Thinking for Designers|
+DSGN-320|Professional Development I|50 IDES/DSGN credits
+DSGN-325|Design Thinking and Research|50 IDES/DSGN credits
+DSGN-440|Bachelor of Design Capstone|75 IDES/DSGN credits
+DSGN-441|Bachelor of Design Capstone: Illustration Concentration|75 IDES/DSGN credits
+DSGN-442|Bachelor of Design Capstone: Branding Concentration|75 IDES/DSGN credits
+DSGN-443|Bachelor of Design Capstone: Interactive Concentration|75 IDES/DSGN credits
+DSGN-460|Graduation Showcase|75 IDES/DSGN credits
+DSGN-473|Business Practices for Design Professionals|75 IDES/DSGN credits
+DIGI-130|3D Animation I|
+DIGI-132|3D Design for Production I|
+DIGI-134|Technical Direction and Rigging I|
+DIGI-136|Life Drawing for Animators I|
+DIGI-140|3D Animation II|DIGI 130
+DIGI-142|3D Design for Production II|DIGI 132
+DIGI-144|Technical Direction and Rigging II|DIGI 134
+DIGI-146|Life Drawing for Animators II|DIGI 136
+DIGI-148|Concept Art and Design I|DIGI 136
+DIGI-149|Animation Action Analysis|
+DIGI-230|3D Animation III|DIGI 140
+DIGI-232|3D Design for Production III|DIGI 142
+DIGI-234|Technical Direction and Rigging III|DIGI 144
+DIGI-237|The Art of Visual Storytelling|DIGI 146 and 148
+DIGI-238|Concept Art and Design II|DIGI 146 and 148
+DIGI-240|3D Animation IV|DIGI 230
+DIGI-242|3D Design for Production IV|DIGI 232
+DIGI-243|Look Development and Lighting|DIGI 230 or DIGI 232
+DIGI-245|Professional Portfolio Development|DIGI 230, 232 and 237
+DEP-001|Job Search and Maintenance|
+DEP-002|Health and Safety in the Workplace|
+DEP-005|Communications Skills|
+DEP-006|Transitions|
+DEP-007|Money and Math|
+DEP-008|Social Skills|
+DEP-009|Work Experience|
+DOCS-101|Documentary Equipment Field Use|
+DOCS-102|Documentary Production I|
+DOCS-103|Sound Recording for Documentary|
+DOCS-106|Documentary Story Part I|
+DOCS-107|Documentary Audio and Video Post-Production:  Foundation|
+DOCS-108|Documentary Studies|
+DOCS-109|Directing the Documentary, Part I|
+DOCS-122|Documentary Production II|DOCS 102
+DOCS-124|Advanced Lighting and Camera|DOCS 101
+DOCS-126|Documentary Story Part II|DOCS 106
+DOCS-129|Directing the Documentary, Part II|DOCS 109
+DOCS-131|Documentary Producing|DOCS 102
+DOCS-133|Sound Design for Documentary|DOCS 103
+DOCS-147|Documentary Audio and Video Post-Production:  Advanced|DOCS 107
+DOCS-315|Documentary Field Studies I|45 credits of 100-level or higher coursework
+EDUC-111|Being with American Sign Language in Pedagogical Contexts|
+EDUC-121|Introduction to Centre Administration|
+EDUC-159|Introduction to Critical Social Justice in ECCE|
+EDUC-166|Child Development I|
+EDUC-168|Child Development II|EDUC 166
+EDUC-173|Curriculum Development I|
+EDUC-178|Caring &amp; Learning in Early Years Settings|
+EDUC-179|Guiding Young Children|
+EDUC-183|Curriculum Development II|EDUC 173
+EDUC-190|Observing &amp; Recording: Thinking with the E.L.F.|EDUC 173 and EDUC 179
+EDUC-240|Advanced Child Development|EDUC 166; and EDUC 168 or EDUC 267
+EDUC-244|Theoretical Perspectives|EDUC 178
+EDUC-251|Centre Operations|EDUC 121 or EDUC 221
+EDUC-276|PRACTICUM-I|Applied Theory - Practicum I
+EDUC-277|PRACTICUM-II|Applied Theory - Practicum II
+EDUC-281|Family, School and Community|27 EDUC credits and EDUC 159
+EDUC-282|Responsive Pedagogies with Infants and Toddlers|30 credits of 100-level or higher coursework and ENGL 100 as a pre- or corequisite
+EDUC-284|Planning for Inclusive Practice|30 credits of 100-level or higher coursework and ENGL 100 as a pre- or corequisite
+EDUC-349|Applied Theory Infant/Toddler Practicum|EDUC 277 as a prerequisite; and EDUC 282 or EDUC 348 as a pre- or co-requisite
+EDUC-372|Contemporary Issues in Childhood Studies|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or co-requisite
+EDUC-373|Inquiry-Based Learning in ECCE|45 credits of 100-level or higher coursework and EDUC 277; and ENGL 100 as a pre- or corequisite
+EDUC-375|Early Childhood:  Children, Culture and Globalization|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-376|Global Perspectives on Literature and Literacy|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-379|Pedagogista Studies: Role of the Pedagogista|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-381|Applied Theory: Advanced Practice in Early Years I|
+EDUC-382|Applied Theory: Advanced Practice in Early Years II|
+EDUC-383|OUTDOOR-ENVIRONMENTS|Curriculum - Outdoor Environments
+EDUC-384|Curriculum: Numeracy in the Early Years|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-385|Advanced Curriculum Studies|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-386|Pedagogista Studies: Engaging with the West Coast|45 credits of 100-level or higher coursework and EDUC 373 or 379
+EDUC-388|The Pedagogical Practice of Pedagogical Narrations|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-390|Applied Theory: Inclusive Practice Practicum|EDUC 277 as a prerequisite; and EDUC 284 or EDUC 354 as a pre- or co-requisite
+EDUC-470|Issues and Perspectives on Young Children, Families &amp; ECCE|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-471|Leadership, Advocacy and Policy in ECCE|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-472|Contemporary Issues in ECCE|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-473|Teacher as Researcher|45 credits of 100-level or higher coursework and ENGL 100 and EDUC 373
+EDUC-474|Social Justice and Ethics in ECCE|45 credits of 100-level or higher coursework; and ENGL 100 as a pre- or corequisite
+EDUC-475|Graduating Seminar|EDUC 277, EDUC 373 and 12 credits of 300-level or higher EDUC; and both EDUC 473 and a 3 credit quantitative/analytical course as pre- or corequisites
+EDUC-476|Atelierista Studies: Studio Research in ECCE|45 credits of 100-level or higher coursework including EDUC 277 and EDUC 373; and ENGL 100 as a pre- or corequisite
+EDUC-477|Atelierista Studies: Young Children and the Arts|45 credits of 100-level or higher coursework including EDUC 277 and EDUC 373; and ENGL 100 as a pre- or corequisite
+EDUC-479|Pedagogista Studies: Advanced Studies of the Pedagogista|EDUC 379
+EDUC-483|Curriculum: Outdoor Environments II|45 credits of 100-level or higher coursework and ENGL 100; and EDUC 383 as a pre- or corequisite
+EDUC-485|Postqualitative Research Methdologies|12 credits of 300-level or higher coursework
+EDUC-505|Childhoods: Reconceptualist Narratives in early Childhood|
+ECON-100|Introduction to Economics|
+ECON-110|Foundations of Economics|
+ECON-111|Principles of Microeconomic Theory|
+ECON-112|Principles of Macroeconomic Theory|ECON 111
+ECON-207|Managerial Economics|ECON 111, 112 and MATH 108 or 116 or equivalent
+ECON-210|Money and Banking|ECON 111 and 112
+ECON-211|Intermediate Microeconomic Analysis|ECON 111, 112 and MATH 108 or 116
+ECON-212|Intermediate Macroeconomic Analysis|ECON 111, 112 and Math 108 or 116
+ECON-230|Ecology, Environment and Economic Policy|
+ECON-250|Economic History of the Pre-Industrial Era|ECON 111 and 112
+ECON-252|Economic History of the Industrial Era|ECON 111 and 112, or 30 credits in Arts and Sciences or permission of the instructor
+ECON-255|Understanding Globalization|ECON 111 and 112
+ECON-290|Public Policy I|ECON 111 and 112
+ECON-291|Public Policy II|ECON 111 and 112
+ECON-342|Economic Growth|45 credits of 100-level or higher coursework
+ECON-350|Revolutions: Economics and the Economy|45 credits of 100-level or higher coursework
+ECON-378|Economies of the World|45 credits of 100-level or higher coursework
+ECON-390|Effects of Public Policy on Business and the Economy|45 credits of 100-level or higher coursework including ECON 111, 112 and MATH 101
+ECON-430|Circular Economies|ECON 230
+ECON-490|Directed Studies|15 upper level credits, including a minimum of one 300-level ECON course
+EDCP-020|Fundamental Education and Career Planning|
+EDCP-040|Education and Career Planning|BENG 031
+EA-100|History, Philosophy and Issues in Inclusive Education|
+EA-101|Working in Schools|
+EA-102|Interpersonal Skills for Education Assistants|
+EA-103|Behaviour as Communication|
+EA-104|Introduction to Technology|
+EA-105|Exploring Diverse Learners in Schools|
+EA-106|Supporting Students with Technology and AAC Systems|EA 104 as a pre- or corequisite
+EA-107|Strategies to Support Students Requiring Accommodations|
+EA-108|Strategies to Support Students on Individualized Programs|
+EA-109|Practicum/Capstone Project for the Education Assistant|EA 100, 101, 102, 103, 104, 105, 107 and 108 as prerequisites and EA 106 as a pre- or corequisite
+EEA-001|Assessment|
+EEA-002|Portfolio|
+EEA-003|Employability Skills|
+EEA-004|Practical Communication Skills for Employment and Education|
+EEA-005|Work Experience Practicum|
+EEA-006|Transition Skills|
+EEA-007|Foundations for Student Success|
+EEA-001|Assessment|
+EEA-002|Portfolio|
+EEA-003|Employability Skills|
+EEA-004|Practical Communication Skills for Employment and Education|
+EEA-005|Work Experience Practicum|
+EEA-006|Transition Skills|
+EEA-007|Foundations for Student Success|
+APSC-111|SOLIDWORKS|Computer-Aided Design - SolidWorks
+APSC-112|Rapid Prototyping Technology|Pre-calculus 12 or BMTH 054 or MATH 105 or Calculus MPT
+APSC-113|Engineering Management for Rapid Prototyping Technology|Pre-calculus 12 or BMTH 054 or MATH 105 or Calculus MPT
+APSC-120|Introduction to Engineering|
+APSC-130|Technical Drafting and Computer-Aided Design|Math Placement Test (Calculus MPT) or Pre-calculus 12 or MATH 105 or BMTH 054
+APSC-140|Engineering Design|APSC 130, and COMP 106 or COMP 120 as prerequisite with concurrency
+APSC-151|Drone Engineering with Applications|Pre-calculus 12 or BMTH 054 or MATH 105 or Calculus MPT
+APSC-278|Materials Science for Engineers|CHEM 111, PHYS 114 and MATH 116
+ENGL-010|Language Skills|See information on English Diagnostic Test in the Registration section of the University Calendar.
+ENGL-100|University Writing Strategies|See information on English Diagnostic Test in the Registration section of the University Calendar.
+ENGL-103|Introduction to Literature|See information on English Diagnostic Test in the Registration section of the University Calendar.
+ENGL-107|Introduction to Indigenous Literatures and Film|See information on English Diagnostic Test in the Registration section of the University Calendar.
+ENGL-109|Literature and Contemporary Culture|See information on English Diagnostic Test in the Registration section of the University Calendar.
+ENGL-112|Reading, Writing, Dialogue: Entering Global Conversations|
+ENGL-190|Introduction to Creative Writing|See information on English Diagnostic Test in the Registration section of the University Calendar.
+ENGL-191|Creative Writing: Contemporary Practices|See information on English Diagnostic Test in the Registration section of the University Calendar.
+ENGL-200|Beginnings: The Story of English Literature Before 1700|6 credits of 100-level ENGL
+ENGL-201|Disruptions: The Story of English Literature After 1700|6 credits of 100-level ENGL
+ENGL-203|Canadian Literature|6 credits of 100-level ENGL
+ENGL-205|Modern American Literature|6 credits of 100-level ENGL
+ENGL-207|Literary Theory and Criticism|6 credits of 100-level ENGL
+ENGL-208|Studies in Fiction|6 credits of 100-level ENGL
+ENGL-213|World Literature in English|6 credits of 100-level ENGL
+ENGL-217|Literature on the Edge|6 credits of 100-level ENGL
+ENGL-218|The Art of Children's Literature|6 credits of 100-level ENGL
+ENGL-219|Reel Lit:  Literature into Film|6 credits of 100-level ENGL
+ENGL-220|Research Voices: Clarity and Style for the Academic Writer|24 credits of 100-level or higher coursework including ENGL 100
+ENGL-260|Writing Communities|6 credits of 100-level ENGL
+ENGL-290|Creative Writing:  Letter and Line|ENGL 190 or ENGL 191
+ENGL-291|Creative Writing:  Narrative Fictions|ENGL 190 or ENGL 191
+ENGL-292|Creative Writing:  Children's Literature|ENGL 190 or ENGL 191
+ENGL-293|Creative Writing: Creative Nonfiction|ENGL 190 or ENGL 191
+ENGL-295|Special Topics in Creative Writing|ENGL 190 or ENGL 191
+ENGL-296|Creative Writing: Writing for the Stage|ENGL 190; or ENGL 191; or ACTR 100 and ENGL 100
+ENGL-297|Introduction to Screenwriting in Fiction|ENGL 190 or ENGL 191; OR MOPA 106 and MOPA 206
+ENGL-298|Writing Lives I|ENGL 190 or ENGL 191
+ENGL-299|Writing Lives II|ENGL 298
+ENGL-300|Writing, Rhetoric, Style|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-305|Studies in Canadian Literature|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-320|World Literature in Translation|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-323|Studies in Genre|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-329|Literature and Performance|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-332|Literature and Society|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-338|Literature and Media|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-344|Literature and the Environment|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-352|Before Literature: Topics in Literary History I|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-353|Inventions of Literature: Topics in Literary History II|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-354|Literary Transformations: Topics in Literary History III|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-358|Special Topics in Contemporary Literature|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-359|Indigenous Resistance Narratives|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-363|Words in The World I: Genre and Form|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-365|Words in the World II: Cultures, Networks and Traditions|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-367|Land School|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-369|Teaching Writing &amp; Literature|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-390|Advanced Poetry and Poetics|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-391|Advanced Narrative Forms|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-392|Creative Writing: Writing Places|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-393|Creative Writing: Advanced Practices|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-394|Creative Writing: Performance|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-395|Special Topics in Creative Writing|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-398|Creative Writing in the Digital Age|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-399|Multi-Genre Creative Writing|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-400|Major Authors|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-420|Topics in Literary Theory|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-435|Electronic Literature|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-463|Words in the World III: Critical and Creative Formations|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-464|Capstone Project|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-465|Words in the World Practicum|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-466|Directed Reading|45 credits of 100-level or higher coursework including 6 credits of 100 or 200-level ENGL
+ENGL-467|Honours Thesis|15 credits of 300 or 400-level coursework including 9 credits of 300-level ENGL
+ENGL-490|Directed Studies|15 upper level credits including one 300-level English course
+ENGL-491|Directed Studies in Creative Writing|45 credits of 100-level or higher coursework including 3 credits of 300-level Creative Writing coursework
+ENGL-496|Literary Publishing I|45 credits of 100-level or higher coursework including ENGL 190 or ENGL 191 and one of ENGL 290, 291, 293, 296 or 297
+ENGL-497|Literary Publishing II|ENGL 496
+EAL-057|Upper Beginner Listening &amp; Speaking|The Capilano EAP Placement Test at the EAP 050 level in Listening & Speaking
+EAL-058|Upper Beginner Reading &amp; Vocabulary|The Capilano EAP Placement Test at the EAP 050 level in Reading & Vocabulary
+EAL-059|Upper Beginner Grammar &amp; Writing|The Capilano EAP Placement Test at the EAP 050 level in Grammar & Writing
+EAL-067|Lower Intermediate Listening &amp; Speaking|EAL 057 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 060 level in Listening & Speaking
+EAL-068|Lower Intermediate Reading &amp; Vocabulary|EAL 058 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 060 level in Reading & Vocabulary
+EAL-069|Lower Intermediate Grammar &amp; Writing|EAL 059 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 060 level in Grammar & Writing
+EAL-077|Intermediate Listening &amp; Speaking|EAL 067 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 070 level in Listening & Speaking
+EAL-078|Intermediate Reading &amp; Vocabulary|EAL 068 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 070 level in Reading & Vocabulary
+EAL-079|Intermediate Grammar &amp; Writing|EAL 069 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 070 level in Grammar & Writing
+EAL-087|Upper Intermediate Listening &amp; Speaking|EAL 077 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 080 level in Listening & Speaking
+EAL-088|Upper Intermediate Reading &amp; Vocabulary|EAL 078 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 080 level in Reading & Vocabulary
+EAL-089|Upper Intermediate Grammar &amp; Writing|EAL 079 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 080 level in Grammar & Writing
+EAL-097|Lower Advanced Listening &amp; Speaking|EAL 087 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 090 level in Listening & Speaking
+EAL-098|Lower Advanced Reading &amp; Vocabulary|EAL 088 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 090 level in Reading & Vocabulary
+EAL-099|Lower Advanced Grammar &amp; Writing|EAL 089 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 090 level in Grammar & Writing
+ESL-031|Lower Intermediate Speaking and Listening|
+ESL-038|Lower Intermediate Reading and Vocabulary|
+ESL-039|Lower Intermediate Writing and Grammar|
+ESL-041|Upper Intermediate Speaking and Listening|
+ESL-048|Upper Intermediate Reading and Vocabulary|
+ESL-049|Upper Intermediate Writing and Grammar|
+ESL-051|Lower Advanced Listening and Speaking|
+ESL-058|Lower Advanced Reading and Vocabulary|
+ESL-059|Lower Advanced Writing and Grammar|
+ESL-061|Upper Advanced Listening and Speaking|
+ESL-068|Upper Advanced Reading and Vocabulary|
+ESL-069|Upper Advanced Writing and Grammar|
+ESL-071|Academic Preparation Listening and Speaking|
+ESL-078|Academic Preparation Reading and Vocabulary|
+ESL-079|Academic Preparation Grammar and Writing|
+EAP-050|English for Academic Purposes Foundations 1|The Capilano EAP Placement Test at the EAP 050 level or an ELA with a minimum score of 32
+EAP-060|English for Academic Purposes Foundations 2|EAP 050 with a minimum grade of B, the Capilano EAP Placement Test at the EAP 060 level, or an ELA with a minimum score of 57
+EAP-070|English for Academic Purposes 1|EAP 060 with a minimum grade of B, the Capilano EAP Placement Test at the EAP 070 level, or Test of English as a Foreign Language (TOEFL) paper=440, internet=32, or English Language Assessment (ELA)=77, International English Language Testing System (IELTS)=4.5 overall, and no one score less than 4.0, or Canadian Academic English Language Assessment (CAEL)=30 or Pearson Test of English (PTE Academic)=44
+EAP-080|English for Academic Purposes 2|EAP 070 with a minimum grade of B, the Capilano EAP Placement Test at the EAP 080 level, or Test of English as a Foreign Language (TOEFL) paper=480, internet=45, or English Language Assessment (ELA)=96, International English Language Testing System (IELTS)=5.0 overall, and no one score less than 4.5, or Canadian Academic English Language Assessment (CAEL)=40 or Pearson Test of English (PTE Academic)=47
+EAP-090|English for Academic Purposes 3|EAP 080 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 090 level, or Test of English as a Foreign Language (TOEFL) paper=520, internet=67, or English Language Assessment (ELA)=114, or International English Language Testing System (IELTS)=5.5 overall, and no one score less than 5.0, or Canadian Academic English Language Assessment (CAEL)=50, or Pearson Test of English (PTE Academic)=50
+EAP-099|Reading and Writing Support for Academic Courses|EAP 080 with a minimum grade of B, the Capilano EAP Placement Test at the EAP 090 level, or an ELA with a minimum score of 114 or other equivalent English Language test scores
+EAP-100|English for Academic Purposes 4A|EAP 090 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 100+101 level, or Test of English as a Foreign Language (TOEFL) paper=530, internet=71, or English Language Assessment (ELA)=128, or International English Language Testing System (IELTS)=6.0 overall, and no one score less than 5.5, or Canadian Academic English Language Assessment (CAEL)=60, or Pearson Test of English (PTE Academic)=53
+EAP-101|English for Academic Purposes 4B|EAP 090 with a minimum grade of B, or the Capilano EAP Placement Test at the EAP 100+101 level, or Test of English as a Foreign Language (TOEFL) paper=530, internet=71, or English Language Assessment (ELA)=128, or International English Language Testing System (IELTS)=6.0 overall, and no one score less than 5.5, or Canadian Academic English Language Assessment (CAEL)=60, or Pearson Test of English (PTE Academic)=53
+EAS-100|English for Academic Success|One of the following: International English Language Testing System (IELTS)=6.5 overall, and no one score less than 6.0; or Test of English as a Foreign Language (TOEFL) internet=83; or Canadian Academic English Language Assessment (CAEL)=70;  or Pearson Test of English (PTE Academic)=56; or EAP 100 (B+) and EAP 100 (B+)
+ENSM-100|Choir Ensemble I|
+ENSM-110|Instrumental Ensemble I|
+ENSM-150|Choir Ensemble II|ENSM 100
+ENSM-160|Instrumental Ensemble II|
+ENSM-200|Choir Ensemble III|ENSM 150
+ENSM-210|Instrumental Ensemble III|
+ENSM-250|Choir Ensemble IV|ENSM 200
+ENSM-260|Instrumental Ensemble IV|
+ENSM-300|Choir Ensemble V|ENSM 250
+ENSM-350|Choir Ensemble VI|ENSM 300
+ELCT-130|Entry Level Craft Training:  Production Assistant|
+ENSO-100|PERSPECTIVES-ON-THE-LIVING-PLANET|Catalysts to Change - Perspectives on the Living Planet
+ENSO-200|ENVIRONMENTAL-STEWARDSHIP|Regional Studies I - Environmental Stewardship
+ENSO-300|APPLIED-ENVIRONMENTAL-STEWARDSHIP|Regional Studies II - Applied Environmental Stewardship
+ENSO-301|Traditional Systems of Resource and Land Use|45 credits of 100-level or higher coursework
+ENSO-310|BIOSPHERES|Globally Significant Places and Peoples - Biospheres
+ENSO-401|Ethnoecology: The Land Speaks|45 credits of 100-level or higher coursework
+ENSO-402|Introduction to Traditional Ecological Knowledge Research|45 credits of 100-level or higher coursework
+ENSO-403|Environmental Impact Assessment|45 credits of 100-level or higher coursework
+ENSO-490|Community and Field School Studies|90 credits of 100-level or higher coursework including at least one Cap Core Experiential course
+FDSC-100|Field School|
+FDSC-200|Field School|
+FDSC-300|Field School|
+FDSC-400|Field School|
+FINS-399|Professional Filmmaking|
+FILM-180|Technical Directing|
+FILM-181|Project|
+FILM-250|Story and Screenplay|16.5 ASAS credits, ENGL 100, ACTR 100 or THTR 130, ACTR 101 or THTR 131, and THTR 160
+FILM-251|Film Crafts for Actors|16.5 ASAS credits, ENGL 100, ACTR 100 or THTR 130, ACTR 101 or THTR 131, and THTR 160
+FILM-308|Documentary Cinema Arts|45 credits of 100-level or higher coursework
+FILM-321|Conceptual Approaches II|ASAS 220
+FILM-323|Queer Cinema|45 credits of 100-level or higher coursework
+FILM-333|Ultra Low-Budget Feature Production|45 credits of 100-level or higher coursework
+FILM-349|Cinema Arts Field School|45 credits of 100-level or higher coursework
+FILM-382|Advanced Film Technique|ACTR 304, ASAS 341, and ASAS 370
+FNST-100|The Squamish People and Language I|
+FNST-101|Squamish People and Language II (Skwxwu7meshulh Uxwumixw II)|
+FNST-102|Lil'wat People and Language I (Ucwalmicw I)|
+FNST-103|Lil'wat People and Language II (Ucwalmicw II)|
+FNST-104|The Sechelt People and Language I|
+FNST-105|The Sechelt People and Language II|
+FNLG-100|The Squamish Language I|
+FNLG-101|The Squamish Language II (Skwxwu7mesh Snichim II)|FNLG 100
+FNLG-102|The Lil'wat Language I (Ucwalmcwts I)|
+FNLG-103|The Lil'wat Language II (Ucwalmicwts II)|FNLG 102
+FNLG-104|The Lilwat Language III (Ucwalmcwts III)|FNLG 103
+FNLG-105|The Lil'wat Language IV (Ucwalmcwts IV)|FNLG 104
+FNLG-106|The Squamish Language III (Skwxwu7mesh Snichim III)|FNLG 101
+FNLG-107|The Squamish Language IV (Skwxwu7mesh Snichim IV)|FNLG 106
+FNLG-108|The Sechelt Language I (Shshshlhem I)|
+FNLG-109|The Sechelt Language II (Shshshlhem II)|FNLG 108
+FNLG-110|The Sechelt Language III (Shshshlhem III)|FNLG 109
+FNLG-111|The Sechelt Language IV (Shshshlhem IV)|FNLG 110
+FYS-100|Culture and Creative Expression|
+FYS-101|Self and Society|
+FYS-102|Science and Technology|
+FYS-110|Culture and Creative Expression|
+FYS-111|Self and Society|
+FYS-112|Science and Technology|
+FYS-120|Culture and Creative Expression|
+FYS-121|Self and Society|
+FYS-122|Science and Technology|
+FYS-130|Culture and Creative Expression|
+FYS-131|Self and Society|
+FYS-132|Science and Technology|
+FYS-140|Culture and Creative Expression|
+FYS-141|Self and Society|
+FYS-142|Science and Technology|
+FREN-100|Beginner French Language and Culture I|
+FREN-101|Beginner French Language and Culture II|FREN 100
+FREN-150|Progression in French Language and Culture|FREN 101 or French 11
+FREN-204|Intermediate French Language and Culture I|FREN 121 or FREN 150 or French 12
+FREN-205|Intermediate French II|FREN 121 or FREN 150 or French 12
+FREN-215|Oral French Practice|FREN 170 and 171, or FREN 180 and 181, or FREN 204 and 205, or Francais Langue Seconde-Immersion 11
+FREN-219|Intermediate Composition|FREN 170 and 171, or FREN 180 and 181, or FREN 204 and 205, or Francais Langue Seconde-Immersion 11
+FREN-270|Advanced French I|FREN 170 and 171, or FREN 180 and 181, or FREN 204 and 205, or Francais Langue Seconde-Immersion 11
+FREN-271|Advanced French II|FREN 170 and 171, or FREN 180 and 181, or FREN 204 and 205, or Francais Langue Seconde-Immersion 11
+FREN-315|Studies in French through Cinema|45 credits of 100-level or higher coursework
+FREN-330|Quebecois Literature and Culture|45 credits of 100-level or higher coursework
+GATE-100|Gateways:  Career Planning and Labour Market Research|
+GATE-101|Gateways:  Lifestyle Planning and Management|
+GATE-102|Gateways:  Personal Management Skills|
+GATE-103|Gateways:  Work Placement|
+GATE-104|Gateways:  Introduction to Computers|
+GEOG-100|Human Geography: People, Places and Cultures|
+GEOG-101|Environmental Geography: Understanding the Issues|
+GEOG-112|Physical Landscapes I|
+GEOG-114|Weather and Climate I|
+GEOG-200|Geographical Approaches to the Global Economy|
+GEOG-201|Urban Studies|
+GEOG-202|Urban Field Studies|GEOG 201 is a prerequisite or a co-requisite
+GEOG-205|Rising Giants:  The Global Shift to China and India|
+GEOG-206|British Columbia: Landscapes in Transition|
+GEOG-208|Canada:  A Nation of Regions|
+GEOG-210|Natural Hazards|
+GEOG-212|Physical Landscapes II|GEOG 112 or PHYS 114 or GEOL 110, OR PHYS 111 as a pre or corequisite
+GEOG-214|Weather and Climate II|GEOG 114 or PHYS 114, OR PHYS 111 as a pre or co-requisite
+GEOG-221|Mapping our Changing World|
+GEOG-222|Environmental Geography: Global to Local|
+GEOG-225|Introduction to Geographic Information Systems|
+GEOG-249|Selected Regions|
+GEOG-316|Climate Change:  From Science to Sustainability|45 credits of 100-level or higher coursework
+GEOG-325|GIS Applications in Natural Resource Management|45 credits of 100-level or higher coursework and one of the following: GEOG 225, COMP 115, STAT 101 or STAT 205
+GEOG-330|Water Changes Everything|45 credits of 100-level or higher coursework
+GEOG-333|The Geography of Prisons|45 credits of 100-level or higher coursework
+GEOG-340|Geography of Education: Contested Spaces|45 credits of 100-level or higher coursework
+GEOG-350|Cities in the Global South|45 credits of 100-level or higher coursework
+GEOG-355|Urban Ecology|45 credits of 100-level or higher coursework
+GEOG-360|The Geography of a Sustainable World|45 credits of 100-level or higher coursework
+GEOG-400|Human Population and the Environment|45 credits of 100-level or higher coursework
+GEOG-414|The Science of Climate Change|GEOG 214
+GEOG-435|Energy, Communities and Environmental Change|45 credits of 100-level or higher coursework
+GEOG-455|Green Infrastructures and Community Networks|45 credits of 100-level or higher coursework
+GEOG-490|Directed Studies|15 upper level credits including a minimum of one 300-level GEOG course
+GLBS-100|Global Stewardship Seminar I:  Preparing to Volunteer for a NFP|
+GLBS-101|Global Stewardship Seminar II: Volunteering for a Not-For-Profit Organization|GLBS 100
+GLBS-110|Introduction to Global Studies|
+GLBS-200|Global Stewardship Seminar III:  Preparing for Group NFP Volunteering|GLBS 100 and 101
+GLBS-201|Global Stewardship Seminar IV: Volunteering in a Group for Not-For-Profits|GLBS 200
+GRDF-100|Fundamental Grip Work for Digital Imaging and Film|
+HCA-100|Lifestyle and Choices|
+HCA-101|Concepts for Practice|
+HCA-102|Interpersonal Communications|
+HCA-103|Common Health Challenges|
+HCA-104|Introduction to Practice|
+HCA-105|Cognitive and or Mental Health Challenges|
+HCA-106|Personal Care and Assistance|
+HCA-110|Practice Experience in Multi-level and/or Complex Care|HCA 100, HCA 101, HCA 102 and HCA 103 with a minimum B- grade in each course, and HCA 106
+HCA-112|Practice Experience: Home Support/Assisted Living/Group Home|HCA 100, HCA 101, HCA 102 and HCA 103 with a minimum B- grade in each course, and HCA 106
+HIST-100|History of the Ancient World|
+HIST-101|Europe in the Middle Ages and Renaissance|
+HIST-102|Europe from the Reformation to the French Revolution|
+HIST-108|Issues and Themes in U.S. History: 1607-1877|
+HIST-109|Issues and Themes in U.S. History: 1865-Present|
+HIST-110|Canada Before Confederation|
+HIST-111|Canada Since Confederation|
+HIST-112|Canadian Military History|
+HIST-117|Pirates and Piracy from Ancient to Modern Times|
+HIST-130|Twentieth Century World History|
+HIST-131|World History: 1953-2003|
+HIST-150|The History of Now: Historical Inquiry into Current Events|
+HIST-205|British Columbia History|
+HIST-206|People of the Land: Environment in Canadian History|
+HIST-208|Canadian-American Relations|
+HIST-209|History of Aboriginal Peoples in Canada|
+HIST-222|History of the First World War|
+HIST-225|History of the Second World War|
+HIST-240|Nazi Germany|
+HIST-248|Revolutionary Ideas in Nineteenth Century Europe|
+HIST-250|Thinkers and Thugs: Ancient Greeks and Romans|
+HIST-260|The Soviet Experiment: 1917-1991|
+HIST-305|U.S. History: 1945-2001|45 credits of 100-level or higher coursework
+HIST-320|Revolutions in History: Special Topics|45 credits of 100-level or higher coursework
+HIST-325|Mysteries and Conspiracies: Special Topics|45 credits of 100-level or higher coursework
+HIST-326|Disasters and Catastrophes: Special Topics|45 credits of 100-level or higher coursework
+HIST-333|History of Slavery and Antislavery|45 credits of 100-level or higher coursework
+HIST-366|Epidemics and Plagues in World History|45 credits of 100-level or higher coursework
+HIST-370|Sex and Drugs|45 credits of 100-level or higher coursework
+HIST-380|War and Society: Selected Topics|45 credits of 100-level or higher coursework
+HIST-390|Murder and Mayhem:  Selected Topics|45 credits of 100-level or higher coursework
+HIST-410|Citizenship and Belonging in Canadian History|45 credits of 100-level or higher coursework including one of the following: HIST 110, HIST 111, HIST 206 or HIST 209
+HIST-414|Tudor and Stuart England, 1485-1689|45 credits of 100-level or higher coursework including 3 credits of 100-level or higher HIST
+HIST-490|Directed Studies|15 upper level credits, including a minimum of one 300-level HIST course
+HKIN-116|Performance Analysis of Selected Individual Sports and Activities I|
+HKIN-117|Performance Analysis of Selected Individual Sports and Activities II|HKIN 116
+HKIN-212|Nutrition in the Prevention of Disease|HKIN 112 or BIOL 202
+HKIN-216|Performance Analysis of Selected Team Sports/Activities I|HKIN 116 or 117
+HKIN-217|Performance Analysis of Selected Team Sports/Activities II|HKIN 116 or 117
+IDF-103|Production Design I|
+IDF-109|Production Planning|
+IDF-110|Production Project #1|
+IDF-119|Professional Development I|
+IDF-120|Indigenous Cinema Studies|
+IDF-126|Introduction to Screenwriting|
+IDF-127|Introductory Documentary|
+IDF-128|Production Management|
+IDF-136|Production/Post Production|
+IDF-137|Narrative Production|13.5 credits of 100-level IDF courses
+IDF-139|Technical Foundations|
+IDF-142|Technical Directing|
+IDF-207|Technical Motion Picture Arts|
+IDF-208|Line Producing and Production Management|
+IDF-209|Advanced Digital Editing|
+IDF-213|Production Design II|
+IDF-217|Sound Design for Film and Video|
+IDF-233|Screenwriting|
+IDF-235|Indigenous World Cinema|
+IDF-239|Advanced Technical Foundations|
+IDF-240|Advanced Technical Directing|
+IDF-243|Production Development|
+IDF-250|Advanced Production Project|
+IDST-110|Aboriginal Culture, the Lands and Personal Connection|
+IDST-120|Aboriginal Land and Resource Stewardship|
+IBUS-255|Cross-Cultural Business|30 credits of 100-level or higher coursework, including ENGL 100
+IBUS-256|Introduction to Supply Chain Management and Sustainability|24 credits of 100-level or higher coursework
+IBUS-321|International Business|45 credits of 100-level or higher coursework; OR 3 NABU credits and CMNS 305
+IBUS-340|International Trade and Law|45 credits of 100-level or higher coursework
+IBUS-341|Introduction to Supply Chain Management and Sustainability|45 credits of 100-level or higher coursework; OR 3 NABU credits and CMNS 305
+IBUS-356|Global Distribution and Logistics|IBUS 256
+IBUS-357|International Marketing|45 credits of 100-level or higher coursework; OR 6 NABU credits
+IBUS-358|Principles of Quality Management|45 credits of 100-level or higher coursework
+IBUS-368|International Entrepreneurship|45 credits of 100-level or higher coursework; OR 6 NABU credits
+IBUS-405|Applied Projects in Supply Chain and Logistics|75 credits of 100-level or higher coursework including IBUS 321 and IBUS 341
+IBUS-434|Advanced Topics in Cross-Cultural Business|75 credits of 100-level or higher coursework including IBUS 321; OR 9 NABU credits
+IBUS-440|Advanced Topics in International Business|75 credits of 100-level or higher coursework including IBUS 255, ENGL 100, and CMNS 152 or 220; OR 3 NABU credits and CMNS 305
+IXD-101|Digital Environment and Workflow|
+IXD-102|User Experience I|
+IXD-103|Visual Design I|
+IXD-104|Digital Typography|
+IXD-105|Ideation and Design Thinking|
+IXD-106|User Experience II|
+IXD-107|Visual Design II|
+IXD-108|Coding for Designers|
+IXD-201|Brand and Design Systems|
+IXD-202|Design for New Technologies|
+IXD-203|Motion and Interaction Design|
+IXD-204|Business of Design|
+IXD-205|Interaction Design Capstone|24 IXD credits
+IXD-206|Professional Development|24 IXD credits
+INTS-110|Making Change: Regional Research and Action|
+INTS-210|Approaching Knowledge|
+INTS-310|Interdisciplinary Research|45 credits of 100-level or higher coursework
+INTS-335|AN-INTERDISCIPLINARY-APPROACH|Grand Challenges - An Interdisciplinary Approach
+INTS-345|Reconciliation in Action|45 credits of 100-level or higher coursework
+INTS-390|Tutorial I|60 credits of 100-level or higher coursework
+INTS-391|Tutorial II|INTS/LBST/LSBA 390
+INTS-392|Tutorial III|INTS/LBST/LSBA 391
+INTS-490|Graduating Project|105 credits of 100-level or higher coursework and one of the following: INTS/LBST/LSBA 392, INTS/LBST 335, or INTS 345
+INTS-495|PART-1|Extended Graduating Project - Part 1
+INTS-496|PART-2|Extended Graduating Project - Part 2
+INMA-500|International Business Strategy|
+INMA-505|International and Comparative Human Resource Management|
+INMA-510|Managing in International Business|
+INMA-515|Marketing Across Cultures|
+INMA-525|The Global Economy|
+INMA-530|International Business Report|
+INMA-535|International Business Plan|
+INMA-540|Finance for International Business|
+INMA-545|Research and Project Skills|
+IVPA-300|Introduction to the Intradisciplinary: an Arts Perspective|45 credits of 100-level or higher coursework
+JAPN-100|Beginner Japanese Language and Culture I|
+JAPN-101|Beginner Japanese Language and Culture II|JAPN 100 or Japanese 11
+JAPN-108|Japanese Culture through Japanese Social Practices|
+JAPN-200|Intermediate Japanese Language and Culture I|JAPN 101 or Japanese 12
+JAPN-201|Intermediate Japanese Language and Culture II|JAPN 200
+JAPN-315|Practical Japanese for the Professions I|45 credits of 100-level or higher coursework including JAPN 201
+ENSJ-105|Jazz Choir|
+ENSJ-116|African Drumming and Dance I|
+ENSJ-117|African Drumming and Dance II|
+ENSJ-120|Guitar/Bass Ensemble I|
+ENSJ-122|Rhythmic Music Ensemble I|
+ENSJ-123|Rhythmic Music Ensemble II|
+ENSJ-135|Jazz Ensemble I|
+ENSJ-136|Instrumental Ensemble I|
+ENSJ-140|Percussion Ensemble I|
+ENSJ-141|Large Jazz Ensemble (A Band) I|
+ENSJ-142|Large Jazz Ensemble (A Band) II|
+ENSJ-143|Large Jazz Ensemble (B Band) I|
+ENSJ-144|Large Jazz Ensemble (B Band) II|
+ENSJ-145|Large Jazz Ensemble (C Band) I|
+ENSJ-146|Large Jazz Ensemble (C Band) II|
+ENSJ-147|Percussion Ensemble I|
+ENSJ-148|Percussion Ensemble II|ENSJ 147
+ENSJ-155|Jazz Choir|
+ENSJ-161|Jazz Choir (Nitecap) I|
+ENSJ-162|Jazz Choir (Nitecap) II|
+ENSJ-163|Jazz Choir (Capital Jazz) I|
+ENSJ-164|Jazz Choir (Capital Jazz) II|
+ENSJ-165|Vocal Instrumental Ensemble I|
+ENSJ-166|Vocal Instrumental Ensemble II|
+ENSJ-170|Guitar/Bass Ensemble II|
+ENSJ-171|Guitar/Bass Ensemble I|
+ENSJ-172|Guitar/Bass Ensemble II|ENSJ 171
+ENSJ-185|Jazz Ensemble II|
+ENSJ-186|Instrumental Ensemble II|
+ENSJ-190|Percussion Ensemble II|
+ENSJ-205|Jazz Choir|
+ENSJ-216|African Drumming and Dance III|
+ENSJ-217|African Drumming and Dance IV|
+ENSJ-220|Guitar/Bass Ensemble III|ENSJ 170
+ENSJ-222|Rhythmic Music Ensemble III|
+ENSJ-223|Rhythmic Music Ensemble IV|
+ENSJ-235|Jazz Ensemble III|
+ENSJ-236|Instrumental Ensemble III|
+ENSJ-240|Percussion Ensemble III|
+ENSJ-241|Large Jazz Ensemble (A Band) III|
+ENSJ-242|Large Jazz Ensemble (A Band) IV|
+ENSJ-243|Large Jazz Ensemble (B Band) III|
+ENSJ-244|Large Jazz Ensemble (B Band) IV|
+ENSJ-245|Large Jazz Ensemble (C Band) III|
+ENSJ-246|Large Jazz Ensemble (C Band) IV|
+ENSJ-247|Percussion Ensemble III|ENSJ 148
+ENSJ-248|Percussion Ensemble IV|ENSJ 247
+ENSJ-255|Jazz Choir|
+ENSJ-256|Jazz Vocal Ensemble|
+ENSJ-261|Jazz Choir (Nitecap) III|
+ENSJ-262|Jazz Choir (Nitecap) IV|
+ENSJ-263|Jazz Choir (Capital Jazz) III|
+ENSJ-264|Jazz Choir (Capital Jazz) IV|
+ENSJ-265|Vocal Instrumental Ensemble III|
+ENSJ-266|Vocal Instrumental Ensemble IV|
+ENSJ-270|Guitar/Bass Ensemble IV|ENSJ 170
+ENSJ-271|Guitar/Bass Ensemble III|ENSJ 172
+ENSJ-272|Guitar/Bass Ensemble IV|ENSJ 271
+ENSJ-285|Jazz Ensemble IV|
+ENSJ-286|Instrumental Ensemble IV|
+ENSJ-290|Percussion Ensemble IV|
+ENSJ-305|Jazz Choir|
+ENSJ-306|Jazz Vocal Ensemble I (by audition only)|
+ENSJ-316|African Drumming and Dance V|
+ENSJ-317|African Drumming and Dance VI|
+ENSJ-320|Guitar/Bass Ensemble V|ENSJ 170
+ENSJ-322|Rhythmic Music Ensemble V|
+ENSJ-323|Rhythmic Music Ensemble VI|
+ENSJ-335|Jazz Ensemble V|
+ENSJ-336|Instrumental Ensemble V|
+ENSJ-340|Percussion Ensemble V|
+ENSJ-341|Large Jazz Ensemble (A Band) V|
+ENSJ-342|Large Jazz Ensemble (A Band) VI|
+ENSJ-343|Large Jazz Ensemble (B Band) V|
+ENSJ-344|Large Jazz Ensemble (B Band) VI|
+ENSJ-345|Large Jazz Ensemble (C Band) V|
+ENSJ-346|Large Jazz Ensemble (C Band) VI|
+ENSJ-347|Percussion Ensemble V|
+ENSJ-348|Percussion Ensemble VI|
+ENSJ-355|Jazz Choir|
+ENSJ-356|Jazz Vocal Ensemble II|
+ENSJ-361|Jazz Choir (Nitecap) V|
+ENSJ-362|Jazz Choir (Nitecap) VI|
+ENSJ-363|Jazz Choir (Capital Jazz) V|
+ENSJ-364|Jazz Choir (Capital Jazz) VI|
+ENSJ-365|Vocal/Instrumental Ensemble V|
+ENSJ-366|Vocal/Instrumental Ensemble VI|
+ENSJ-370|Guitar/Bass Ensemble VI|ENSJ 170
+ENSJ-371|Guitar/Bass Ensemble V|ENSJ 272
+ENSJ-372|Guitar/Bass Ensemble VI|ENSJ 371
+ENSJ-385|Jazz Ensemble VI|
+ENSJ-386|Instrumental Ensemble VI|
+ENSJ-390|Percussion Ensemble VI|
+ENSJ-405|Jazz Choir|
+ENSJ-406|Jazz Vocal Ensemble III|
+ENSJ-416|African Drumming and Dance VII|
+ENSJ-417|African Drumming and Dance VIII|
+ENSJ-422|Rhythmic Music Ensemble VII|
+ENSJ-423|Rhythmic Music Ensemble VIII|
+ENSJ-435|Jazz Ensemble VII|
+ENSJ-436|Instrumental Ensemble VII|
+ENSJ-440|Percussion Ensemble VII|
+ENSJ-441|Large Jazz Ensemble (A Band) VII|
+ENSJ-442|Large Jazz Ensemble (A Band) VIII|
+ENSJ-443|Large Jazz Ensemble (B Band) VII|
+ENSJ-444|Large Jazz Ensemble (B Band) VIII|
+ENSJ-445|Large Jazz Ensemble (C Band) VII|
+ENSJ-446|Large Jazz Ensemble (C Band) VIII|
+ENSJ-455|Jazz Choir|
+ENSJ-456|Jazz Vocal Ensemble IV|
+ENSJ-461|Jazz Choir (Nitecap) VII|
+ENSJ-462|Jazz Choir (Nitecap) VIII|
+ENSJ-463|Jazz Choir (Capital Jazz) VII|
+ENSJ-464|Jazz Choir (Capital Jazz) VIII|
+ENSJ-465|Vocal/Instrumental Ensemble VII|
+ENSJ-466|Vocal/Instrumental Ensemble VIII|
+ENSJ-485|Jazz Ensemble VIII|
+ENSJ-486|Instrumental Ensemble VIII|
+ENSJ-490|Percussion Ensemble VIII|
+JAZZ-101|Beginning Theory for Jazz Studies I|
+JAZZ-102|Beginning Theory for Jazz Studies II|JAZZ 101 with a minimum C- grade
+JAZZ-116|Keyboard Skills I|
+JAZZ-117|Keyboard Skills II|JAZZ 116 with a grade of C- or higher
+JAZZ-130|Theory of Tonal Music and Jazz I|JAZZ 184 as a pre- or co-requisite
+JAZZ-131|Theory of Tonal Music and Jazz II|JAZZ 130 with a grade of C- or higher
+JAZZ-172|Arranging I|JAZZ 231 with a grade of C- or higher
+JAZZ-174|Jazz History I|
+JAZZ-175|Jazz History II|JAZZ 174 with a grade of C- or higher
+JAZZ-184|Ear Training/Sight Singing I|JAZZ 130 is a pre- or co-requisite
+JAZZ-185|Ear Training/Sight Singing II|JAZZ 184 with a grade of C- or higher, and JAZZ 131 as a pre- or co-requisite
+JAZZ-196|Jazz Performance and Improvisation I|
+JAZZ-197|Jazz Performance and Improvisation II|JAZZ 196
+JAZZ-230|Theory of Tonal Music and Jazz III|JAZZ 131 with a grade of C- or higher
+JAZZ-231|Theory of Tonal Music and Jazz IV|JAZZ 230 with a grade of C- or higher
+JAZZ-236|Vocal Improvisation I|JAZZ 137
+JAZZ-237|Vocal Improvisation II|JAZZ 236
+JAZZ-240|Form and Analysis|JAZZ 231 with a grade of C- or higher
+JAZZ-241|Counterpoint|JAZZ 231 with a grade of C- or higher
+JAZZ-250|Introduction to Live Music Production|
+JAZZ-271|Music History I|JAZZ 106, 170, ENGL 100 or 102 plus one of ENGL 103, 104, 105 or 106
+JAZZ-272|Arranging II|JAZZ 172 with a grade of C- or higher
+JAZZ-273|Music History II|JAZZ 271
+JAZZ-274|Studies in Music History I|ENGL 100 and JAZZ 131
+JAZZ-275|Studies in Music History II|JAZZ 274 with a grade of C- or higher
+JAZZ-282|Jazz Improvisation III|A grade of C- or higher in both JAZZ 185 and 197
+JAZZ-283|Jazz Improvisation IV|JAZZ 282 with a grade of C- or higher
+JAZZ-284|Ear Training/Sight Singing III|JAZZ 185 with a grade of C- or higher, and JAZZ 230 as a pre-  or co-requisite
+JAZZ-285|Ear Training/Sight Singing IV|JAZZ 284 with a grade of C- or higher, and JAZZ 231 as a pre- or co-requisite
+JAZZ-296|Jazz Performance III|JAZZ 282 as a pre- or co-requisite
+JAZZ-297|Jazz Performance IV|JAZZ 296 with a grade of C- or higher, and JAZZ 283 as a pre- or co-requisite
+JAZZ-300|20th Century Theory|JAZZ 240 with a grade of C- or higher
+JAZZ-303|Jazz Arranging I|JAZZ 304 with a grade of C- or higher
+JAZZ-304|Jazz Arranging II|JAZZ 231 with a grade of C or higher
+JAZZ-310|Jazz Pedagogy|JAZZ 370 and JAZZ 395
+JAZZ-320|Conducting and Pedagogy I|38 JAZZ credits
+JAZZ-321|Conducting and Pedagogy II|JAZZ 320 with a grade of C- or higher
+JAZZ-322|Class Woodwinds I|
+JAZZ-323|Class Woodwinds II|
+JAZZ-324|Class Brass|
+JAZZ-325|Class Percussion|
+JAZZ-330|Music Theory V: Studies in Musical Form|JAZZ 231 with a grade of C or higher
+JAZZ-331|Music Theory VI: Studies in Counterpoint|JAZZ 231 with a grade of C or higher
+JAZZ-336|Vocal Improvisation III|JAZZ 237
+JAZZ-337|Vocal Improvisation IV|JAZZ 336
+JAZZ-338|Vocal Jazz Master Class III|JAZZ 239
+JAZZ-339|Vocal Jazz Master Class IV|JAZZ 338
+JAZZ-370|Jazz Styles|JAZZ 275 with a grade of C- or higher
+JAZZ-372|Arranging III|JAZZ 272 with a grade of C- or higher
+JAZZ-374|Studies in Music History III: Modernism|JAZZ 275 with a grade of C or higher
+JAZZ-375|Studies in Ethnomusicology|JAZZ 275 with a grade of C- or higher
+JAZZ-376|Studies in Music History III: Music of the African Diaspora|JAZZ 375 with a grade of C- or higher
+JAZZ-382|Jazz Improvisation V|JAZZ 283 with a grade of C- or higher
+JAZZ-383|Jazz Improvisation VI|JAZZ 382 with a grade of C- or higher
+JAZZ-394|Small Ensemble V|JAZZ 297 with a grade of C- or higher
+JAZZ-395|Small Ensemble VI|JAZZ 394
+JAZZ-396|Jazz Performance V|JAZZ 297 with a grade of C or higher
+JAZZ-397|Jazz Performance VI|JAZZ 396 with a grade of C or higher
+JAZZ-400|Interdisciplinary Seminar: Special Topics in Musicology|JAZZ 376 with a grade of C or higher
+JAZZ-401|Interdisciplinary Seminar: Special Topics|JAZZ 400 with a grade of C or higher
+JAZZ-403|Jazz Arranging III: Large Ensemble|JAZZ 304 with a grade of C or higher
+JAZZ-404|Jazz Arranging IV: Vocal Ensemble|JAZZ 304 with a grade of C or higher
+JAZZ-410|Conducting I|
+JAZZ-411|Conducting II|JAZZ 410
+JAZZ-420|Conducting and Pedagogy III|JAZZ 321 with a grade of C or higher
+JAZZ-422|Instrumental Pedagogy (Secondary)|JAZZ 321 with a grade of C+ or higher, and JAZZ 322 and 324 as pre- or co-requisites
+JAZZ-423|Choral Pedagogy (Secondary)|JAZZ 321 with a grade of C+ or higher
+JAZZ-460|Commercial Relations in Music|
+JAZZ-470|World Music|JAZZ 370 with a grade of C- or higher
+JAZZ-472|Jazz Arranging IV|JAZZ 272 with a grade of C- or higher
+JAZZ-494|Small Ensemble VII|JAZZ 395 with a grade a C or higher
+JAZZ-495|Small Ensemble VIII|JAZZ 494
+JAZZ-496|Jazz Performance VII|JAZZ 383 and JAZZ 397 with a grade of C or higher in each course
+JAZZ-497|Jazz Performance VIII|JAZZ 496 with a grade of C+ or higher
+KINE-103|Active Health|
+KINE-112|Health and Human Nutrition|
+KINE-125|Introduction to Leadership in Health and Physical Activity|
+KINE-151|Biomechanics|
+KINE-161|Leisure and Sport in Society|
+KINE-162|Contemporary Health Issues|
+KINE-190|Anatomy and Physiology I|
+KINE-191|Anatomy and Physiology II|HKIN/KINE 190
+KINE-206|Applications of Functional Anatomy|HKIN/KINE 190
+KINE-225|Aging and Health|
+KINE-230|Human Motor Behaviour I|ENGL 100
+KINE-231|Mental Theories in Sport and Exercise|
+KINE-241|Care and Prevention of Sports Injuries|HKIN/KINE 190
+KINE-261|Health, Policy and Society|HKIN/KINE 161
+KINE-275|Exercise Physiology|HKIN/KINE 191
+KINE-284|Human Growth and Development|HKIN/KINE 191 or BIOL 113
+KINE-296|Kinesiology Career Seminar Series|30 credits of 100-level or higher coursework
+KINE-301|Research Methods in Kinesiology|45 credits of 100-level or higher coursework
+KINE-302|Data Analysis|KINE 301
+KINE-306|Principles of Strength and Conditioning|45 credits of 100-level or higher coursework and KINE 206
+KINE-312|Food as Medicine to Prevent and Treat Disease|45 credits of 100-level or higher coursework; and HKIN/KINE 112 or BIOL 202
+KINE-317|Lab Techniques in Exercise Science|45 credits of 100-level or higher coursework and HKIN/KINE 275
+KINE-320|Physiology of Healthy Aging|45 credits of 100-level or higher coursework and HKIN/KINE 275
+KINE-325|Leadership in Health and Physical Activity|45 credits of 100-level or higher coursework
+KINE-329|Ethics in Kinesiology|45 credits of 100-level or higher coursework
+KINE-331|Health Behaviour Change|45 credits of 100-level or higher coursework; and PSYC 100 or HKIN/KINE 231 or ABA 200
+KINE-335|Health Promotion Planning and Evaluation|45 credits of 100-level or higher coursework
+KINE-351|Advanced Biomechanics|45 credits of 100-level or higher coursework and HKIN/KINE 151
+KINE-364|Global Health and Society|45 credits of 100-level or higher coursework
+KINE-369|Instructional Design for Health and Physical Activity|45 credits of 100-level or higher coursework
+KINE-375|Advanced Exercise Physiology|45 credits of 100-level or higher coursework and HKIN/KINE 275
+KINE-390|Advanced Musculoskeletal Anatomy|45 credits of 100-level or higher coursework; and HKIN/KINE 191 or BIOL 113
+KINE-396|Career and Professional Preparation|45 credits of 100-level or higher coursework and HKIN/KINE 296 (A-)
+KINE-397|BKIN Field Studies I|KINE 396 (B+)
+KINE-405|Exercise Management in Symptomatic Populations|KINE 306 or HKIN 205
+KINE-495|Neuro-Motor Movement Control and Rehabilitation|45 credits of 100-level or higher coursework and KINE 230
+KINE-497|BKIN Field Studies II|KINE 397
+KINE-499|BKIN Capstone|90 credits of 100-level or higher coursework and KINE 396
+SDS-100|Learner Success in Self Directed Studies|
+LGST-108|Family Law Litigation Procedures|
+LGST-109|Basic Litigation Procedures|
+LGST-110|Corporate Procedures|
+LGST-112|Basic Conveyance and Mortgage Procedures|
+LGST-114|Wills and Probate Procedures|
+LGST-116|Introduction to the Legal System|
+LGST-119|Practicum|
+LGST-124|Organizational Behaviour|
+LGST-125|Virtual Legal Office|LGST 127
+LGST-126|Basic Securities Procedures|
+LGST-127|Computer Applications for the Legal Office I|
+LGST-128|Computer Applications for the Legal Office II|LGST 127
+LAW-101|Introduction to Law|
+LAW-110|Legal Analysis|
+LAW-115|Legal Document Processing|
+LAW-130|Criminal Law|
+LAW-139|Practicum in Criminal Law Practice and Procedure|LAW 101 and LAW 130
+LAW-140|Family Law and Procedures|LAW 101 and LAW 110, OR 30 credits of 100-level or higher coursework
+LAW-200|Torts I|
+LAW-201|Torts II|LAW 200
+LAW-210|Legal Research|
+LAW-220|Litigation Procedures I|
+LAW-230|Evidence|LAW 101, LAW 110 and LAW 210
+LAW-240|Estates and Procedures|LAW 101, LAW 110 and LAW 210
+LAW-300|Contracts I|LAW 101, LAW 110 and LAW 210
+LAW-301|Contracts II|LAW 300
+LAW-302|Introduction to Construction Law|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-303|Criminal Law II|LAW 101, LAW 110, LAW 130 and LAW 210; OR LAW 130 and 45 credits of 100-level or higher coursework
+LAW-304|Social Media and the Law|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-305|Arts and Entertainment Law|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300; OR 45 credits of 100-level or higher coursework
+LAW-308|Sports and Recreation Law|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300; OR 45 credits of 100-level or higher coursework
+LAW-309|Outdoor Adventure Law|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-310|Legal Drafting|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-312|Cannabis Law|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-315|Legal Interviewing|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-316|Small Claims and Civil Resolution Tribunal Procedures|LAW 101 and either LAW 110 or LAW 210
+LAW-317|Conflict Resolution|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-318|Meditation in Law and Business|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-319|Arbitration Procedures for Legal Professionals|LAW 101 and LAW 110; OR 45 credits of 100-level or higher coursework
+LAW-320|Creditors' Remedies and Procedures|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300
+LAW-322|Animal Law|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300; OR 45 credits of 100-level or higher coursework
+LAW-325|Constitutional Law|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-329|Canadian Human and 2SLGBTQI+ Rights|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-330|Administrative Law|LAW 101, LAW 110 and LAW 210
+LAW-331|Indigenous People and the Law|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-332|Colonization, Indigenous Rights and Reconciliation|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-335|Environmental Law|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-340|Company Law|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300; OR 45 credits of 100-level or higher coursework
+LAW-341|Securities Law|LAW 340 OR 45 credits of 100-level or higher coursework
+LAW-342|Corporate Procedures|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300
+LAW-344|Elder Law|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300
+LAW-349|Estate Litigation for Legal Professionals|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-350|The Law of Trusts|LAW 101, LAW 110 and LAW 210
+LAW-355|Immigration Law|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-360|Labour and Employment Law|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300; OR 45 credits of 100-level or higher coursework
+LAW-370|Modern Themes in Canadian Law|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-374|Digital Forensics for Legal Professionals|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-375|Data Protection &amp; Cyber Security Law|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300; OR 45 credits of 100-level or higher coursework
+LAW-376|Cybersecurity for Legal Professionals|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-380|Tech Startup Law|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300; OR 45 credits of 100-level or higher coursework
+LAW-389|Directed Study I|30 LAW credits and 24 credits (recommended to be non-LAW) 100-level or higher including two English courses
+LAW-400|Insurance Law I|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300
+LAW-401|Insurance Law II|LAW 400
+LAW-410|Legal Advocacy|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-415|Legal Ethics|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-420|Litigation Procedures II|LAW 220
+LAW-421|Civil Litigation|LAW 101, LAW 110, LAW 200, and LAW 210
+LAW-423|E-Discovery|LAW 101, LAW 110, LAW 210 and LAW 220; OR 45 credits of 100-level or higher coursework
+LAW-425|Law Office Procedures|LAW 101, LAW 110 and LAW 210
+LAW-440|Real Property|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300
+LAW-442|Conveyancing Procedures|LAW 101, LAW 110, LAW 210, and LAW 200 or LAW 300
+LAW-443|Commercial Real Estate Law|LAW 442
+LAW-450|Intellectual Property|LAW 101, LAW 110 and LAW 210; OR 45 credits of 100-level or higher coursework
+LAW-453|Financing the Tech Start-Up|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-460|International Law|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-461|Private International Law|LAW 101, LAW 110, LAW 200, LAW 210 and LAW 300
+LAW-462|International Human Rights Law|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-464|International Women's Rights Law|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-466|International Criminal Law|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-467|Transnational Criminal Law|LAW 101, LAW 110, and LAW 210; OR 60 credits of 100-level or higher coursework
+LAW-468|International Climate Change Law|45 credits of 100-level or higher coursework including LAW 101
+LAW-470|Philosophy of Law|LAW 101, LAW 110 and LAW 210, OR 45 credits of 100-level or higher coursework
+LAW-489|Directed Study II|LAW 389
+LAW-498|Practicum|48 LAW credits
+LBST-400|Case Studies in Arts &amp; Sciences|45 credits of 100-level or higher coursework
+LBST-401|Case Studies in Contemporary Issues|45 credits of 100-level or higher coursework
+ELDF-100|Fundamental Lighting for Digital Imaging and Film|
+LING-100|Introduction to General Linguistics:  Language Structure|
+LING-101|Introduction to General Linguistics:  Language Use|
+LING-102|Introduction to Practical Phonetics|
+LING-200|Introduction to Phonology|LING 102
+LING-201|Introduction to Syntax|LING 100
+LING-202|Explorations in English Etymology|
+LING-206|First Nations Languages of British Columbia|
+LING-208|Indigenous Languages and Their Speakers|
+PADM-200|Local Government Administration in BC|
+PADM-201|Local Government Services in BC|
+PADM-202|Municipal Finance in BC|
+PADM-203|Municipal Law in BC|
+PADM-204|Leadership in Local Government Organizations|
+PADM-205|LOCAL-GOVERNMENT-PROFESSIONALS|Advanced Communication Skills - Local Government Professionals
+PADM-207|Managing People in Local Government Organizations|
+PADM-208|Community Planning for Non-Planners:  Planning Skills for Local Government Professionals|
+PADM-209|Fundamentals of Local Government Corporate Administration|
+PADM-210|Management Fundamentals for Local Government Professionals|
+PADM-305|Problem Solving and Decision Making Skills:  Policy Analysis for Local Government Profess|PADM 200
+PADM-306|Project Management Skills for Local Government Professionals|
+PADM-307|Ethics and the Responsible Local Government Professional|
+PADM-308|LOCAL-GOVT-ADVANCED-MANAGEMENT|The Successful CAO - Local Govt Advanced Management
+PADM-309|Municipal Administration and Community Involvement in BC|30 credits of 100-level or higher coursework
+MATH-097|Intermediate Algebra|Math Placement Test (MPT); or Pre-calculus 11 with a minimum C+ grade; or Pre-calculus 12 or BMTH 044 with a minimum C grade
+MATH-102|Statistical Methods|MATH 101 with a minimum C- grade
+MATH-105|MODELLING-OUR-WORLD|Precalculus Mathematics - Modelling Our World
+MATH-108|Calculus I for Business, Social Sciences and Life Sciences|Math Placement Test (MPT); or Pre-calculus 12 with a minimum B grade; or MATH 105 with a minimum C- grade; or BMTH 054 with a minimum C+ grade
+MATH-109|Calculus II for Business, Social Sciences and Life Sciences|MATH 108 or 116 with a minimum C- grade
+MATH-116|THE-MATHEMATICS-OF-CHANGE|Calculus I - The Mathematics of Change
+MATH-123|Contemporary Mathematics|
+MATH-124|Discrete Mathematics I|One of the following: Math Placement Test (MPT), or Precalculus 12 (B), or MATH 108 (C-), or MATH 116 (C-), or MATH 105 (C-), or BMTH 054 (C+)
+MATH-126|Calculus II|MATH 116 with a minimum C- grade
+MATH-139|The Mathematics of Visual Art|
+MATH-190|Mathematics for Elementary Teachers|One of the following: Math Placement Test (MPT), MATH 097, MATH 091 (B), BMTH 043 (B), MATH 096 (C-), BMTH 044 (C+), MATH 123 (C), BMTH 048 (C), Pre-calculus 11 (C), Principles of Math 11 (C), Foundations of Math 11 (C), or Applications of Math 11 (C)
+MATH-200|Linear Algebra|MATH 109 or MATH 126
+MATH-204|Probability and Statistics for Applications|MATH 108 or 116 with a minimum C- grade
+MATH-215|Introduction to Analysis|MATH 126 with a minimum C+ grade
+MATH-224|Discrete Mathematics II|MATH 124 with a minimum C- grade
+MATH-230|Calculus III|MATH 109 (C-) or MATH 126 (C-)
+MATH-231|Calculus IV|MATH 230 and MATH 152 or 200 with a minimum C- grade
+MATH-235|Introduction to Differential Equations|One of: MATH 109 (C-) or MATH 126 (C-); and one of: MATH 152 (C-) or MATH 252 (C-) or MATH 200 (C-)
+MATH-252|Linear Algebra and Differential Equations|MATH 109 as a pre- or corequisite; or MATH 126 as a pre- or corequisite
+MATH-300|Mathematics and Creative Arts|45 credits of 100-level or higher coursework
+MATH-330|Mathematical Modelling|45 credits of 100-level or higher coursework including: MATH 109 or MATH 126; and MATH 152 or MATH 200
+MATH-335|Discovering Mathematics|45 credits of 100-level or higher coursework
+MATH-336|Applied Graph Theory and Optimization|45 credits of 100-level or higher coursework including MATH 124 and COMP 115
+MATH-400|Introduction to Machine Learning|STAT 305; and MATH 116 or MATH 108
+MOPA-100|Technical Directing|
+MOPA-102|Cinematography Foundation|
+MOPA-103|Production Design I|15 credits of 100-level MOPA
+MOPA-104|Introduction to Producing|
+MOPA-106|Screenwriting I|
+MOPA-108|Introduction to Post-Production|
+MOPA-110|MOPA Project #1|15 credits of 100-level MOPA
+MOPA-115|Professional Development I|15 credits of 100-level MOPA
+MOPA-118|Production and Post-Production|15 credits of 100-level MOPA
+MOPA-120|MOPA Project #2|15 credits of 100-level MOPA
+MOPA-201|The Director's Craft|25 credits of 100-level MOPA
+MOPA-202|History of Cinema I|17.5 credits of 200-level MOPA
+MOPA-206|Screenwriting II|25 credits of 100-level MOPA
+MOPA-207|Technical Motion Picture Arts|25 credits of 100-level MOPA
+MOPA-209|Advanced Digital Editing|25 credits of 100-level MOPA
+MOPA-210|MOPA Project #3|17 credits of 200-level MOPA
+MOPA-211|American Cinema|15 credits of 100-level or higher coursework
+MOPA-213|Production Design II|17 credits of 200-level MOPA
+MOPA-217|Sound Design for Film and Video|17 credits of 200-level MOPA
+MOPA-220|Line Producing and Production Management|25 credits of 100-level MOPA
+MOPA-302|World Cinema|45 credits of 100-level or higher coursework
+MOPA-304|Screenwriting III|28.5 MOPA or 27 IDF credits of 200-level or higher coursework
+MOPA-305|Cinematography|28.5 MOPA or 27 IDF credits of 200-level or higher coursework
+MOPA-306|Directing|28.5 MOPA or 27 IDF credits of 200-level or higher coursework
+MOPA-310|MOPA Project #4|15 credits of 300-level MOPA
+MOPA-312|Canadian Cinema|45 credits of 100-level or higher coursework
+MOPA-313|Production Design III|15 credits of 300-level MOPA
+MOPA-317|Affective Sound Design|MOPA 217 or IDF 217
+MOPA-319|The Independent Producer|28.5 MOPA or 27 IDF credits of 200-level or higher coursework
+MOPA-325|Advanced Work Flow I|28.5 MOPA or 27 IDF credits of 200-level or higher coursework
+MOPA-327|The Ethical Producer|45 credits of 100-level or higher coursework
+MOPA-332|Multi-Platform Monetization|45 credits of 100-level or higher coursework
+MOPA-335|Business Affairs|45 credits of 100-level or higher coursework
+MOPA-409|Visual Theory and Practice|27.5 credits of 300-level MOPA
+MOPA-410|MOPA Project #5|8.5 credits of 400-level MOPA
+MOPA-416|Professional Practice|27.5 credits of 300-level MOPA
+MOPA-417|Advanced Post Sound|MOPA 317
+MOPA-425|Advanced Work Flow II|45 credits of 100-level or higher coursework
+MOPA-426|Advanced Work Flow III|45 credits of 100-level or higher coursework
+MOPA-428|Advanced Producing|MOPA 319, MOPA 332 AND MOPA 335
+MOPA-430|Practicum|27.5 credits of 300-level MOPA
+MUS-100|Theory I|Royal Conservatory Theory Level 8; or a score of 60/85 or higher on the Capilano University Theory Placement test; or a minimum grade of C+ in MUS 109
+MUS-101|Theory II|MUS 100
+MUS-108|Music Appreciation|Eligibility to register for English 100.  See English Diagnostic Test in the Registration section of the University Calendar.
+MUS-109|Music Theory for Non-Music Majors|
+MUS-112|Ear Training and Sight Singing I|
+MUS-113|Ear Training and Sight Singing II|MUS 112
+MUS-114|Class Piano I|
+MUS-115|Class Piano II|MUS 114
+MUS-120|Music History I|
+MUS-121|Music History II|MUS 120
+MUS-122|Lyric Diction I|
+MUS-123|Lyric Diction II|
+MUS-124|Musicianship Fundamentals|
+MUS-125|Musicianship Fundamentals II|MUS 124
+MUS-200|Theory III|MUS 101 (C) and MUS 113 (C)
+MUS-201|Theory IV|MUS 200
+MUS-210|Class Woodwinds I|
+MUS-211|Class Woodwinds II|
+MUS-212|Ear Training and Sight Singing III|MUS 101 (C) and MUS 113 (C)
+MUS-213|Ear Training and Sight Singing IV|MUS 212
+MUS-214|Class Piano III|MUS 114 and MUS 115
+MUS-215|Class Piano IV|MUS 214
+MUS-218|Class Brass|
+MUS-219|Class Percussion|
+MUS-220|Music History III|ENGL 100, MUS 120 and MUS 121 as a prerequisite or co-requisite
+MUS-221|Music History IV|MUS 120 and ENGL 100
+MUS-361|Method Studies in Music Education:  Orff Methodology|
+MT-320|Improvisation I|
+MT-321|Improvisation II|MT 320
+MT-330|Clinical Skills|
+MT-350|The Influence of Music|
+MT-360|Music Therapy I|
+MT-361|Music Therapy II|MT 360
+MT-364|Health Conditions of Adulthood|
+MT-370|Health Conditions of Childhood|MT 364
+MT-380|Counselling and Interpersonal Skills|
+MT-391|Practicum I|MT 330
+MT-420|Improvisation III|MT 321
+MT-450|Music and the Creative Arts I|MT 350
+MT-451|Music and the Creative Arts II|MT 450
+MT-460|Music Therapy III|MT 361
+MT-461|Music Therapy IV|MT 460
+MT-462|Principles of Research|PSYC 101
+MT-480|Improvisation III|MT 420
+MT-490|Practicum II|MT 391
+MT-491|Practicum III|MT 490
+MT-511|Pre-Professional Practicum|MT 491
+MUTH-116|Musical Theatre I|
+MUTH-117|Musical Theatre II|MUTH 116 or THTR 116
+MUTH-127|Elements of Theatre for Musical Theatre|
+MUTH-170|Dance for Musical Theatre I|
+MUTH-171|Dance for Musical Theatre II|MUTH 170 or THTR 170
+MUTH-208|Performance Project I|ACTR 100 or THTR 130; and MUTH 117; and ENGL 100
+MUTH-209|Performance Project II|MUTH 208
+MUTH-210|Acting for Film and Television I|ACTR 100 or THTR 130; and ENGL 100
+MUTH-211|Acting for Film and Television II|MUTH 210
+MUTH-216|Musical Theatre III|MUTH 117 and ENGL 100
+MUTH-217|Musical Theatre IV|MUTH 216
+MUTH-270|Dance for Musical Theatre III|MUTH 171 and ENGL 100
+MUTH-271|Dance for Musical Theatre IV|MUTH 270
+MUTH-302|Graduation Showcase|ENGL 100, ACTR 304, MUTH 308, 316, 318, 370, PMTI 300
+MUTH-308|Performance Project III|MUTH 209
+MUTH-309|Performance Project IV|MUTH 308 or THTR 308
+MUTH-310|Advanced Acting for Theatre and Film|ACTR 201
+MUTH-316|Musical Theatre V|MUTH 217
+MUTH-317|Musical Theatre VI|MUTH 316
+MUTH-318|Ensemble Voice for Musical Theatre I|MUTH 217
+MUTH-319|Ensemble Voice for Musical Theatre II|MUTH 318
+MUTH-320|Techniques in Voice for Theatre and Film|ACTR 201
+MUTH-370|Dance for Musical Theatre V|MUTH 271
+MUTH-371|Dance for Musical Theatre VI|MUTH 370 or THTR 376
+NABU-310|North American Business Law|
+NABU-318|Project Management|
+NABU-320|Fundamentals of Finance and Accounting|
+NABU-330|Cross Border Issues in Strategic Human Resource Management|6 NABU credits
+NABU-334|Leadership &amp; Teams in Cross Cultural Business Settings|6 NABU credits
+NABU-335|North American Law &amp; Effective Business Communications|
+NABU-340|North American Financial Management|3 NABU/CMNS credits and NABU 320
+NABU-366|Personal and Professional Sales for North America|
+NABU-390|North American Workplace Preparation|CMNS 305 and 15 credits of 100-level or higher coursework from any of the following subject areas: NABU, BADM, BFIN, IBUS or BMKT.
+NABU-404|North American Strategic Management|CMNS 305 and 6 NABU credits
+NABU-470|North American Business Policy &amp; Strategy|9 NABU credits, plus NABU 404 and CMNS 305
+NABU-480|North American Business Practicum Work Experience I|CMNS 305 and 21 credits of 100-level or higher coursework from any of the following subject areas: NABU, BADM, BFIN, IBUS or BMKT
+NABU-490|North American Business Practicum Work Experience II|NABU 390
+REC-111|Introduction to Commercial Outdoor Recreation|
+REC-115|Connecting Outdoor Recreation to the Natural World|15 credits of 100-level or higher coursework
+REC-121|Introduction to Sustainable Trail Development Concepts|
+REC-148|Introduction to Wilderness Travel|
+REC-152|Environmental Stewardship I|
+REC-156|Natural History for Outdoor Leaders|
+REC-163|Wilderness First Aid I|
+REC-191|Outdoor Recreation Career Management|9 credits of 100-level or higher coursework and TOUR 111 or TOUR 160 or REC 110 or REC 111
+REC-221|Trail Design and Relationships|REC 121 as a pre- or corequisite
+REC-222|Leadership and Experiential Education|27 credits of 100-level or higher coursework including REC 148
+REC-225|Entrepreneurship in Commercial Outdoor Recreation|27 credits of 100-level or higher coursework including TOUR 116
+REC-252|Project Change: How to Think and Act Like a Changemaker|
+REC-260|Outdoor Recreation Co-op Work Experience|24 credits of 100-level or higher coursework including REC 191
+REC-263|Wilderness First Aid|
+PHIL-101|Introductory Philosophy:  Ethics|
+PHIL-102|Introductory Philosophy:  Knowledge and Reality|
+PHIL-105|Philosophy and Current Events|
+PHIL-110|Critical Thinking|
+PHIL-117|Philosophy of Religion|
+PHIL-120|Scientific Reasoning|
+PHIL-150|History of Philosophy:  Ancient and Medieval|
+PHIL-151|History of Philosophy:  Modern|
+PHIL-200|Political Philosophy:  Classic Theories|
+PHIL-201|Political Philosophy:  Problems and Issues|
+PHIL-202|Introduction to Formal Logic|
+PHIL-206|Professional Ethics|
+PHIL-207|Business Ethics|
+PHIL-208|Environmental Ethics|
+PHIL-209|Biomedical Ethics|
+PHIL-220|Philosophy in Literature|
+PHIL-221|Existentialism in Literature|
+PHIL-230|Minds, Brains, and Machines|
+PHIL-240|Philosophy and Gender Relations|
+PHIL-242|Philosophy of Human Nature|
+PHIL-265|Engaged Philosophical Inquiry as a Way of Life|
+PHIL-301|Ethics and the Meaning of Life|45 credits of 100-level or higher coursework including PHIL 101
+PHIL-302|Knowledge and Truth|45 credits of 100-level or higher coursework
+PHIL-305|Philosophy Through Film|45 credits of 100-level or higher coursework
+PHIL-306|Family Ethics|45 credits of 100-level or higher coursework
+PHIL-309|Neuroethics|45 credits of 100-level or higher coursework including 6 credits of PHIL coursework
+PHIL-310|Climate Ethics and Climate Justice|45 credits of 100-level or higher coursework
+PHIL-315|Ethics of War and Peace|45 credits of 100-level or higher coursework
+PHIL-320|Philosophy of Science|45 credits of 100-level or higher coursework
+PHIL-401|Morality and Global Justice|45 credits of 100-level or higher coursework
+PHIL-410|Justice and Equality|45 credits of 100-level or higher coursework
+PHIL-411|Philosophy, Governance, and Public Policy|45 credits of 100-level or higher coursework
+PHIL-430|Philosophy of Mind|45 credits of 100-level or higher coursework including PHIL 102 or 230 and 3 additional credits of 100 or 200-level PHIL
+PHIL-490|Directed Studies|15 upper level credits including a minimum of one 300-level PHIL course
+PHYS-104|Principles of Physics|Pre-calculus 12, or Principles of Math 12, or BMTH 053/054, MATH 105. MATH 105 may be taken concurrently
+PHYS-110|General Physics I|Physics 11 or BPHY 044; and MATH 108 or MATH 116 as a pre- or co-requisite
+PHYS-111|General Physics II|PHYS 110 with a minimum C- grade, and MATH 109 or MATH 126 as a pre- or co-requisite
+PHYS-112|Introductory Physics for the Life Sciences I|Physics 12 or BPHY 053/054 or PHYS 104; and Pre-calculus 12 or BMTH 054 or MATH 105
+PHYS-113|Introductory Physics for the Life Sciences II|Physics 12 or BPHY 053/054 or PHYS 104; and Pre-calculus 12 or BMTH 054 or MATH 105
+PHYS-114|Fundamental Physics I|Physics 12 (B) or BPHY 054 (B) or PHYS 104 (C-); and MATH 116 as a pre- or corequisite
+PHYS-115|Fundamental Physics II|PHYS 114 with a minimum C- grade and Math 126 is a prerequisite or co-requisite
+PHYS-116|Fundamental Physics III|PHYS 108, 110 or 114 with a minimum C- grade and PHYS 115 is a prerequisite or co-requisite and Math 126 is a prerequisite or co-requisite
+PHYS-200|Thermal Physics and Waves|PHYS 111 or 115 with a minimum C- grade
+PHYS-201|Electricity and Magnetism|PHYS 111 or 115 with a minimum C- grade; MATH 230
+PHYS-203|THE-PHYSICS-OF-FLOW|Fluid Mechanics I - The Physics of Flow
+PHYS-210|Physics Laboratory I|PHYS 218 is a prerequisite or co-requisite
+PHYS-211|Physics Laboratory II|PHYS 111 or 115 with a minimum C- grade; MATH 230
+PHYS-218|Computational Physics|PHYS 111 or 115 with a minimum C- grade, and PHYS 210, MATH 200, 230 as prerequisites or co-requisites
+PHYS-222|Mechanics|PHYS 111 or 115 with a minimum C- grade; MATH 200, 230 as prerequisites or co-requisites
+PHYS-300|Environmental Thermodynamics|MATH 230 and PHYS 203
+PHYS-310|Environmental Physics Lab|PHYS 203 or PHYS 210 or PHYS 211; OR STAT 101 and [MATH 108 or MATH 116] and one of [CHEM 211, BIOL 203, BIOL 208, BIOL 214, or GEOG 214]
+POL-100|Introduction to Politics and Government|
+POL-102|Politics Across the Globe: An Intro to Comparative Politics|
+POL-104|Canadian Government|
+POL-110|Introduction to Western Political Thought|
+POL-111|Contemporary Ideologies|
+POL-201|International Relations|
+POL-202|Government and Politics of British Columbia|
+POL-203|International Organizations|
+POL-204|Canadian Public Policy|
+POL-205|Public International Law|
+POL-206|Scope and Methods of Political Analysis|
+POL-207|Contemporary Social and Political Thought|POL 100 or POL 110 or POL 111
+POL-209|The European Union: Opportunity, Crisis, Resilience|
+POL-210|Politics of the United States|
+POL-222|Politics and Place: Comparative Politics of a World Region|
+POL-250|Global Human Rights|
+POL-299|Regional Comparative Politics: Field School|
+POL-301|Comparative Public Policy|45 credits of 100-level or higher coursework
+POL-302|Canadian Law and Politics|45 credits of 100-level or higher coursework
+POL-305|Advanced Public International Law|45 credits at the 100-level or higher, including POL 100 and either POL 201 or POL 203
+POL-308|Advanced Canadian Aboriginal Politics|45 credits of 100-level or higher coursework
+POL-309|Advanced European Integration|45 credits of 100-level or higher coursework
+POL-310|Issues in Transnational Politics|45 credits of 100-level or higher coursework
+POL-315|Utopias, Dystopias and Political Thought|45 credits of 100-level or higher coursework
+POL-320|Global Ecopolitics|45 credits of 100-level or higher coursework
+POL-330|Global Political Economy in Times of Disruption|45 credits of 100-level or higher coursework
+POL-335|The Politics of Identity|45 credits of 100-level or higher coursework
+POL-340|Citizenship and Belonging: From Local to Global Perspectives|45 credits of 100-level or higher coursework
+POL-350|Global Human Rights|45 credits of 100-level or higher coursework
+POL-410|Applied Public Policy Analysis|45 credits of 100-level or higher coursework
+POL-490|Directed Studies|15 upper level credits including a minimum of one 300-level POL course
+PPMI-526|PERFORMANCE|Jazz Guitar - Performance
+PPMI-527|PERFORMANCE|Jazz Bass - Performance
+PPMI-528|PERFORMANCE|Jazz Piano - Performance
+PPMI-530|PERFORMANCE|Jazz Flute - Performance
+PPMI-534|PERFORMANCE|Jazz Saxophone - Performance
+PPMI-535|PERFORMANCE|Jazz Trumpet - Performance
+PPMI-536|PERFORMANCE|Jazz Trombone - Performance
+PPMI-538|PERFORMANCE|Jazz Bowed Strings - Performance
+PPMI-540|PERFORMANCE|Jazz Percussion - Performance
+PPMI-545|PERFORMANCE|Jazz Voice - Performance
+PPMI-626|PERFORMANCE|Jazz Guitar - Performance
+PPMI-627|PERFORMANCE|Jazz Bass - Performance
+PPMI-628|PERFORMANCE|Jazz Piano - Performance
+PPMI-629|PERFORMANCE|Private Music Instruction - Performance
+PPMI-630|PERFORMANCE|Jazz Flute - Performance
+PPMI-634|PERFORMANCE|Jazz Saxophone - Performance
+PPMI-635|PERFORMANCE|Jazz Trumpet - Performance
+PPMI-636|PERFORMANCE|Jazz Trombone - Performance
+PPMI-638|PERFORMANCE|Jazz Bowed Strings - Performance
+PPMI-640|PERFORMANCE|Jazz Percussion - Performance
+PPMI-645|PERFORMANCE|Jazz Voice - Performance
+PPMI-726|PERFORMANCE|Jazz Guitar - Performance
+PPMI-727|PERFORMANCE|Jazz Bass - Performance
+PPMI-728|PERFORMANCE|Jazz Piano - Performance
+PPMI-730|PERFORMANCE|Jazz Flute - Performance
+PPMI-734|PERFORMANCE|Jazz Saxophone - Performance
+PPMI-735|PERFORMANCE|Jazz Trumpet - Performance
+PPMI-736|PERFORMANCE|Jazz Trombone - Performance
+PPMI-738|PERFORMANCE|Jazz Bowed Strings - Performance
+PPMI-740|PERFORMANCE|Jazz Percussion - Performance
+PPMI-745|PERFORMANCE|Jazz Voice - Performance
+PPMI-826|PERFORMANCE|Jazz Guitar - Performance
+PPMI-827|PERFORMANCE|Jazz Bass - Performance
+PPMI-828|PERFORMANCE|Jazz Piano - Performance
+PPMI-830|PERFORMANCE|Jazz Flute - Performance
+PPMI-834|PERFORMANCE|Jazz Saxophone - Performance
+PPMI-835|PERFORMANCE|Jazz Trumpet - Performance
+PPMI-836|PERFORMANCE|Jazz Trombone - Performance
+PPMI-838|PERFORMANCE|Jazz Bowed Strings - Performance
+PPMI-840|PERFORMANCE|Jazz Percussion - Performance
+PPMI-844|PERFORMANCE|Private Music Instruction - Performance
+PPMI-845|PERFORMANCE|Jazz Voice - Performance
+PMIP-101|Private Music Instruction Preparatory|
+PMIP-201|Private Music Instruction Preparatory|
+PMIP-301|Private Music Instruction Preparatory|
+PMIP-401|Private Music Instruction Preparatory|
+PPMI-526|PERFORMANCE|Jazz Guitar - Performance
+PPMI-527|PERFORMANCE|Jazz Bass - Performance
+PPMI-528|PERFORMANCE|Jazz Piano - Performance
+PPMI-530|PERFORMANCE|Jazz Flute - Performance
+PPMI-534|PERFORMANCE|Jazz Saxophone - Performance
+PPMI-535|PERFORMANCE|Jazz Trumpet - Performance
+PPMI-536|PERFORMANCE|Jazz Trombone - Performance
+PPMI-538|PERFORMANCE|Jazz Bowed Strings - Performance
+PPMI-540|PERFORMANCE|Jazz Percussion - Performance
+PPMI-545|PERFORMANCE|Jazz Voice - Performance
+PPMI-626|PERFORMANCE|Jazz Guitar - Performance
+PPMI-627|PERFORMANCE|Jazz Bass - Performance
+PPMI-628|PERFORMANCE|Jazz Piano - Performance
+PPMI-629|PERFORMANCE|Private Music Instruction - Performance
+PPMI-630|PERFORMANCE|Jazz Flute - Performance
+PPMI-634|PERFORMANCE|Jazz Saxophone - Performance
+PPMI-635|PERFORMANCE|Jazz Trumpet - Performance
+PPMI-636|PERFORMANCE|Jazz Trombone - Performance
+PPMI-638|PERFORMANCE|Jazz Bowed Strings - Performance
+PPMI-640|PERFORMANCE|Jazz Percussion - Performance
+PPMI-645|PERFORMANCE|Jazz Voice - Performance
+PPMI-726|PERFORMANCE|Jazz Guitar - Performance
+PPMI-727|PERFORMANCE|Jazz Bass - Performance
+PPMI-728|PERFORMANCE|Jazz Piano - Performance
+PPMI-730|PERFORMANCE|Jazz Flute - Performance
+PPMI-734|PERFORMANCE|Jazz Saxophone - Performance
+PPMI-735|PERFORMANCE|Jazz Trumpet - Performance
+PPMI-736|PERFORMANCE|Jazz Trombone - Performance
+PPMI-738|PERFORMANCE|Jazz Bowed Strings - Performance
+PPMI-740|PERFORMANCE|Jazz Percussion - Performance
+PPMI-745|PERFORMANCE|Jazz Voice - Performance
+PPMI-826|PERFORMANCE|Jazz Guitar - Performance
+PPMI-827|PERFORMANCE|Jazz Bass - Performance
+PPMI-828|PERFORMANCE|Jazz Piano - Performance
+PPMI-830|PERFORMANCE|Jazz Flute - Performance
+PPMI-834|PERFORMANCE|Jazz Saxophone - Performance
+PPMI-835|PERFORMANCE|Jazz Trumpet - Performance
+PPMI-836|PERFORMANCE|Jazz Trombone - Performance
+PPMI-838|PERFORMANCE|Jazz Bowed Strings - Performance
+PPMI-840|PERFORMANCE|Jazz Percussion - Performance
+PPMI-844|PERFORMANCE|Private Music Instruction - Performance
+PPMI-845|PERFORMANCE|Jazz Voice - Performance
+PMTI-100|VOICE-I|Private Musical Theatre Instruction - Voice I
+PMTI-101|VOICE-II|Private Musical Theatre Instruction - Voice II
+PMTI-102|I|Private Music/Theatre Instruction - I
+PMTI-103|II|Private Music/Theatre Instruction - II
+PMTI-200|VOICE-III|Private Musical Theatre Instruction - Voice III
+PMTI-201|VOICE-IV|Private Musical Theatre Instruction - Voice IV
+PMTI-202|III|Private Music/Theatre Instruction - III
+PMTI-203|IV|Private Music/Theatre Instruction - IV
+PMTI-300|VOICE-V|Private Musical Theatre Instruction - Voice V
+PMTI-301|VOICE-VI|Private Musical Theatre Instruction - Voice VI
+PSYC-100|Introduction to Psychology I|
+PSYC-101|Introduction to Psychology II|
+PSYC-200|Social Psychology|PSYC 100 or PSYC 101
+PSYC-207|Lifespan Development|PSYC 100 or PSYC 101
+PSYC-212|Research Methods in Psychology|PSYC 100 and PSYC 101
+PSYC-213|Statistical Methods in Psychology|PSYC 100 and PSYC 101; and MATH 097 (C) or MATH 123 (C) or MATH 091 (C+) or BMTH 043 (C+) or MATH 096 (C-) or BMTH 044 (C-) or BMTH 048 (C) or Pre-calculus 11 (C) or Principles of Math 11 (C) or Foundations of Math 11 (C) or Applications of Math 11 (C) or Applications of Math 12 (pass)
+PSYC-222|Abnormal Psychology|PSYC 100 or PSYC 101
+PSYC-225|Biopsychology of Behaviour|PSYC 100 or PSYC 101
+PSYC-230|Cognitive Psychology|PSYC 100 or PSYC 101
+PSYC-240|Applied Psychology|PSYC 100 or PSYC 101
+PSYC-300|Psychology of Interpersonal Relationships|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-301|Group Dynamics|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-303|History of Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-304|Child Development|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-305|Adult Development and Aging|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-306|Adolescent Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-315|The Psychology of Human Sexuality|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-321|Theories of Personality|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-325|Health Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-326|Positive Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-327|Workplace Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-328|Forensic Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-329|Community Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-330|Thinking and Reasoning|PSYC 100 and PSYC 101 plus one of the following: PSYC 212, INTS 310 or MT 462
+PSYC-331|Psychology and Language|PSYC 100 and PSYC 101 plus one of the following: PSYC 212, INTS 310 or MT 462
+PSYC-332|Reconstructing the Past: The Psychology of Memory|PSYC 100 and PSYC 101 plus one of the following: PSYC 212, INTS 310 or MT 462
+PSYC-333|Learning|PSYC 100 and PSYC 101 plus one of the following: PSYC 212, INTS 310 or MT 462
+PSYC-334|Sensation and Perception|PSYC 100 and PSYC 101 plus one of the following: PSYC 212, INTS 310 or MT 462
+PSYC-335|Feelings and Emotions|PSYC 100 and PSYC 101 plus one of the following: PSYC 212, INTS 310 or MT 462
+PSYC-336|Neuropsychology|PSYC 100 and PSYC 101 plus one of the following: PSYC 212, INTS 310 or MT 462
+PSYC-337|Drugs and Behaviour|PSYC 100 and PSYC 101 plus one of the following: PSYC 212, INTS 310 or MT 462
+PSYC-338|Evolutionary Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-340|Conservation Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-341|Psychology of Religion and Spirituality|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-342|History of Psychology:  Conceptions of Imagination|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-343|Psychology of Anomalous Experiences|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-400|Cultural Psychology|PSYC 212
+PSYC-401|Indigenous Psychology|PSYC 212
+PSYC-410|Professional Ethics in Applied Psychology|45 credits of 100-level or higher coursework including PSYC 100 and PSYC 101
+PSYC-412|Applied Research Methods in Psychology|PSYC 212 and PSYC 213
+PSYC-413|Applied Data Analysis in Psychology|PSYC 212 and PSYC 213
+PSYC-415|Psychology and the Internet|PSYC 212
+PSYC-420|Tests and Measurement|PSYC 212 and PSYC 213
+PSYC-422|Approaches to Treatment and Psychotherapy|PSYC 212
+PSYC-423|Helping Relationships|45 credits of 100-level or higher coursework including PYSC 100 and PSYC 101
+PSYC-430|Service Learning Practicum|PSYC 410
+PSYC-440|Contemporary Topics in Psychology|PSYC 212 and PSYC 213
+PSYC-480|Honours Thesis|PSYC 412, PSYC 413 and PSYC 481 as pre- or corequisites
+PSYC-481|Honours Seminar|PSYC 412, PSYC 413 and PSYC 480 as pre- or corequisites
+PSYC-490|Directed Studies|PSYC 212 and PSYC 213
+RADP-100|Rehabilitation and Professional Skills in Health Care|
+RADP-101|Effective Therapeutic Communication in Rehabilitation|RADP 100
+RADP-111|Rehabilitation Principles and Practices:  OT/OTA|RADP 112 is a prerequisite or co-requisite
+RADP-112|Rehabilitation Principles and Practices:  PT/PTA|RADP 111 is a prerequisite or co-requisite
+RADP-113|Rehabilitation Principles and Practices:  SLP/SLPA|RADP 114 is a prerequisite or co-requisite
+RADP-114|Rehabilitation Principles and Practices:  RA|RADP 111 and 112
+RADP-120|Growth and Development for Rehabilitation Assistants|
+RADP-121|Functional Anatomy, Theory and Skills:  OTA/PTA|RADP 120 is a prerequisite or co-requisite
+RADP-122|Physiology and Cardio-Respiratory Theory and Skills:  PTA|RADP 120 and 121
+RADP-130|Disease, Injury and Intervention:  Musculoskeletal Systems|RADP 120 and 121 are prerequisites or co-requisites
+RADP-131|Musculoskeletal Theory and Skills:  OTA|RADP 130 is a prerequisite or co-requisite
+RADP-132|Musculoskeletal Theory and Skills:  PTA|RADP 130 and 131 are prerequisites or co-requisites
+RADP-140|Disease, Injury and Intervention:  Psychosocial/Cognitive Systems|RADP 130, 131 and 132
+RADP-141|Psychosocial/Cognitive Theory and Skills:  OTA/PTA|RADP 140 is a prerequisite or co-requisite
+RADP-190|Practicum:  Fieldwork I|
+RADP-201|Advanced Communications in Rehabilitation|RADP 101
+RADP-210|Administrative Support Systems for Rehabilitation Assistants|
+RADP-211|Recreation Techniques for Rehabilitation Assistants|RADP 114
+RADP-230|Disease, Injury and Intervention:  Neurological System|RADP 140 and 141
+RADP-231|Neurology Theory and Skills:  OTA|RADP 230 is a prerequisite or co-requisite
+RADP-232|Neurology Theory and Skills:  PTA|RADP 230 is a prerequisite or co-requisite
+RADP-233|Neurology Theory and Skills:  SLPA|RADP 230 is a prerequisite or co-requisite
+RADP-240|Gerontology Theory and Skills:  OTA/PTA|RADP 230, 231, 232, 233 and 290
+RADP-243|Audiology Theory and Skills:  SLPA|RADP 240 is a prerequisite or co-requisite
+RADP-250|Community Integration Theory and Skills:  OTA/PTA|Completion of all first, second and third term RADP courses
+RADP-290|Practicum:  Fieldwork II|RADP 190
+RADP-291|Practicum:  Fieldwork III|RADP 290
+RMCP-172|Introduction to Retail|
+RMCP-173|Retail Merchandising|RMCP 172 as a pre- or corequisite
+RMCP-375|Current Topics in Retail Innovation|[RMCP 172 and RMCP 173]; or [BMKT 203 or BMKT 161]; or BMKT 369; or [CMNS 305 and NABU 334]
+BSCI-021|Fundamental Level General Science|
+SCI-100|Explorations in Science|
+SCI-369|Revolutions and Revolutionary Thinking in Science|42 credits of 100-level or higher coursework and one of the following: BADM 102, LBST 201, MATH 101, MATH 105, PSYC 213, Pre-calculus 12 (B), or Math Placement Test (Precalculus MPT)
+SCI-400|Research Project|
+SCI-410|The Science of Sound and Light|45 credits of post-secondary education at 100-level or higher
+SOSC-249|Social Sciences Field School|24 post secondary credits
+SOSC-300|Eco-literacy|45 credits of 100-level or higher coursework
+SOSC-320|People and the Environment:  Past and Future Relationships|45 credits of post-secondary education at 100-level or higher
+SOSC-349|Social Sciences Study Abroad|24 post secondary credits
+SOSC-401|Contemporary Issues:  The Presence of the Past|45 credits of post-secondary education at 100-level or higher
+BSOC-031|Intermediate Level Social Studies|BENG 021 or equivalent
+BSOC-041|Advanced Level Social Studies|BENG 031 or equivalent
+SOC-100|Introduction to Sociology|
+SOC-101|Concepts and Theories of Society|
+SOC-200|Identity, Culture, and Power in Canadian Society|
+SOC-201|Social Problems in BC|
+SOC-210|Sociology of Popular Culture|
+SOC-211|Global Issues|
+SOC-222|Sociology of the Arts|SOC 100 or 101
+SOC-223|Media and Society|
+SOC-250|Social Research|
+SOC-260|Social Movements|
+SOC-300|The Sociology of Consumer Culture|45 credits of 100-level or higher coursework
+SOC-301|Social Inequality|45 credits of 100-level or higher coursework
+SOC-302|Sociology of Climate Change|45 credits of 100-level or higher coursework
+SOC-320|Technology, Work, and Society|45 credits of 100-level or higher coursework
+SOC-330|Sociology of the City: Issues and Processes of Exclusion|45 credits of 100-level or higher coursework including SOC 100 or SOC 101
+SOC-340|Migration And Displacement|45 credits of 100-level or higher coursework
+SOC-341|Violence and Nonviolence|45 credits of 100-level or higher coursework
+SOC-351|Modernism, Postmodernism, and Society|45 credits of 100-level or higher coursework
+SOC-352|Marxism and Social Theory|45 credits of 100-level or higher coursework
+SOC-360|Sociology of Mental Health|45 credits of 100-level or higher coursework including SOC 100 or SOC 101
+SOC-480|Community Engaged Sociology|SOC 250 and 6 credits of 300-level or higher SOC
+SOC-485|Community Based Learning|SOC 250 and 6 credits of 300-level or higher SOC
+SOC-490|Directed Studies|15 credits of 300-level or higher coursework including 3 credits of 300-level or higher SOC
+SPAN-100|Beginner Spanish Language and Culture I|
+SPAN-101|Beginner Spanish Language and Culture II|SPAN 100 or Spanish 11
+SPAN-200|Intermediate Spanish Language and Culture I|SPAN 101 or Spanish 12
+SPAN-201|Intermediate Spanish Language and Culture II|SPAN 200
+SPAN-300|Advanced Spanish I|45 credits of 100-level or higher coursework including SPAN 201
+STAT-101|Introduction to Statistics|One of the following: Math Placement Test (MPT), MATH 097, MATH 091 (C+), BMTH 043 (C+), MATH 096 (C-), BMTH 044 (C-), MATH 123 (C), BMTH 048 (C), Pre-calculus 11 (C), Principles of Math 11 (C), Foundations of Math 11 (C), or Applications of Math 11 (C)
+STAT-205|Introduction to Probability and Statistics|MATH 109 as a pre- or corequisite; or MATH 126 as a pre- or corequisite
+STAT-301|Data Analysis in Action|45 credits of 100-level or higher coursework including one of the following: STAT 101, STAT 205, BADM 210, LBST 201, PSYC 213, TOUR 350 or KINE 302
+STAT-305|Introduction to Big Data Analysis|45 credits of 100-level or higher coursework including COMP 115 and one of: STAT 101, STAT 205, LBST 201, BADM 210, PSYC 213, or KINE 302
+STAT-310|Predictive Modelling and Analysis of Experimental Data|45 credits 100-level or higher coursework including one of STAT 101, STAT 205, LBST 201, BADM 210, PSYC 213, TOUR 350 or KINE 302
+SAAB-300|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SAAB-301|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SAAB-302|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SAAB-303|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SAAB-304|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SAAB-305|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SAAB-306|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SAAB-307|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SAAB-308|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SAAB-309|APPLIED-BEHAVIOUR-ANALYSIS-AUTISM|Study Abroad - Applied Behaviour Analysis (Autism)
+SABA-300|Study Abroad Business Administration I|
+SABA-301|Study Abroad Business Administration II|
+SABA-302|Study Abroad Business Administration III|
+SABA-303|Study Abroad Business Administration IV|
+SABA-304|Study Abroad Business Administration V|
+SABA-305|Study Abroad Business Administration VI|
+SABA-306|Study Abroad Business Administration VII|
+SABA-307|Study Abroad Business Administration VIII|
+SABA-308|Study Abroad Business Administration IX|
+SABA-309|Study Abroad Business Administration X|
+SABA-500|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-501|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-502|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-503|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-504|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-505|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-506|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-507|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-508|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SABA-509|BUSINESS-ADMINISTRATION|Study Abroad - Business Administration
+SACM-300|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SACM-301|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SACM-302|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SACM-303|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SACM-304|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SACM-305|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SACM-306|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SACM-307|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SACM-308|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SACM-309|COMMUNICATION-STUDIES|Study Abroad - Communication Studies
+SAEC-200|Study Abroad/Study Exchange-Early Childhood Care &amp; Education|
+SAEC-201|Study Abroad/Study Exchange-Early Childhood Care &amp; Education|
+SAEC-202|Study Abroad/Study Exchange-Early Childhood Care &amp; Education|
+SAEC-203|Study Abroad/Study Exchange-Early Childhood Care &amp; Education|
+SAEC-204|Study Abroad/Study Exchange-Early Childhood Care &amp; Education|
+SAEC-205|Study Abroad/Study Exchange-Early Childhood Care &amp; Education|
+SAEC-300|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAEC-301|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAEC-302|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAEC-303|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAEC-304|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAEC-305|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAEC-306|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAEC-307|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAEC-308|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAEC-309|EARLY-CHILDHOOD-CARE--EDUCATION|Study Abroad - Early Childhood Care &amp; Education
+SAHU-200|Study Abroad/Student Exchange (Humanities)|
+SAHU-201|Study Abroad/Student Exchange (Humanities)|
+SAHU-202|Study Abroad/Student Exchange (Humanities)|
+SAHU-203|Study Abroad/Student Exchange (Humanities)|
+SAHU-204|Study Abroad/Student Exchange (Humanities)|
+SAHU-205|Study Abroad/Student Exchange (Humanities)|
+SAID-200|Study Abroad/Student Exchange (IDEA)|
+SAID-300|Study Abroad/Student Exchange (IDEA)|
+SAID-301|Study Abroad/Student Exchange (IDEA)|
+SAID-302|Study Abroad/Student Exchange (IDEA)|
+SAID-303|Study Abroad/Student Exchange (IDEA)|
+SAJS-300|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SAJS-301|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SAJS-302|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SAJS-303|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SAJS-304|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SAJS-305|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SAJS-306|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SAJS-307|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SAJS-308|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SAJS-309|JAZZ-STUDIES|Study Abroad - Jazz Studies
+SALS-300|LEGAL-STUDIES|Study Abroad - Legal Studies
+SALS-301|LEGAL-STUDIES|Study Abroad - Legal Studies
+SALS-302|LEGAL-STUDIES|Study Abroad - Legal Studies
+SALS-303|LEGAL-STUDIES|Study Abroad - Legal Studies
+SALS-304|LEGAL-STUDIES|Study Abroad - Legal Studies
+SALA-300|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SALA-301|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SALA-302|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SALA-303|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SALA-304|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SALA-305|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SALA-306|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SALA-307|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SALA-308|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SALA-309|LIBERAL-STUDIES|Study Abroad - Liberal Studies
+SAMP-300|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SAMP-301|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SAMP-302|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SAMP-303|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SAMP-304|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SAMP-305|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SAMP-306|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SAMP-307|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SAMP-308|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SAMP-309|MOTION-PICTURE-ARTS|Study Abroad - Motion Picture Arts
+SASS-200|Study Abroad/Student Exchange (Social Sciences)|
+SASS-201|Study Abroad/Student Exchange (Social Sciences)|
+SASS-202|Study Abroad/Student Exchange (Social Sciences)|
+SASS-203|Study Abroad/Student Exchange (Social Sciences)|
+SASS-204|Study Abroad/Student Exchange (Social Sciences)|
+SASS-205|Study Abroad/Student Exchange (Social Sciences)|
+SATO-201|Study Abroad/Student Exchange (Tourism/OREC)|
+SATO-202|Study Abroad/Student Exchange (Tourism/OREC)|
+SATO-203|Study Abroad/Student Exchange (Tourism/OREC)|
+SATO-204|Study Abroad/Student Exchange (Tourism/OREC)|
+SATO-301|Study Abroad/Student Exchange (Tourism/OREC)|
+SATO-302|Study Abroad/Student Exchange (Tourism/OREC)|
+SATO-303|Study Abroad/Student Exchange (Tourism/OREC)|
+SATO-304|Study Abroad/Student Exchange (Tourism/OREC)|
+TECT-130|Theatre Crew Responsibilities|
+TECT-132|Stagecraft and Grip Production|TECT 130 as a pre- or co-requisite
+TECT-134|Theatrical Production and Design|
+TECT-136|Scenic Construction|
+TECT-138|Stagecraft and Scenic Construction Production|TECT 136 as a pre- or co-requisite
+TECT-140|Stagecraft and Theatrical Production Design|TECT 134 as a pre- or co-requisite
+TECT-210|Senior Production and Theatrical Design I|ENGL 100 and TECT 134
+TECT-211|Senior Production and Theatrical Design II|TECT 210
+TECT-212|Theatrical Lighting and Design|ENGL 100 and TECT 134
+TECT-214|Scenic Art|ENGL 100 and TECT 134
+TECT-216|Stagecraft and Scenic Art Responsibilities|ENGL 100 and TECT 134, and TECT 214 as a pre- or co-requisite
+TECT-218|Stagecraft and Lighting Design|ENGL 100 and TECT 134, and TECT 212 as a pre- or co-requisite
+TECT-220|Live and Studio Sound Design|TECT 134
+TECT-222|Properties Design|TECT 134
+TECT-224|Stagecraft and Senior Production Responsibilities|TECT 211 as a pre- or co-requisite
+TECT-226|Stagecraft and Properties|TECT 222 as a pre- or co-requisite
+TECT-374|PRODUCTION|Theatre Institute I - Production
+TECT-375|PRODUCTION|Theatre Institute II - Production
+TXTL-120|Dyeing and Breakdown for Film and Theatre I|
+TXTL-121|Dyeing and Breakdown for Film and Theatre II|TXTL 120
+TXTL-220|Textile Arts for Costumers|TXTL 121 or permission of the instructor
+THTR-130|Acting: Foundations to Performance|
+THTR-131|Improvisation: Foundations to Performance|
+THTR-152|Costume Production I|
+THTR-153|Costume Production II|THTR 152
+THTR-160|Technical Theatre Fundamentals|
+THTR-266|Costume Production III|THTR 153
+THTR-267|Costume Production IV|THTR 266
+INST-370|DIRECTING|Theatre Institute I - Directing
+INST-371|DIRECTING|Theatre Institute II - Directing
+TOUR-104|Marine Tourism and Interpretation|
+TOUR-111|Tourism &amp; Hospitality Management: A Global Network|
+TOUR-112|Tourism Marketing I|
+TOUR-113|Human Resource Management in Tourism|
+TOUR-114|Organizational Behaviour in Tourism|
+TOUR-116|Financial Planning in Tourism I|
+TOUR-131|Tourism Product Development|TOUR 111 or TOUR 160 or REC 111
+TOUR-133|Tourism Career Management|9 credits of 100-level or higher coursework including TOUR 111, REC 110 or REC 111
+TOUR-140|Tourism Co-op Work Experience|18 credits of 100-level or higher coursework including TOUR 133
+TOUR-142|Building Cultural Connections Through Gastronomy Tourism|
+TOUR-145|Career Preparation: Tourism &amp; Hospitality Management|15 credits of 100-level or higher coursework including TOUR 111
+TOUR-149|Computer Applications in Tourism|
+TOUR-150|Work Experience: Tourism &amp; Hospitality Management|24 credits of 100-level or higher coursework  including TOUR 145
+TOUR-151|Service Management in Tourism|
+TOUR-152|Event Administration|
+TOUR-154|Marketing and Public Relations for Events|
+TOUR-157|Event Production and Logistics|
+TOUR-159|Geography of Destination Resort Environments|
+TOUR-160|Introduction to Resort Management|
+TOUR-162|Food and Beverage Management|
+TOUR-165|Resort Management Co-op|30 credits of 100-level or higher coursework
+TOUR-170|Mountain Bike Park/Trail Design and Building I|
+TOUR-172|Mountain Bike Park/Trail Design and Building II|TOUR 170
+TOUR-190|Destination Canada|
+TOUR-191|Tourism Destinations: IATA Areas 1 and 2|
+TOUR-192|Tourism Destinations: IATA Area 3|
+TOUR-200|Revenue Management for Tourism|18 credits of 100-level or higher course work, including TOUR 112
+TOUR-201|Tourism and Technology|15 credits of 100-level or higher coursework
+TOUR-205|Selling &amp; Managing Relationships for Tourism Professionals|
+TOUR-206|Directed Study in Tourism I|30 credits of 100-level or higher coursework
+TOUR-208|Risk Management for Tourism and Outdoor Recreation|12 credits of 100-level or higher coursework
+TOUR-210|Strategic Management:  Resort Case Study|27 credits of 100-level or higher coursework
+TOUR-216|Financial Planning in Tourism II|TOUR 116 or BFIN 141
+TOUR-220|TOURISM-GENERATORS|Special Events - Tourism Generators
+TOUR-221|Conference Services|15 credits of 100-level or higher coursework
+TOUR-225|Entrepreneurship: Small and Medium Tourism Enterprises|27 credits of 100-level or higher coursework including TOUR 116
+TOUR-227|Heritage, Cultural and Arts Planning for Tourism|15 credits of 100-level or higher coursework
+TOUR-232|Tourism Planning|15 credits of 100-level or higher coursework
+TOUR-233|Cross Cultural Tourism|15 credits of 100-level or higher coursework
+TOUR-234|Responsible Tourism Management|15 credits of 100-level or higher coursework
+TOUR-250|Operations Management in Tourism &amp; Hospitality I|15 credits of 100-level or higher coursework
+TOUR-251|Hotel Operations I: Food and Beverage|15 credits of 100-level or higher coursework including TOUR 111 or REC 111 or TOUR 160
+TOUR-252|Hotel Operations I: Rooms Division|15 credits of 100-level or higher coursework including TOUR 111 or REC 111 or TOUR 160
+TOUR-253|Adventure Tourism Operations|15 credits of 100-level or higher coursework
+TOUR-255|Management Concepts in the Adventure Industry|15 credits of 100-level or higher coursework
+TOUR-256|Adventure Education and Recreation Programming|15 credits of 100-level or higher coursework
+TOUR-259|Technology &amp; Innovation in Tourism and Hospitality|15 credits of 100-level or higher coursework
+TOUR-261|Resort Financial Management|TOUR 116
+TOUR-270|Special Topics in Tourism Management I|
+TOUR-275|Tourism and the Sustainable Development Goals|
+TOUR-280|Special Interest Tourism|
+TOUR-306|Directed Study in Tourism II|60 credits of 100-level or higher coursework
+TOUR-307|Tourism and Climate Change|60 credits of 100-level or higher coursework
+TOUR-312|Tourism Marketing II|45 credits of 100-level or higher coursework including TOUR 112
+TOUR-316|Financial Management for Tourism|60 credits of 100-level or higher coursework including TOUR 116
+TOUR-321|Organizational Leadership in Tourism|60 credits of 100-level or higher coursework including TOUR 113 or TOUR 114 or REC 245 or BADM 106
+TOUR-325|Tourism Accounting|
+TOUR-326|Advanced Topics in Cross-Cultural Tourism|45 credits of 100-level or higher coursework
+TOUR-327|Research Methods and Applications in Tourism|45 credits of 100-level or higher coursework
+TOUR-328|International Destination Marketing|60 credits of 100-level or higher coursework including TOUR 112 or BMKT 161 or BMKT 203
+TOUR-331|Regional Topics in Tourism|45 credits of 100-level or higher coursework
+TOUR-335|Strategic Management in Tourism|60 credits of 100-level or higher coursework including ENGL 100
+TOUR-341|Advanced Tourism Product Development|60 credits of 100-level or higher coursework including TOUR 225 or REC 225
+TOUR-342|Environmental Stewardship:  Advanced Principles and Applications|60 credits of 100-level or higher coursework
+TOUR-344|International Ecotourism|60 credits of 100-level or higher coursework
+TOUR-351|Tourism Consumer Behaviour|60 credits of 100-level or higher coursework including TOUR 112 or BMKT 161 or BMKT 203
+TOUR-356|Adventure Tourism for Destination Development|60 credits of 100-level or higher coursework
+TOUR-360|Contemporary Topics Shaping Tourism  A Global Perspective|45 credits of 100-level or higher coursework
+TOUR-364|Food Sovereignty for Sustainable Tourism Development|45 credits of 100-level or higher coursework
+TOUR-370|Special Topics in Tourism Management II|45 credits of 100-level or higher coursework
+TOUR-371|Applied Service Management in North America|
+TOUR-372|Tourism and Hospitality Practicum|21 TOUR credits of 300-level or higher coursework
+TOUR-373|Convention Management and Service|60 credits of 100-level or higher coursework
+TOUR-374|Hospitality Operations: International Context|
+TOUR-400|Revenue Management and Advanced Sales in Tourism|60 credits of 100-level or higher coursework
+TOUR-404|Travel Distribution Management|60 credits of 100-level or higher coursework
+TOUR-406|Directed Study in Tourism III|75 credits of 100-level or higher coursework
+TOUR-416|Applied Hotel Financial Management|TOUR 316 or TOUR 325
+TOUR-423|Tourism Planning and Policy|60 credits of 100-level or higher coursework
+TOUR-435|Applied Project Management in Tourism|75 credits of 100-level or higher coursework including TOUR 335
+TOUR-440|Applied Research in Tourism|75 credits of 100-level or higher coursework including TOUR 327
+TOUR-450|Operations Management in Tourism &amp; Hospitality II|60 credits of 100-level or higher coursework
+TOUR-451|Hotel Operations II|60 credits of 100-level or higher coursework
+TOUR-455|Adventure Tourism for Sustainable Community Development|60 credits of 100-level or higher coursework
+TOUR-456|Land Use and Tourism Operations|60 credits of 100-level or higher coursework
+TOUR-457|Risk Management and Law in Adventure Tourism|75 credits of 100-level or higher coursework
+TOUR-470|Applied Digital Marketing Strategies in Tourism|TOUR 312
+TOUR-471|Human Capital Development in Tourism Management|60 credits of 100-level or higher coursework
+TOUR-480|Tourism Management International Work Experience|60 credits of 100-level or higher coursework
+UOF-098|Foundations in Quantitative Reasoning|
+UOF-099|Foundations in Critical Reflection|
+USSD-105|University Success Strategies: Reading and Study Skills|
+USSD-110|Reading Dynamics|
+USS-100|Introduction to University Success Strategies|
+VISN-010|Cognitive Learning Skills Development Foundation Level|
+VISN-012|Cognitive Learning Skills Development Strengthening Level|VISN 010
+VISN-020|Perceptual Skills Development Foundation Level|
+VISN-022|Perceptual Skills Development Strengthening Level|VISN 020
+VISN-030|Auditory Processing Skill Development|VISN 010 and 020
+VISN-040|Preparation for the Language Arts Curriculum|
+VISN-050|Preparation for the Math Curriculum|
+VISN-060|Memory Skills Development|
+VISN-070|Preparation for Reading|
+IDES-111|Technology Intensive I|
+IDES-131|Survey and Principles of Illustration I|
+IDES-132|Survey and Principles of Illustration II|
+IDES-133|Visual Studio|
+IDES-141|Survey and Principles of Design I|
+IDES-142|Survey and Principles of Design II|
+IDES-151|Digital Media I|
+IDES-211|Technology Intensive I|
+IDES-235|Illustration Studio I|
+IDES-236|Illustration Studio II|
+IDES-237|Digital Illustration|
+IDES-243|Design Studio I|
+IDES-244|Design Studio II|
+IDES-247|Survey and Principles of Typography|
+IDES-249|Brand Identity|
+IDES-252|Digital Media II|IDES 151
+IDES-313|Technology Intensive III|50 IDES/DSGN credits
+IDES-320|Visual Communication I|45 credits of 100-level or higher coursework
+IDES-340|Visual Communication Workshops I|45 credits of 100-level or higher coursework
+IDES-341|Visual Communication Workshops II|45 credits of 100-level or higher coursework
+IDES-360|Visual Communication Studio I|50 IDES/DSGN credits
+IDES-361|Visual Communication Studio I: Illustration Concentration|50 IDES/DSGN credits
+IDES-362|Visual Communication Studio I: Branding Concentration|50 IDES/DSGN credits
+IDES-363|Visual Communication Studio I: Interactive Concentration|50 IDES/DSGN credits
+IDES-380|Visual Communication Studio II|50 IDES/DSGN credits
+IDES-381|Visual Communication Studio II: Illustration Concentration|50 IDES/DSGN credits
+IDES-382|Visual Communication Studio II: Branding Concentration|50 IDES/DSGN credits
+IDES-383|Visual Communication Studio II: Interactive Concentration|50 IDES/DSGN credits
+IDES-414|Portfolio Development|75 IDES/DSGN credits
+IDES-490|Industry Practicum|75 IDES/DSGN credits
+VFX-100|Visual Effects Foundation I|
+VFX-101|Visual Effects Foundation II|15 VFX credits
+VFX-110|Digital Compositing I|
+VFX-111|Digital Compositing II|15 VFX credits
+VFX-120|Visual Effects Modelling and Texturing I|
+VFX-121|Visual Effects Modelling and Texturing II|15 VFX credits
+VFX-130|Visual Effects Animation I|
+VFX-131|Visual Effects Animation II|15 VFX credits
+VFX-140|Digital Matte Painting I|
+VFX-200|Visual Effects Lighting and Rendering|27 VFX credits
+VFX-205|Visual Effects Production I|27 VFX credits
+VFX-210|Digital Compositing III|27 VFX credits
+VFX-215|Visual Effects Production II|42 VFX credits
+VFX-220|Visual Effects Demo Reel|42 VFX credits
+VFX-230|Visual Effects Work Project|42 VFX credits
+VFX-231|Visual Effects Animation III|27 VFX credits
+VFX-240|Digital Matte Painting II|27 VFX credits
+WLP-124|Winter Skills|REC 148 as a pre- or corequisite
+WLP-125|Ski Touring|WLP 124 is a prerequisite or co-requisite
+WLP-126|Backpacking|REC 148 and WLP 149 as pre- or corequisites
+WLP-127|Mountaineering|WLP 124 or WLP 126 is a prerequisite or co-requisite
+WLP-128|Rock Climbing I|
+WLP-129|Rock Climbing II|WLP 128 is a prerequisite or co-requisite
+WLP-130|Rock Rescue Clinic|WLP 128 is a prerequisite or co-requisite
+WLP-131|Nordic Skiing I|
+WLP-132|Nordic Skiing II|WLP 131 is a prerequisite or co-requisite
+WLP-133|Canoeing I|
+WLP-134|Canoeing II|WLP 133 is a prerequisite or co-requisite
+WLP-135|Rafting I|
+WLP-136|Rafting II|WLP 135 is a prerequisite or co-requisite
+WLP-137|Sea Kayaking I|REC 148 and WLP 149 as pre-or co-requisites
+WLP-138|Sea Kayaking II|WLP 137
+WLP-139|River Kayaking Clinic|
+WLP-140|River Rescue Clinic|
+WLP-145|Mountain Biking|
+WLP-147|River Kayak I|
+WLP-148|Snow Boarding|
+WLP-149|Overnight Field Leader|REC 148 as a pre- or corequisite
+WLP-151|Interpreting the Wilderness Environment|
+WLP-152|Wilderness Leadership Work Practicum|CMNS 174, REC 156, 157, 163, 169, WLP 153 and 12 WLP credits
+WLP-153|Leadership Fundamentals|
+WLP-164|Winter Leadership|WLP 124
+WLP-166|Introduction to Alpine Travel|REC 148, WLP 126 and WLP 149 as pre- or co-requisites
+WLP-183|Selected Clinics in Outdoor Recreation|
+WLP-184|Select Skills Course in Outdoor Recreation I|
+WLP-185|Select Skills Course in Outdoor Recreation II|
+WLP-224|Advanced Winter Skills|WLP 164
+WGST-100|Introduction to Women's Studies|
+WGST-111|Introduction to Gender Studies|
+WGST-204|Literary Explorations of Gender|
+WGST-208|Women, Gender, and Law|
+WGST-210|Psychological Perspectives on Gender|
+WGST-213|Gender, Politics and Public Policy|
+WGST-215|The Geography of Gender|
+WGST-222|Social Science Perspectives on Gender|
+WGST-224|Gender and Health|
+WGST-230|Women, Art and Gender|
+WGST-240|Gender, Science and Technology|
+WGST-250|Gender and Popular Culture|
+WGST-302|Gender, Work and Labour|45 credits of 100-level or higher coursework
+WGST-320|Feminist Killjoys: Gender and Social Justice Work|45 credits of 100-level or higher coursework
+WGST-330|Feminism, Race, and Anti-Oppression|45 credits of 100-level or higher coursework
+WGST-335|Critical Studies in Masculinity|45 credits of 100-level or higher coursework
+WGST-345|Gender and Global Human Rights|45 credits of 100-level or higher coursework
+WGST-347|Women and Prisons: Gender Confined|45 credits of 100-level or higher coursework
+WGST-360|Contemporary Topics in Womens and Gender Studies|45 credits of 100-level or higher coursework
+WGST-401|Queer Histories, Theories, Cultures and Debates|45 credits of 100-level or higher coursework
+WMPI-100|World Music Private Instruction|
+WMPI-150|World Music Private Instruction Secondary|
+WMPI-200|World Music Private Instruction|WMPI 100
+WMPI-250|World Music Private Instruction Secondary|WMPI 150
+WMPI-300|World Music Private Instruction|WMPI 200
+WMPI-350|World Music Private Instruction Secondary|WMPI 250
+WMPI-400|World Music Private Instruction|WMPI 300
+WMPI-450|World Music Private Instruction Secondary|WMPI 350

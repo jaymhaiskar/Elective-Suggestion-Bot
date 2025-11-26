@@ -30,15 +30,9 @@ MAKE EDIT TO TABLE
 CREATE TABLE courses (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
     course_code TEXT NOT NULL,
-    course_name TEXT NOT NULL,
-    recommended_gpa REAL,
+    course_description TEXT NOT NULL,
+    recommended_gpa REAL
 );
-
-
-Questions for Jason
-
-in the save_to_db function I get the error: c.execute("INSERT INTO students (id, name, gpa) VALUES (?,?)", (student_id, student_name, gpa))
-sqlite3.OperationalError: 2 values for 3 columns
 
 discuss table structure w/ Jason
 - students
@@ -55,5 +49,3 @@ Course codes starting with 3 → 2.4–2.7.
 Course codes starting with 4 → 2.5–3.0. 
 Course codes starting with 5+ → 2.8–3.5.
 
->>>>>>> ac7b1efd47c96ea4c0dcc43057e0e251370101ad
-"# REACT_Elective_Suggestion_Bot" 

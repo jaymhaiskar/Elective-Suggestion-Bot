@@ -1,0 +1,206 @@
+[
+  {
+    "course_code":"CMNS 152",
+    "course_name":"Business Communications Basics",
+    "letter_grade":"TC+",
+    "gpa_points":2.33
+  },
+  {
+    "course_code":"COMP 101",
+    "course_name":"Computers & their Application",
+    "letter_grade":"TB+",
+    "gpa_points":3.33
+  },
+  {
+    "course_code":"COMP 121",
+    "course_name":"Fundamentals of Programming",
+    "letter_grade":"TB-",
+    "gpa_points":2.67
+  },
+  {
+    "course_code":"COMP 125",
+    "course_name":"Fundamentals of Comp. Science",
+    "letter_grade":"TC-",
+    "gpa_points":1.67
+  },
+  {
+    "course_code":"COMP 126",
+    "course_name":"Principles of Software Design",
+    "letter_grade":"TB-",
+    "gpa_points":2.67
+  },
+  {
+    "course_code":"COMP 165",
+    "course_name":"Multimedia and the Internet",
+    "letter_grade":"TA-",
+    "gpa_points":3.67
+  },
+  {
+    "course_code":"COMP 213",
+    "course_name":"Intro to Software Engineering",
+    "letter_grade":"TB-",
+    "gpa_points":2.67
+  },
+  {
+    "course_code":"ENGL 103",
+    "course_name":"Studies in Contemp Literature",
+    "letter_grade":"TB",
+    "gpa_points":3.0
+  },
+  {
+    "course_code":"MATH 116",
+    "course_name":"Calculus I",
+    "letter_grade":"TC+",
+    "gpa_points":2.33
+  },
+  {
+    "course_code":"MATH 126",
+    "course_name":"Calculus II",
+    "letter_grade":"TC+",
+    "gpa_points":2.33
+  },
+  {
+    "course_code":"MATH 152",
+    "course_name":"Linear Alg. & Diff. Equat.",
+    "letter_grade":"TC",
+    "gpa_points":2.0
+  },
+  {
+    "course_code":"SPAN 100",
+    "course_name":"Beginning Spanish I",
+    "letter_grade":"TA",
+    "gpa_points":4.0
+  },
+  {
+    "course_code":"BIOL 109",
+    "course_name":"01 Introductory Biology",
+    "letter_grade":"B-",
+    "gpa_points":2.67
+  },
+  {
+    "course_code":"COMP 115",
+    "course_name":"01 Learn to Code",
+    "letter_grade":"A+",
+    "gpa_points":4.33
+  },
+  {
+    "course_code":"MATH 124",
+    "course_name":"01 Discrete Mathematics I",
+    "letter_grade":"D",
+    "gpa_points":1.0
+  },
+  {
+    "course_code":"STAT 101",
+    "course_name":"01 Introduction to Statistics",
+    "letter_grade":"B+",
+    "gpa_points":3.33
+  },
+  {
+    "course_code":"COMP 215",
+    "course_name":"01 Introduction to",
+    "letter_grade":"A-",
+    "gpa_points":3.67
+  },
+  {
+    "course_code":"COMP 301",
+    "course_name":"01 Computing Technologies in a",
+    "letter_grade":"A",
+    "gpa_points":4.0
+  },
+  {
+    "course_code":"MATH 336",
+    "course_name":"01 Applied Graph Theory",
+    "letter_grade":"A-",
+    "gpa_points":3.67
+  },
+  {
+    "course_code":"STAT 310",
+    "course_name":"01 Modelling and Data Analysis",
+    "letter_grade":"A",
+    "gpa_points":4.0
+  },
+  {
+    "course_code":"ECON 110",
+    "course_name":"01 Foundations of Economics",
+    "letter_grade":"A-",
+    "gpa_points":3.67
+  },
+  {
+    "course_code":"INTS 110",
+    "course_name":"01 Making Change: Regional",
+    "letter_grade":"B",
+    "gpa_points":3.0
+  },
+  {
+    "course_code":"LING 202",
+    "course_name":"01 English Etymology",
+    "letter_grade":"B",
+    "gpa_points":3.0
+  },
+  {
+    "course_code":"COMP 330",
+    "course_name":"01 Data Wrangling: Scripting for",
+    "letter_grade":"A+",
+    "gpa_points":4.33
+  },
+  {
+    "course_code":"ENGL 100",
+    "course_name":"01 University Writing Strategies",
+    "letter_grade":"A-",
+    "gpa_points":3.67
+  },
+  {
+    "course_code":"GEOG 355",
+    "course_name":"01 Urban Ecology",
+    "letter_grade":"B+",
+    "gpa_points":3.33
+  },
+  {
+    "course_code":"PHYS 112",
+    "course_name":"01 Physics for Life Sciences I",
+    "letter_grade":"A",
+    "gpa_points":4.0
+  },
+  {
+    "course_code":"ASTR 300",
+    "course_name":"01 The Search for Life in the",
+    "letter_grade":"A-",
+    "gpa_points":3.67
+  },
+  {
+    "course_code":"CHEM 110",
+    "course_name":"01 Bonding and Structure",
+    "letter_grade":"W",
+    "gpa_points":0.0
+  },
+  {
+    "course_code":"COMP 320",
+    "course_name":"01 Database Technologies",
+    "letter_grade":"A",
+    "gpa_points":4.0
+  },
+  {
+    "course_code":"FILM 323",
+    "course_name":"01 Queer Cinema",
+    "letter_grade":"A+",
+    "gpa_points":4.33
+  },
+  {
+    "course_code":"ECON 342",
+    "course_name":"01 Economic Growth",
+    "letter_grade":"A",
+    "gpa_points":4.0
+  },
+  {
+    "course_code":"HIST 333",
+    "course_name":"01 Slavery and Antislavery",
+    "letter_grade":"A-",
+    "gpa_points":3.67
+  },
+  {
+    "course_code":"SOC 301",
+    "course_name":"01 Social Inequality",
+    "letter_grade":"A+",
+    "gpa_points":4.33
+  }
+]
